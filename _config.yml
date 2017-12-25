@@ -25,7 +25,7 @@ description: Astrosimulator
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
-  Projects: "projects"
+  Projects:
     - The 300: "the300"
     - The large-scale environments: "LSE"
   Publications: "publications"
