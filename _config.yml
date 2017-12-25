@@ -25,10 +25,10 @@ description: Astrosimulator
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
-  Projects:
-    - The 300: ""
-    - The large-scale environments: ""
-  Publications: ""
+  Projects: "projects"
+    - The 300: "the300"
+    - The large-scale environments: "LSE"
+  Publications: "publications"
   Teaching: ""
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
