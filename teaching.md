@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Teaching
-subtitle: Lists of classes
+subtitle: Teaching and Supervising
 ---
