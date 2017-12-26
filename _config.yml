@@ -28,6 +28,10 @@ navbar-links:
   Projects:
     - The 300: "the300"
     - The large-scale environments: "LSE"
+    - MACRO: "MACRO"
+    - nIFTy: "nIFTy"
+    - ELUCID: "ELUCID"
+    - DEMG: "DEMG"
   Publications: "publications"
   Teaching: "teaching"
 #  Resources:
