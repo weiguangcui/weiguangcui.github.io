@@ -3,6 +3,13 @@ layout: page
 title: Publications
 ---
 
+<div style="text-align:center">
+<strong>Links for my publications:</strong> &nbsp;&nbsp;
+<a href="https://scholar.google.es/citations?user=c4BRA2YAAAAJ&hl=en" role="button" class="btn btn-primary">Google Scholar</a>
+<a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Mine&libid=5452e99805" role="button" class="btn btn-primary">ADS library</a>
+<a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Myfirst&libid=5452e99805" role="button" class="btn btn-primary">First-author publications</a>
+</div>
+
 # Journal Publications (in reversed chronological order):
 
 0. [ELUCID V. Lighting dark matter halos with galaxies](http://adsabs.harvard.edu/abs/2017arXiv171200883Y) Yang, Xiaohu; Zhang, Youcai; Wang, Huiyuan; Liu, Chengze; Lu, Tianhuan; Li, Shijie; Shi, Feng; Jing, Y. P.; Mo, H. J.; van den Bosch, Frank C.; Kang, Xi; **Cui, Weiguang**; and et al. 2017, ApJ submitted
