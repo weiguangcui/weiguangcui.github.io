@@ -20,6 +20,7 @@ title: Weiguang Cui's website
 description: Astrosimulator
 
 # --- Navigation bar options --- #
+avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
@@ -42,7 +43,6 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -180,60 +180,60 @@ exclude:
   - README.md
   - Vagrantfile
 
-# prose.io config
-# prose:
-#   rooturl: '_posts'
-#   media: 'img'
-#   ignore:
-#     - 404.html
-#     - LICENSE
-#     - feed.xml
-#     - _config.yml
-#     - /_layouts
-#     - /_includes
-#     - /css
-#     - /img
-#     - /js
-#   metadata:
-#     _posts:
-#       - name: "layout"
-#         field:
-#           element: "hidden"
-#           value: "post"
-#       - name: "title"
-#         field:
-#           element: "text"
-#           label: "Post title"
-#           placeholder: "Title"
-#           alterable: true
-#       - name: "subtitle"
-#         field:
-#           element: "textarea"
-#           label: "Subtitle"
-#           placeholder: "A description of your post."
-#           alterable: true
-#       - name: "date"
-#         field:
-#           element: "text"
-#           label: "Date"
-#           help: "Enter date of post."
-#           placeholder: "yyyy-mm-dd"
-#           alterable: true
-#       - name: "image"
-#         field:
-#           element: "text"
-#           label: "Image"
-#           help: "Add a thumbnail image to your post."
-#           placeholder: "Thumbnail"
-#           alterable: true
-#       - name: "published"
-#         field:
-#           element: "checkbox"
-#           label: "Publish"
-#           help: "Check to publish post, uncheck to hide."
+prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
 
-plugins:
-  - jekyll-paginate
+# plugins:
+#   - jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
