@@ -10,7 +10,7 @@ I am a theoretical astronomer, mainly work with computational astronomy/astrophy
 
 I am currently a post-doc at Universidad Autonoma de Madrid. You can also find my publications in [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Mine&libid=5452e99805), my [Google Scholar](https://scholar.google.es/citations?user=c4BRA2YAAAAJ&hl=en) page or the [publications page](https://weiguangcui.github.io/publications/) of this site.
 
-Please feel free to contract me for any question or suggestion.
+Please feel free to contract me for any questions or suggestions.
 
 <!-- My name is Inigo Montoya. I have the following qualities:
 
