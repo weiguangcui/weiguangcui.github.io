@@ -356,6 +356,7 @@ footer .theme-by {
   /* width: 100%; */
   width: auto;
   height: 100%;
+  padding-top: 100%;
   opacity: 0;
   background: no-repeat center center;
   -webkit-background-size: cover;
@@ -459,6 +460,7 @@ footer .theme-by {
     /* width: 100%; */
     width: auto;
     height: 220px;
+    padding-top: 100%;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
@@ -470,7 +472,9 @@ footer .theme-by {
 }
 @media only screen and (max-width: 325px) {
   .intro-header.big-img {
+    width: auto;
     height: 200px;
+    padding-top: 100%;
   }
 }
 
