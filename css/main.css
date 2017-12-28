@@ -353,7 +353,7 @@ footer .theme-by {
 }
 .intro-header.big-img  .big-img-transition {
   position: absolute;
-  /* width: 100%; */
+  width: 100%;
   height: 100%;
   opacity: 0;
   background: no-repeat center center;
@@ -455,8 +455,9 @@ footer .theme-by {
     display: block;
   }
   .intro-header.big-img {
-    width: 100%;
-    height: 220px;
+    height: 100%;
+    /* width: 100%; */
+    /* height: 220px; */
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
