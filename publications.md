@@ -6,7 +6,7 @@ title: Publications
 <div style="text-align:center">
 <strong>Links for my publications:</strong> &nbsp;&nbsp;
 <a href="https://scholar.google.es/citations?user=c4BRA2YAAAAJ&hl=en" role="button" class="btn btn-primary">Google Scholar</a>
-<a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Mine&libid=5452e99805" role="button" class="btn btn-primary">ADS library</a>
+<a href="https://ui.adsabs.harvard.edu/#/public-libraries/nF6F8tB_QD-nGazs-TmUBQ" role="button" class="btn btn-primary">ADS library</a>
 <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Myfirst&libid=5452e99805" role="button" class="btn btn-primary">First-author publications</a>
 </div>
 
