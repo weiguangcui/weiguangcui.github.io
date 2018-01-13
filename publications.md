@@ -22,7 +22,7 @@ title: Publications
 
 0. [Cosmic CARNage I: on the calibration of galaxy formation models](http://adsabs.harvard.edu/abs/2017arXiv171206420K) Knebe, A.; Pearce, F.~R.; Gonzalez-Perez, V.; Thomas, P.~A.; Benson, A.; Asquith, R.; Blaizot, J.; Bower, R.; Carretero, J.; Castander, F.~J.; Cattaneo, A.; Cora, S~A.; Croton, D.; **Cui, Weiguang**, and et al. 2017, MNRAS accepted for publication.
 
-0. [ELUCID IV: Galaxy Quenching and its Relation to Halo Mass, Environment, and Assembly Bias.](http://adsabs.harvard.edu/abs/2017arXiv170709002W) Wang, H.; Mo, H.; Chen, S.; Yang, Y.; Yang, X.; Wang, E.; van den Bosch, F.~C.; Jing, Y.; Kang, X.; Lin, W.; Lim, S.~H.; Huang, S.; Lu, Y.; Li, S.; **Cui, Weiguang**; and et al. 2017, ApJ accepted for publication.
+0. [ELUCID IV: Galaxy Quenching and its Relation to Halo Mass, Environment, and Assembly Bias.](http://adsabs.harvard.edu/abs/2017arXiv170709002W) Wang, H.; Mo, H.; Chen, S.; Yang, Y.; Yang, X.; Wang, E.; van den Bosch, F.~C.; Jing, Y.; Kang, X.; Lin, W.; Lim, S.~H.; Huang, S.; Lu, Y.; Li, S.; **Cui, Weiguang**; and et al. 2018, ApJ, 852, 31.
 
 0. [The large-scale environment from cosmological simulations I: The baryonic cosmic web](http://adsabs.harvard.edu/abs/2018MNRAS.473...68C) ( *my large-scale environment project paper I* ) **Cui, Weiguang**; Knebe, Alexander; Yepes, Gustavo; Yang, Xiaohu; Borgani, Stefano; Kang, Xi; Power, Chris; Staveley-Smith, Lister, 2018, MNRAS, 473, 68.
 

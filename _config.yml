@@ -121,10 +121,11 @@ url-pretty: "http://weiguangcui.github.io"  # eg. "deanattali.com/beautiful-jeky
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-57531009-1"
+google_analytics: "UA-112434502-1"
+# google_analytics: "UA-57531009-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-PH34DVS"
 
 # Facebook App ID
 # fb_app_id: ""
