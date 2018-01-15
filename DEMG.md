@@ -1,5 +1,7 @@
 ---
 layout: page
-title: Project
-subtitle: under construction
+title: DEMG
+subtitle: Understand what $\Lambda$ is
 ---
+
+under construction
