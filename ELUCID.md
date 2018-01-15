@@ -8,17 +8,11 @@ Simulating the evolution of the local universe is important for studying galaxie
 A list of publications:
 
 0.  [Reconstructing the Initial Density Field of the Local Universe: Method and Test with Mock Catalogs.](http://adsabs.harvard.edu/abs/2013ApJ...772...63W)
-
 0.  [ELUCID - Exploring the Local Universe with reConstructed Initial Density field I: Hamiltonian Markov Chain Monte Carlo Method with Particle Mesh Dynamics.](http://adsabs.harvard.edu/abs/2014ApJ...794...94W)
-
 0.  [ELUCID—Exploring the Local Universe with the reConstructed Initial Density Field. II. Reconstruction Diagnostics, Applied to Numerical Halo Catalogs.](http://adsabs.harvard.edu/abs/2017ApJ...841...55T)
-
 0.  [ELUCID - Exploring the Local Universe with reConstructed Initial Density field III: Constrained Simulation in the SDSS Volume.](http://adsabs.harvard.edu/abs/2016ApJ...831..164W)
-
 0.  [ELUCID IV: Galaxy Quenching and its Relation to Halo Mass, Environment, and Assembly Bias](http://adsabs.harvard.edu/abs/2018ApJ...852...31W)
-
 0.  [ELUCID V. Lighting dark matter halos with galaxies](http://adsabs.harvard.edu/abs/2017arXiv171200883Y)
-
 0.  [Full-sky ray-tracing simulation of weak lensing using ELUCID simulations: exploring galaxy intrinsic alignment and cosmic shear correlations](http://adsabs.harvard.edu/abs/2018arXiv180103941W)
 
 
