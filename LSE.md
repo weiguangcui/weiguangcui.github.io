@@ -8,6 +8,6 @@ With this project, we are going to investigate the properties of these large-sca
 
 The first paper has been published:
 
-    [The large-scale environment from cosmological simulations - I. The baryonic cosmic web](http://adsabs.harvard.edu/abs/2018MNRAS.473...68C)
+[The large-scale environment from cosmological simulations - I. The baryonic cosmic web](http://adsabs.harvard.edu/abs/2018MNRAS.473...68C)
 
 Another two paper focusing on the properties and galaxies are in final preparation.

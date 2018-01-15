@@ -6,11 +6,15 @@ subtitle: A comparison between different simulation codes.
 
 We have already 5 papers are published:
 
-  0.[nIFTy galaxy cluster simulations - I. Dark matter and non-radiative models](http://adsabs.harvard.edu/abs/2016MNRAS.457.4063S)
-  0.[nIFTy galaxy cluster simulations - II. Radiative models](http://adsabs.harvard.edu/abs/2016MNRAS.459.2973S)
-  0.[nIFTY galaxy cluster simulations - III. The similarity and diversity of galaxies and subhaloes](http://adsabs.harvard.edu/abs/2016MNRAS.458.1096E)
-  0.[nIFTy galaxy cluster simulations - IV. Quantifying the influence of baryons on halo properties](http://adsabs.harvard.edu/abs/2016MNRAS.458.4052C)
-  0.[nIFTy galaxy cluster simulations - V. Investigation of the cluster infall region](http://adsabs.harvard.edu/abs/2017MNRAS.464.2027A)
+0.  [nIFTy galaxy cluster simulations - I. Dark matter and non-radiative models](http://adsabs.harvard.edu/abs/2016MNRAS.457.4063S)
+
+0.  [nIFTy galaxy cluster simulations - II. Radiative models](http://adsabs.harvard.edu/abs/2016MNRAS.459.2973S)
+
+0.  [nIFTY galaxy cluster simulations - III. The similarity and diversity of galaxies and subhaloes](http://adsabs.harvard.edu/abs/2016MNRAS.458.1096E)
+
+0.  [nIFTy galaxy cluster simulations - IV. Quantifying the influence of baryons on halo properties](http://adsabs.harvard.edu/abs/2016MNRAS.458.4052C)
+
+0.  [nIFTy galaxy cluster simulations - V. Investigation of the cluster infall region](http://adsabs.harvard.edu/abs/2017MNRAS.464.2027A)
 
 Movies:
 
