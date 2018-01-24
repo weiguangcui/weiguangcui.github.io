@@ -35,6 +35,8 @@ navbar-links:
     - DEMG: "DEMG"
   Publications: "publications"
   Teaching: "teaching"
+  Posts: "post"
+
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -195,46 +197,47 @@ prose:
     - /css
     - /img
     - /js
-  # metadata:
-  #   _posts:
-  #     - name: "layout"
-  #       field:
-  #         element: "hidden"
-  #         value: "post"
-  #     - name: "title"
-  #       field:
-  #         element: "text"
-  #         label: "Post title"
-  #         placeholder: "Title"
-  #         alterable: true
-  #     - name: "subtitle"
-  #       field:
-  #         element: "textarea"
-  #         label: "Subtitle"
-  #         placeholder: "A description of your post."
-  #         alterable: true
-  #     - name: "date"
-  #       field:
-  #         element: "text"
-  #         label: "Date"
-  #         help: "Enter date of post."
-  #         placeholder: "yyyy-mm-dd"
-  #         alterable: true
-  #     - name: "image"
-  #       field:
-  #         element: "text"
-  #         label: "Image"
-  #         help: "Add a thumbnail image to your post."
-  #         placeholder: "Thumbnail"
-  #         alterable: true
-  #     - name: "published"
-  #       field:
-  #         element: "checkbox"
-  #         label: "Publish"
-  #         help: "Check to publish post, uncheck to hide."
 
-# plugins:
-#   - jekyll-paginate
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
+
+plugins:
+  - jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
