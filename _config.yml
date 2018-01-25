@@ -35,7 +35,7 @@ navbar-links:
     - DEMG: "DEMG"
   Publications: "publications"
   Teaching: "teaching"
-  Posts: "post"
+  Posts: "posts"
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
