@@ -1,3 +1,9 @@
+---
+layout: post
+title: GNU screen copy mode
+tags: [screen]
+---
+
 Active gnu screen copy mode:
 'CTRL-A ['
 
