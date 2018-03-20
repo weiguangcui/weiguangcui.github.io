@@ -16,13 +16,13 @@ title: Publications
 
 0.  [ELUCID V. Lighting dark matter halos with galaxies](http://adsabs.harvard.edu/abs/2017arXiv171200883Y) Yang, Xiaohu; Zhang, Youcai; Wang, Huiyuan; Liu, Chengze; Lu, Tianhuan; Li, Shijie; Shi, Feng; Jing, Y. P.; Mo, H. J.; van den Bosch, Frank C.; Kang, Xi; **Cui, Weiguang**; and et al. 2017, ApJ submitted
 
-0.  [Full-sky ray tracing simulation of weak lensing: investigation on galaxy intrinsic alignment and shear correlation function.](http://adsabs.harvard.edu/abs/2018arXiv180103941W) Wei, C.; Li, G.; Kang, X.; Luo, Y.; Xia, Q.; Wang, P.; Yang, X.; Wang, H.; Jing, Y.; Mo, H.; Lin, W.; Wang, Y.; Li, S.; Lu, Y.; Zhang, Y.; Lim, S.H.; Tweed, D.; **Cui, Weiguang**. 2017, ApJ accepted.
+0.  [Full-sky ray tracing simulation of weak lensing: investigation on galaxy intrinsic alignment and shear correlation function.](http://adsabs.harvard.edu/abs/2018ApJ...853...25W) Wei, C.; Li, G.; Kang, X.; Luo, Y.; Xia, Q.; Wang, P.; Yang, X.; Wang, H.; Jing, Y.; Mo, H.; Lin, W.; Wang, Y.; Li, S.; Lu, Y.; Zhang, Y.; Lim, S.H.; Tweed, D.; **Cui, Weiguang**. 2017, ApJ 853, 25.
 
 0.  Observation effects on the intra-cluster light fraction with statistical analysis. Tang, Lin; Lin, WeiPeng; **Cui, Weiguang**; Kang, Xi; Wang, Yang; Contini, E.; Yu, Yu. 2017, ApJ submitted.
 
-0.  [Cosmic CARNage I: on the calibration of galaxy formation models](http://adsabs.harvard.edu/abs/2017arXiv171206420K) Knebe, A.; Pearce, F.~R.; Gonzalez-Perez, V.; Thomas, P.~A.; Benson, A.; Asquith, R.; Blaizot, J.; Bower, R.; Carretero, J.; Castander, F.~J.; Cattaneo, A.; Cora, S~A.; Croton, D.; **Cui, Weiguang**, and et al. 2017, MNRAS accepted for publication.
+0.  [Cosmic CARNage I: on the calibration of galaxy formation models](http://adsabs.harvard.edu/abs/2018MNRAS.475.2936K) Knebe, A.; Pearce, F.~R.; Gonzalez-Perez, V.; Thomas, P.~A.; Benson, A.; Asquith, R.; Blaizot, J.; Bower, R.; Carretero, J.; Castander, F.~J.; Cattaneo, A.; Cora, S~A.; Croton, D.; **Cui, Weiguang**, and et al. 2017, MNRAS 475, 2936.
 
-0.  [ELUCID IV: Galaxy Quenching and its Relation to Halo Mass, Environment, and Assembly Bias.](http://adsabs.harvard.edu/abs/2017arXiv170709002W) Wang, H.; Mo, H.; Chen, S.; Yang, Y.; Yang, X.; Wang, E.; van den Bosch, F.~C.; Jing, Y.; Kang, X.; Lin, W.; Lim, S.~H.; Huang, S.; Lu, Y.; Li, S.; **Cui, Weiguang**; and et al. 2018, ApJ, 852, 31.
+0.  [ELUCID IV: Galaxy Quenching and its Relation to Halo Mass, Environment, and Assembly Bias.](http://adsabs.harvard.edu/abs/2018ApJ...852...31W) Wang, H.; Mo, H.; Chen, S.; Yang, Y.; Yang, X.; Wang, E.; van den Bosch, F.~C.; Jing, Y.; Kang, X.; Lin, W.; Lim, S.~H.; Huang, S.; Lu, Y.; Li, S.; **Cui, Weiguang**; and et al. 2018, ApJ, 852, 31.
 
 0.  [The large-scale environment from cosmological simulations I: The baryonic cosmic web](http://adsabs.harvard.edu/abs/2018MNRAS.473...68C) ( *my large-scale environment project paper I* ) **Cui, Weiguang**; Knebe, Alexander; Yepes, Gustavo; Yang, Xiaohu; Borgani, Stefano; Kang, Xi; Power, Chris; Staveley-Smith, Lister, 2018, MNRAS, 473, 68.
 
@@ -30,7 +30,7 @@ title: Publications
 
 0.  [ELUCID – Exploring the Local Universe with the reConstructed Initial Density field II: Reconstruction Diagnostics, Applied to Numerical Halo Catalogs](http://adsabs.harvard.edu/abs/2017ApJ...841...55T) Tweed, D.; Yang, X.; Wang, H.; **Cui, Weiguang**; Zhang, Y.; Li, S.; Jing, Y.P.; Mo, H.J., 2017, ApJ, 841, 55.
 
-0.  [On the dynamical state of galaxy clusters: insights from cosmological simulations - II}](http://adsabs.harvard.edu/abs/2017MNRAS.464.2502C) ( *my MACRO project paper II* ) **Cui, Weiguang**; Power, Chris; Borgani, Stefano; Knebe, Alexander; Murante, Giuseppe; Lewis, Geraint F. and Poole, Gregory B., 2017, MNRAS, 464, 2502C.
+0.  [On the dynamical state of galaxy clusters: insights from cosmological simulations - II](http://adsabs.harvard.edu/abs/2017MNRAS.464.2502C) ( *my MACRO project paper II* ) **Cui, Weiguang**; Power, Chris; Borgani, Stefano; Knebe, Alexander; Murante, Giuseppe; Lewis, Geraint F. and Poole, Gregory B., 2017, MNRAS, 464, 2502C.
 
 0.  [nIFTy galaxy cluster simulations V: Comparison of the Cluster Infall Region](http://adsabs.harvard.edu/abs/2017MNRAS.464.2027A) Arthur, Jake; Pearce, Frazer R.; Gray, Meghan E.; Elahi, Pascal J.; Knebe, Alexander; Beck, Alexander M.; **Cui, Weiguang**, and 15 coauthors, 2017, MNRAS, 464, 2027A
 
