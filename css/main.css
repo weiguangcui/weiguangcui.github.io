@@ -357,7 +357,7 @@ footer .theme-by {
   /* width: 100%; */
   width: auto;
   height: 100%;
-  opacity: 0;
+  opacity: 50%;
   background: no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
