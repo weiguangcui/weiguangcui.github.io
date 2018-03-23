@@ -355,7 +355,7 @@ footer .theme-by {
 .intro-header.big-img  .big-img-transition {
   position: absolute;
   /* width: 100%; */
-  width: auto;
+  width: 50%;
   height: 100%;
   opacity: 50%;
   background: no-repeat center center;
