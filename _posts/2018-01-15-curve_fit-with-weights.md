@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `curve_fit` with weights!
+title: curve_fit with weights!
 tags: [Python, scipy]
 ---
 

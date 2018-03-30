@@ -35,6 +35,7 @@ navbar-links:
     - DEMG: "DEMG"
   Publications: "publications"
   Teaching: "teaching"
+  Blog: "posts/index.html"
 #  Posts: "posts"
 
 #  Resources:
@@ -147,7 +148,8 @@ timezone: "Spain/Madrid"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 2
+# paginate_path: "posts/page:num/"
 
 kramdown:
   input: GFM
@@ -156,18 +158,19 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
+      path: ""  # all files
+    values:
+      layout: "page"
+      show-avatar: true
+  -
+    scope:
+      path: "blog"
       type: "posts"
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # all files
-    values:
-      layout: "page"
-      show-avatar: true
+      social-share: true  # add social media sharing buttons to all blog posts
+      show-avatar: false
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
