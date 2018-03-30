@@ -58,16 +58,16 @@ subtitle: Collections, tips and useful links/stuffs
 </ul>
 
 <ul>
-  {% if site.total_pages > 1 %}
+  {% if paginator.total_pages > 1 %}
   <ul class="pager main-pager">
-    {% if site.previous_page %}
+    {% if paginator.previous_page %}
     <li class="previous">
-      <a href="{{ site.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
     </li>
     {% endif %}
-    {% if site.next_page %}
+    {% if paginator.next_page %}
     <li class="next">
-      <a href="{{ site.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
     </li>
     {% endif %}
   </ul>
