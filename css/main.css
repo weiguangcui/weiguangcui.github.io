@@ -132,7 +132,7 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: #0085a1;  /* {{ site.hover-col }}; */
-  background-color: #f8f8f8  /*{{ site.hover-col }};*/
+  background-color: #919191  /*{{ site.hover-col }};*/
 }
 
 .navbar-custom .navbar-brand-logo {
