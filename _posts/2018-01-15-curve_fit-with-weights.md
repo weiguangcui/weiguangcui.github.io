@@ -1,6 +1,7 @@
 ---
 layout: post
 title: curve_fit with weights!
+date: 2018-01-15 16:16:01 -0600
 tags: [Python, scipy]
 ---
 
@@ -62,7 +63,7 @@ pylab.legend(loc='lower center')
 pylab.show()
 ```
 
-![curve_fit]({{ "lorentazian-fit.png" | absolute_url }})
+![curve_fit]({{ "/img/postimg/lorentazian-fit.jpg" | absolute_url }})
 
 As the figure above shows, the unweighted fit is seen to be thrown off by the noisy region. Data in this region are given a lower weight in the weighted fit and so the parameters are closer to their true values and the fit better. The output is:
 
