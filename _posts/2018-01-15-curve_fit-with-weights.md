@@ -13,7 +13,7 @@ $f(x) = \frac{A \gamma^2}{\gamma^2 + (x-x_0)^2},$
 
 to some artificial noisy data. The fit parameters are $A, \gamma$ and $x_0$. The noise is such that a region of the data close to the line centre is much noisier than the rest.
 
-```
+```python
 import numpy as np
 from scipy.optimize import curve_fit
 import pylab
@@ -67,7 +67,7 @@ pylab.show()
 
 As the figure above shows, the unweighted fit is seen to be thrown off by the noisy region. Data in this region are given a lower weight in the weighted fit and so the parameters are closer to their true values and the fit better. The output is:
 
-```
+```python
 Unweighted fit parameters: [ 11.61282984   3.64158981   3.93175714]
 Covariance matrix:
 [[ 0.0686249  -0.00063262  0.00231442]
