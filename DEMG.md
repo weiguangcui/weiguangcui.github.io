@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DEMG
-subtitle: Understand what $\Lambda$ is
+subtitle: Understand the different model descriptions for the Universe
 ---
 
 under construction
