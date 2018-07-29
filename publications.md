@@ -14,11 +14,13 @@ title: Publications
 
 #### Journal Publications (in reversed chronological order):
 
-0.  [ELUCID V. Lighting dark matter halos with galaxies](http://adsabs.harvard.edu/abs/2017arXiv171200883Y) Yang, Xiaohu; Zhang, Youcai; Wang, Huiyuan; Liu, Chengze; Lu, Tianhuan; Li, Shijie; Shi, Feng; Jing, Y. P.; Mo, H. J.; van den Bosch, Frank C.; Kang, Xi; **Cui, Weiguang**; and et al. 2017, ApJ accepted.
+0.  [Kinetic Sunyaev-Zel'dovich effect in rotating galaxy clusters from MUSIC simulations](http://adsabs.harvard.edu/abs/2018MNRAS.479.4028B) Baldi, Anna Silvia; De Petris, Marco; Sembolini, Federico; Yepes, Gustavo; **Cui, Weiguang**; Lamagna, Luca. 2018, MNRAS, 479, 4028.
 
-0.  [Full-sky ray tracing simulation of weak lensing: investigation on galaxy intrinsic alignment and shear correlation function.](http://adsabs.harvard.edu/abs/2018ApJ...853...25W) Wei, C.; Li, G.; Kang, X.; Luo, Y.; Xia, Q.; Wang, P.; Yang, X.; Wang, H.; Jing, Y.; Mo, H.; Lin, W.; Wang, Y.; Li, S.; Lu, Y.; Zhang, Y.; Lim, S.H.; Tweed, D.; **Cui, Weiguang**. 2018, ApJ 853, 25.
+0.  [ELUCID V. Lighting dark matter halos with galaxies](http://adsabs.harvard.edu/abs/2018ApJ...860...30Y) Yang, Xiaohu; Zhang, Youcai; Wang, Huiyuan; Liu, Chengze; Lu, Tianhuan; Li, Shijie; Shi, Feng; Jing, Y. P.; Mo, H. J.; van den Bosch, Frank C.; Kang, Xi; **Cui, Weiguang**; and et al. 2017, ApJ, 860, 30.
 
-0.  [An Investigation of intra-cluster light evolution using cosmological hydro-dynamical simulations](http://adsabs.harvard.edu/abs/2018arXiv180403335T) Tang, Lin; Lin, WeiPeng; **Cui, Weiguang**; Kang, Xi; Wang, Yang; Contini, Emanuele; Yu, Yu. 2018, ApJ accepted.
+0.  [Full-sky ray tracing simulation of weak lensing: investigation on galaxy intrinsic alignment and shear correlation function.](http://adsabs.harvard.edu/abs/2018ApJ...853...25W) Wei, C.; Li, G.; Kang, X.; Luo, Y.; Xia, Q.; Wang, P.; Yang, X.; Wang, H.; Jing, Y.; Mo, H.; Lin, W.; Wang, Y.; Li, S.; Lu, Y.; Zhang, Y.; Lim, S.H.; Tweed, D.; **Cui, Weiguang**. 2018, ApJ, 853, 25.
+
+0.  [An Investigation of intra-cluster light evolution using cosmological hydro-dynamical simulations](http://adsabs.harvard.edu/abs/2018ApJ...859...85T) Tang, Lin; Lin, WeiPeng; **Cui, Weiguang**; Kang, Xi; Wang, Yang; Contini, Emanuele; Yu, Yu. 2018, ApJ, 859, 85.
 
 0.  [Cosmic CARNage I: on the calibration of galaxy formation models](http://adsabs.harvard.edu/abs/2018MNRAS.475.2936K) Knebe, A.; Pearce, F.~R.; Gonzalez-Perez, V.; Thomas, P.~A.; Benson, A.; Asquith, R.; Blaizot, J.; Bower, R.; Carretero, J.; Castander, F.~J.; Cattaneo, A.; Cora, S~A.; Croton, D.; **Cui, Weiguang**, and et al. 2018, MNRAS 475, 2936.
 
