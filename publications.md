@@ -14,6 +14,8 @@ title: Publications
 
 #### Journal Publications (in reversed chronological order):
 
+0.  [The Three Hundred project: a large catalogue of theoretically modelled galaxy clusters for cosmological and astrophysical applications](http://adsabs.harvard.edu/abs/2018MNRAS.480.2898C) **Cui, Weiguang**; and 36 coauthors. MNRAS, 480, 2898
+
 0.  [Kinetic Sunyaev-Zel'dovich effect in rotating galaxy clusters from MUSIC simulations](http://adsabs.harvard.edu/abs/2018MNRAS.479.4028B) Baldi, Anna Silvia; De Petris, Marco; Sembolini, Federico; Yepes, Gustavo; **Cui, Weiguang**; Lamagna, Luca. 2018, MNRAS, 479, 4028.
 
 0.  [ELUCID V. Lighting dark matter halos with galaxies](http://adsabs.harvard.edu/abs/2018ApJ...860...30Y) Yang, Xiaohu; Zhang, Youcai; Wang, Huiyuan; Liu, Chengze; Lu, Tianhuan; Li, Shijie; Shi, Feng; Jing, Y. P.; Mo, H. J.; van den Bosch, Frank C.; Kang, Xi; **Cui, Weiguang**; and et al. 2017, ApJ, 860, 30.
