@@ -70,10 +70,10 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Weiguang Cui
-  email: "cuiweiguang@gmail.com"
-  facebook: cuiweiguang  # eg. daattali
-  github: weiguangcui    # eg. daattali
-  twitter: cuiweiguang   # eg. daattali
+  # email: "cuiweiguang@gmail.com"
+  # facebook: cuiweiguang  # eg. daattali
+  # github: weiguangcui    # eg. daattali
+  # twitter: cuiweiguang   # eg. daattali
   # reddit: yourname    # eg. daattali
   # google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   # linkedin: weiguangcui  # eg. daattali
@@ -91,7 +91,7 @@ author:
 # Select which links to show in the footer
 # footer-links-active:
 social-network-links:
-  rss: true
+  rss: false
   facebook: cuiweiguang
   email: cuiweiguang@gmail.com
   twitter: cuiweiguang
