@@ -89,7 +89,6 @@ author:
   # yelp: yourname      # eg. daattali
 
 # Select which links to show in the footer
-# footer-links-active:
 social-network-links:
   # rss: false
   email: cuiweiguang@gmail.com
@@ -165,9 +164,10 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+      social-share: true
   -
     scope:
-      path: "blog"
+      path: ""
       type: "posts"
     values:
       layout: "post"
