@@ -91,11 +91,11 @@ author:
 # Select which links to show in the footer
 # footer-links-active:
 social-network-links:
-  rss: false
-  facebook: cuiweiguang
+  # rss: false
   email: cuiweiguang@gmail.com
-  twitter: cuiweiguang
   github: weiguangcui
+  twitter: cuiweiguang
+  facebook: cuiweiguang
   # google-plus: false
   # github: true
   # reddit: false
