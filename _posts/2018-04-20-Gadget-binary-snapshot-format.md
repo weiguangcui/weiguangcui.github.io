@@ -76,4 +76,4 @@ the star/BH particle age (header block name : 'AGE ')
 
 There will be more data blocks with different names, ask your simulator for more information.
 
-<a id="note1" href="#note1ref"><sup>1</sup></a>This post is originally wrote on 20 Apr. 2018 and updated later in 31 Aug. 2018.
+<a id="note1" href="#note1ref" font size="3"><sup>1</sup></a>This post is originally wrote on 20 Apr. 2018 and updated later in 31 Aug. 2018.
