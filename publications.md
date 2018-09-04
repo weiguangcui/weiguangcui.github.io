@@ -4,17 +4,18 @@ title: Publications
 ---
 
 <div style="text-align:center">
-<h3>Links:</h3> &nbsp;&nbsp;
+<h3>Links: &nbsp;&nbsp;
 <a href="https://scholar.google.es/citations?user=c4BRA2YAAAAJ&hl=en" role="button" class="btn btn-primary">Google Scholar</a>
 <a href="https://ui.adsabs.harvard.edu/#/public-libraries/nF6F8tB_QD-nGazs-TmUBQ" role="button" class="btn btn-primary">ADS library</a>
 <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Myfirst&libid=5452e99805" role="button" class="btn btn-primary">First-author publications</a>
+</h3>
 </div>
 
 --------
 
-### Peer-reviewed Journal Publications (in reversed chronological order):
-### 2018
----
+#### Peer-reviewed Journal Publications (in reversed chronological order):
+##### 2018
+___
 0.  [The Three Hundred project: a large catalogue of theoretically modelled galaxy clusters for cosmological and astrophysical applications](http://adsabs.harvard.edu/abs/2018MNRAS.480.2898C) **Cui, Weiguang**; and 36 coauthors. MNRAS, 480, 2898
 
 0.  [Kinetic Sunyaev-Zel'dovich effect in rotating galaxy clusters from MUSIC simulations](http://adsabs.harvard.edu/abs/2018MNRAS.479.4028B) Baldi, Anna Silvia; De Petris, Marco; Sembolini, Federico; Yepes, Gustavo; **Cui, Weiguang**; Lamagna, Luca. 2018, MNRAS, 479, 4028.
@@ -31,8 +32,8 @@ title: Publications
 
 0.  [The large-scale environment from cosmological simulations I: The baryonic cosmic web](http://adsabs.harvard.edu/abs/2018MNRAS.473...68C) ( *my large-scale environment project paper I* ) **Cui, Weiguang**; Knebe, Alexander; Yepes, Gustavo; Yang, Xiaohu; Borgani, Stefano; Kang, Xi; Power, Chris; Staveley-Smith, Lister, 2018, MNRAS, 473, 68.
 
-### 2017
----
+##### 2017
+_____
 0.  [nIFTy Cosmology: the clustering consistency of galaxy formation models](http://adsabs.harvard.edu/abs/2017MNRAS.469..749P) Pujol, A.; Skibba, R.~A.; Gaztanaga, E.; Benson, A.; Blaizot, J.; Bower, R.; Carretero, J.;	Castander, F.~J.; Cattaneo, A.; Cora, S.~A.; Croton, D.~J.; **Cui, Weiguang** and et al., 2017, MNRAS, 469, 749.
 
 0.  [ELUCID – Exploring the Local Universe with the reConstructed Initial Density field II: Reconstruction Diagnostics, Applied to Numerical Halo Catalogs](http://adsabs.harvard.edu/abs/2017ApJ...841...55T) Tweed, D.; Yang, X.; Wang, H.; **Cui, Weiguang**; Zhang, Y.; Li, S.; Jing, Y.P.; Mo, H.J., 2017, ApJ, 841, 55.
