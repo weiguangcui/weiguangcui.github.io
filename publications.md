@@ -16,41 +16,41 @@ title: Publications
 ### Journal Publications (in reversed chronological order):
 
   **2018**
-32-.  [The Three Hundred project: a large catalogue of theoretically modelled galaxy clusters for cosmological and astrophysical applications](http://adsabs.harvard.edu/abs/2018MNRAS.480.2898C) **Cui, Weiguang**; and 36 coauthors. MNRAS, 480, 2898
+32  [The Three Hundred project: a large catalogue of theoretically modelled galaxy clusters for cosmological and astrophysical applications](http://adsabs.harvard.edu/abs/2018MNRAS.480.2898C) **Cui, Weiguang**; and 36 coauthors. MNRAS, 480, 2898
 
-31.  [Kinetic Sunyaev-Zel'dovich effect in rotating galaxy clusters from MUSIC simulations](http://adsabs.harvard.edu/abs/2018MNRAS.479.4028B) Baldi, Anna Silvia; De Petris, Marco; Sembolini, Federico; Yepes, Gustavo; **Cui, Weiguang**; Lamagna, Luca. 2018, MNRAS, 479, 4028.
+31  [Kinetic Sunyaev-Zel'dovich effect in rotating galaxy clusters from MUSIC simulations](http://adsabs.harvard.edu/abs/2018MNRAS.479.4028B) Baldi, Anna Silvia; De Petris, Marco; Sembolini, Federico; Yepes, Gustavo; **Cui, Weiguang**; Lamagna, Luca. 2018, MNRAS, 479, 4028.
 
-30.  [ELUCID V. Lighting dark matter halos with galaxies](http://adsabs.harvard.edu/abs/2018ApJ...860...30Y) Yang, Xiaohu; Zhang, Youcai; Wang, Huiyuan; Liu, Chengze; Lu, Tianhuan; Li, Shijie; Shi, Feng; Jing, Y. P.; Mo, H. J.; van den Bosch, Frank C.; Kang, Xi; **Cui, Weiguang**; and et al. 2017, ApJ, 860, 30.
+30  [ELUCID V. Lighting dark matter halos with galaxies](http://adsabs.harvard.edu/abs/2018ApJ...860...30Y) Yang, Xiaohu; Zhang, Youcai; Wang, Huiyuan; Liu, Chengze; Lu, Tianhuan; Li, Shijie; Shi, Feng; Jing, Y. P.; Mo, H. J.; van den Bosch, Frank C.; Kang, Xi; **Cui, Weiguang**; and et al. 2017, ApJ, 860, 30.
 
-29.  [Full-sky ray tracing simulation of weak lensing: investigation on galaxy intrinsic alignment and shear correlation function.](http://adsabs.harvard.edu/abs/2018ApJ...853...25W) Wei, C.; Li, G.; Kang, X.; Luo, Y.; Xia, Q.; Wang, P.; Yang, X.; Wang, H.; Jing, Y.; Mo, H.; Lin, W.; Wang, Y.; Li, S.; Lu, Y.; Zhang, Y.; Lim, S.H.; Tweed, D.; **Cui, Weiguang**. 2018, ApJ, 853, 25.
+29  [Full-sky ray tracing simulation of weak lensing: investigation on galaxy intrinsic alignment and shear correlation function.](http://adsabs.harvard.edu/abs/2018ApJ...853...25W) Wei, C.; Li, G.; Kang, X.; Luo, Y.; Xia, Q.; Wang, P.; Yang, X.; Wang, H.; Jing, Y.; Mo, H.; Lin, W.; Wang, Y.; Li, S.; Lu, Y.; Zhang, Y.; Lim, S.H.; Tweed, D.; **Cui, Weiguang**. 2018, ApJ, 853, 25.
 
-28.  [An Investigation of intra-cluster light evolution using cosmological hydro-dynamical simulations](http://adsabs.harvard.edu/abs/2018ApJ...859...85T) Tang, Lin; Lin, WeiPeng; **Cui, Weiguang**; Kang, Xi; Wang, Yang; Contini, Emanuele; Yu, Yu. 2018, ApJ, 859, 85.
+28  [An Investigation of intra-cluster light evolution using cosmological hydro-dynamical simulations](http://adsabs.harvard.edu/abs/2018ApJ...859...85T) Tang, Lin; Lin, WeiPeng; **Cui, Weiguang**; Kang, Xi; Wang, Yang; Contini, Emanuele; Yu, Yu. 2018, ApJ, 859, 85.
 
-27.  [Cosmic CARNage I: on the calibration of galaxy formation models](http://adsabs.harvard.edu/abs/2018MNRAS.475.2936K) Knebe, A.; Pearce, F.~R.; Gonzalez-Perez, V.; Thomas, P.~A.; Benson, A.; Asquith, R.; Blaizot, J.; Bower, R.; Carretero, J.; Castander, F.~J.; Cattaneo, A.; Cora, S~A.; Croton, D.; **Cui, Weiguang**, and et al. 2018, MNRAS 475, 2936.
+27  [Cosmic CARNage I: on the calibration of galaxy formation models](http://adsabs.harvard.edu/abs/2018MNRAS.475.2936K) Knebe, A.; Pearce, F.~R.; Gonzalez-Perez, V.; Thomas, P.~A.; Benson, A.; Asquith, R.; Blaizot, J.; Bower, R.; Carretero, J.; Castander, F.~J.; Cattaneo, A.; Cora, S~A.; Croton, D.; **Cui, Weiguang**, and et al. 2018, MNRAS 475, 2936.
 
-26.  [ELUCID IV: Galaxy Quenching and its Relation to Halo Mass, Environment, and Assembly Bias.](http://adsabs.harvard.edu/abs/2018ApJ...852...31W) Wang, H.; Mo, H.; Chen, S.; Yang, Y.; Yang, X.; Wang, E.; van den Bosch, F.~C.; Jing, Y.; Kang, X.; Lin, W.; Lim, S.~H.; Huang, S.; Lu, Y.; Li, S.; **Cui, Weiguang**; and et al. 2018, ApJ, 852, 31.
+26  [ELUCID IV: Galaxy Quenching and its Relation to Halo Mass, Environment, and Assembly Bias.](http://adsabs.harvard.edu/abs/2018ApJ...852...31W) Wang, H.; Mo, H.; Chen, S.; Yang, Y.; Yang, X.; Wang, E.; van den Bosch, F.~C.; Jing, Y.; Kang, X.; Lin, W.; Lim, S.~H.; Huang, S.; Lu, Y.; Li, S.; **Cui, Weiguang**; and et al. 2018, ApJ, 852, 31.
 
-25.  [The large-scale environment from cosmological simulations I: The baryonic cosmic web](http://adsabs.harvard.edu/abs/2018MNRAS.473...68C) ( *my large-scale environment project paper I* ) **Cui, Weiguang**; Knebe, Alexander; Yepes, Gustavo; Yang, Xiaohu; Borgani, Stefano; Kang, Xi; Power, Chris; Staveley-Smith, Lister, 2018, MNRAS, 473, 68.
+25  [The large-scale environment from cosmological simulations I: The baryonic cosmic web](http://adsabs.harvard.edu/abs/2018MNRAS.473...68C) ( *my large-scale environment project paper I* ) **Cui, Weiguang**; Knebe, Alexander; Yepes, Gustavo; Yang, Xiaohu; Borgani, Stefano; Kang, Xi; Power, Chris; Staveley-Smith, Lister, 2018, MNRAS, 473, 68.
 
   **2017**
-24.  [nIFTy Cosmology: the clustering consistency of galaxy formation models](http://adsabs.harvard.edu/abs/2017MNRAS.469..749P) Pujol, A.; Skibba, R.~A.; Gaztanaga, E.; Benson, A.; Blaizot, J.; Bower, R.; Carretero, J.;	Castander, F.~J.; Cattaneo, A.; Cora, S.~A.; Croton, D.~J.; **Cui, Weiguang** and et al., 2017, MNRAS, 469, 749.
+24  [nIFTy Cosmology: the clustering consistency of galaxy formation models](http://adsabs.harvard.edu/abs/2017MNRAS.469..749P) Pujol, A.; Skibba, R.~A.; Gaztanaga, E.; Benson, A.; Blaizot, J.; Bower, R.; Carretero, J.;	Castander, F.~J.; Cattaneo, A.; Cora, S.~A.; Croton, D.~J.; **Cui, Weiguang** and et al., 2017, MNRAS, 469, 749.
 
-23.  [ELUCID – Exploring the Local Universe with the reConstructed Initial Density field II: Reconstruction Diagnostics, Applied to Numerical Halo Catalogs](http://adsabs.harvard.edu/abs/2017ApJ...841...55T) Tweed, D.; Yang, X.; Wang, H.; **Cui, Weiguang**; Zhang, Y.; Li, S.; Jing, Y.P.; Mo, H.J., 2017, ApJ, 841, 55.
+23  [ELUCID – Exploring the Local Universe with the reConstructed Initial Density field II: Reconstruction Diagnostics, Applied to Numerical Halo Catalogs](http://adsabs.harvard.edu/abs/2017ApJ...841...55T) Tweed, D.; Yang, X.; Wang, H.; **Cui, Weiguang**; Zhang, Y.; Li, S.; Jing, Y.P.; Mo, H.J., 2017, ApJ, 841, 55.
 
-22.  [On the dynamical state of galaxy clusters: insights from cosmological simulations - II](http://adsabs.harvard.edu/abs/2017MNRAS.464.2502C) ( *my MACRO project paper II* ) **Cui, Weiguang**; Power, Chris; Borgani, Stefano; Knebe, Alexander; Murante, Giuseppe; Lewis, Geraint F. and Poole, Gregory B., 2017, MNRAS, 464, 2502C.
+22  [On the dynamical state of galaxy clusters: insights from cosmological simulations - II](http://adsabs.harvard.edu/abs/2017MNRAS.464.2502C) ( *my MACRO project paper II* ) **Cui, Weiguang**; Power, Chris; Borgani, Stefano; Knebe, Alexander; Murante, Giuseppe; Lewis, Geraint F. and Poole, Gregory B., 2017, MNRAS, 464, 2502C.
 
-21.  [nIFTy galaxy cluster simulations V: Comparison of the Cluster Infall Region](http://adsabs.harvard.edu/abs/2017MNRAS.464.2027A) Arthur, Jake; Pearce, Frazer R.; Gray, Meghan E.; Elahi, Pascal J.; Knebe, Alexander; Beck, Alexander M.; **Cui, Weiguang**, and 15 coauthors, 2017, MNRAS, 464, 2027A
+21  [nIFTy galaxy cluster simulations V: Comparison of the Cluster Infall Region](http://adsabs.harvard.edu/abs/2017MNRAS.464.2027A) Arthur, Jake; Pearce, Frazer R.; Gray, Meghan E.; Elahi, Pascal J.; Knebe, Alexander; Beck, Alexander M.; **Cui, Weiguang**, and 15 coauthors, 2017, MNRAS, 464, 2027A
 
   **2016**
-20.  [nIFTy Galaxy Cluster simulations IV: Quantifying the Influence of Baryons on Halo Properties](http://adsabs.harvard.edu/abs/2016MNRAS.458.4052C) **Cui, Weiguang**; Power, Chris; Knebe, Alexander; Kay, Scott T.; Sembolini, Federico;  Elahi, Pascal J.; Yepes, Gustavo; Pearce, Frazer; and 16 coauthors, 2016, MNRAS, 458, 4052C
+20  [nIFTy Galaxy Cluster simulations IV: Quantifying the Influence of Baryons on Halo Properties](http://adsabs.harvard.edu/abs/2016MNRAS.458.4052C) **Cui, Weiguang**; Power, Chris; Knebe, Alexander; Kay, Scott T.; Sembolini, Federico;  Elahi, Pascal J.; Yepes, Gustavo; Pearce, Frazer; and 16 coauthors, 2016, MNRAS, 458, 4052C
 
-19.  [nIFTY galaxy cluster simulations III: The Similarity & Diversity of Galaxies & Subhaloes](http://adsabs.harvard.edu/abs/2016MNRAS.458.1096E) Elahi, Pascal J.; Knebe, Alexander; Power, Chris; Pearce, Frazer R.; Yepes, Gustavo; **Cui, Weiguang**; and 14 coauthors, 2016, MNRAS, 458, 1096E
+19  [nIFTY galaxy cluster simulations III: The Similarity & Diversity of Galaxies & Subhaloes](http://adsabs.harvard.edu/abs/2016MNRAS.458.1096E) Elahi, Pascal J.; Knebe, Alexander; Power, Chris; Pearce, Frazer R.; Yepes, Gustavo; **Cui, Weiguang**; and 14 coauthors, 2016, MNRAS, 458, 1096E
 
-18.  [nIFTy galaxy cluster simulations II: radiative models](http://adsabs.harvard.edu/abs/2016MNRAS.459.2973S) Sembolini, Federico; Elahi, Pascal Jahan; Pearce, Frazer R.; Power, Chris; Knebe, Alexander; Kay, Scott T.; **Cui, Weiguang**; and 16 coauthors, 2016, MNRAS, 459, 2973S
+18  [nIFTy galaxy cluster simulations II: radiative models](http://adsabs.harvard.edu/abs/2016MNRAS.459.2973S) Sembolini, Federico; Elahi, Pascal Jahan; Pearce, Frazer R.; Power, Chris; Knebe, Alexander; Kay, Scott T.; **Cui, Weiguang**; and 16 coauthors, 2016, MNRAS, 459, 2973S
 
-17.  [nIFTy galaxy cluster simulations I: dark matter \& non-radiative models](http://adsabs.harvard.edu/abs/2016MNRAS.457.4063S) Sembolini, Federico; Yepes, Gustavo; Pearce, Frazer R.; Knebe, Alexander; Kay, Scott T.; Power, Chris; **Cui, Weiguang**; and 22 coauthors, 2016, MNRAS, 457, 4063S
+17  [nIFTy galaxy cluster simulations I: dark matter \& non-radiative models](http://adsabs.harvard.edu/abs/2016MNRAS.457.4063S) Sembolini, Federico; Yepes, Gustavo; Pearce, Frazer R.; Knebe, Alexander; Kay, Scott T.; Power, Chris; **Cui, Weiguang**; and 22 coauthors, 2016, MNRAS, 457, 4063S
 
-16.  [How does our choice of observable influence our estimation of the centre of a galaxy cluster? Insights from cosmological simulations.](http://adsabs.harvard.edu/abs/2016MNRAS.456.2566C) (*my MACRO project paper I*) **Cui, Weiguang**; Power, Chris; Biffi, Veronica; Borgani, Stefano; Murante, Giuseppe; Fabjan, Dunja; Knebe, Alexander; Lewis, Geraint F.; Poole, Gregory B., 2016, MNRAS, 456, 2566C
+16  [How does our choice of observable influence our estimation of the centre of a galaxy cluster? Insights from cosmological simulations.](http://adsabs.harvard.edu/abs/2016MNRAS.456.2566C) (*my MACRO project paper I*) **Cui, Weiguang**; Power, Chris; Biffi, Veronica; Borgani, Stefano; Murante, Giuseppe; Fabjan, Dunja; Knebe, Alexander; Lewis, Geraint F.; Poole, Gregory B., 2016, MNRAS, 456, 2566C
 
   **2015**
 15.  [nIFTy Cosmology: Comparison of Galaxy Formation Models](http://adsabs.harvard.edu/abs/2015MNRAS.451.4029K) Knebe, A.; Pearce, F.~R.; Thomas, P.~A.; Benson, A.; Blaizot, J.; Bower, R.; Carretero, J.; Castander, F.~J.; Cattaneo, A.; Cora, S.~A.; Croton, D.~J.; **Cui, Weiguang**; and 24 coauthors, 2015, MNRAS, 451, 4029K
