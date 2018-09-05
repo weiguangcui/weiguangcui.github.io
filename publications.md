@@ -91,10 +91,13 @@ title: Publications
 <center><strong>--- 2008 ---</strong></center>
 *1.*  [An Ideal Mass Assignment Scheme for Measuring the Power Spectrum with Fast Fourier Transforms.](http://adsabs.harvard.edu/abs/2008ApJ...687..738C) **Cui, Weiguang**; Liu, Lei; Yang, Xiaohu; Wang, Yu; Feng, Longlong; Springel, Volker, 2008, ApJ, 687, 738C
 
+-----
 
 ### Books and book chapters:
 
 *1.*  [The impact of baryons on the large-scale structure of the Universe](https://www.intechopen.com/books/trends-in-modern-cosmology/the-impact-of-baryons-on-the-large-scale-structure-of-the-universe) **Cui, Weiguang**; and Zhang Youcai, 2017, chapter 7 for book "Trends in Modern Cosmology", ISBN 978-953-51-5426-6. See this [arxiv link](https://arxiv.org/abs/1708.02644) for the updated version.
+
+-----
 
 ### Unreferenced Publications:
 
