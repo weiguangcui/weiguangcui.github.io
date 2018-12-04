@@ -18,7 +18,7 @@ title: Publications
 -----
 
 <center><strong>--- 2018 ---</strong></center>
-*34.*  [The Three Hundred Project: The influence of environment on simulated galaxy properties](https://ui.adsabs.harvard.edu/#abs/2018arXiv180905244W/abstract) Wang, Yang; Pearce, Frazer R.; Knebe, Alexander; Yepes, Gustavo; **Cui, Weiguang** and 6 co-authors. 2018, ApJ, in press
+*34.*  [The Three Hundred Project: The influence of environment on simulated galaxy properties](https://ui.adsabs.harvard.edu/#abs/2018ApJ...868..130W/abstract) Wang, Yang; Pearce, Frazer R.; Knebe, Alexander; Yepes, Gustavo; **Cui, Weiguang** and 6 co-authors. 2018, ApJ, 868, 130W
 
 *33.*  [The minimum and maximum gravitational-wave background from supermassive binary black holes](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.tmp.2719Z/abstract) Zhu, Xing-Jiang; **Cui, Weiguang** and Thrane, Eric. 2018, MNRAS, tmp, 2719
 
