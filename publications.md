@@ -17,12 +17,13 @@ title: Publications
 
 -----
 
+<center><strong>--- 2019 ---</strong></center>
+*35.*  [The minimum and maximum gravitational-wave background from supermassive binary black holes](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.2588Z/abstract) Zhu, Xing-Jiang; **Cui, Weiguang** and Thrane, Eric. 2019, MNRAS, 482, 2588
+
 <center><strong>--- 2018 ---</strong></center>
-*35.*  [The Three Hundred Project: The evolution of galaxy cluster density profiles](https://ui.adsabs.harvard.edu/?#abs/2018MNRAS.tmp.3145M/abstract) Mostoghiu, Robert; Knebe, Alexander; **Cui, Weiguang**; Pearce, Frazer R.; Yepes, Gustavo; Power, Chris; Dave, Romeel; Arth, Alexander. 2018, MNRAS, tmp, 3145
+*34.*  [The Three Hundred Project: The evolution of galaxy cluster density profiles](https://ui.adsabs.harvard.edu/?#abs/2018MNRAS.tmp.3145M/abstract) Mostoghiu, Robert; Knebe, Alexander; **Cui, Weiguang**; Pearce, Frazer R.; Yepes, Gustavo; Power, Chris; Dave, Romeel; Arth, Alexander. 2018, MNRAS, tmp, 3145
 
-*34.*  [The Three Hundred Project: The influence of environment on simulated galaxy properties](https://ui.adsabs.harvard.edu/#abs/2018ApJ...868..130W/abstract) Wang, Yang; Pearce, Frazer R.; Knebe, Alexander; Yepes, Gustavo; **Cui, Weiguang** and 6 co-authors. 2018, ApJ, 868, 130W
-
-*33.*  [The minimum and maximum gravitational-wave background from supermassive binary black holes](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.tmp.2719Z/abstract) Zhu, Xing-Jiang; **Cui, Weiguang** and Thrane, Eric. 2018, MNRAS, tmp, 2719
+*33.*  [The Three Hundred Project: The influence of environment on simulated galaxy properties](https://ui.adsabs.harvard.edu/#abs/2018ApJ...868..130W/abstract) Wang, Yang; Pearce, Frazer R.; Knebe, Alexander; Yepes, Gustavo; **Cui, Weiguang** and 6 co-authors. 2018, ApJ, 868, 130W
 
 *32.*  [The Three Hundred project: a large catalogue of theoretically modelled galaxy clusters for cosmological and astrophysical applications](http://adsabs.harvard.edu/abs/2018MNRAS.480.2898C) **Cui, Weiguang** and 36 co-authors. 2018, MNRAS, 480, 2898
 
