@@ -18,7 +18,7 @@ title: Publications
 -----
 
 <center><strong>--- 2019 ---</strong></center>
-*35.*  [The Three Hundred Project: The evolution of galaxy cluster density profiles](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.483.3390M/abstract) Mostoghiu, Robert; Knebe, Alexander; **Cui, Weiguang**; Pearce, Frazer R.; Yepes, Gustavo; Power, Chris; Dave, Romeel; Arth, Alexander. 2018, MNRAS, 483, 3990
+*35.*  [The Three Hundred Project: The evolution of galaxy cluster density profiles](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.483.3390M/abstract) Mostoghiu, Robert; Knebe, Alexander; **Cui, Weiguang**; Pearce, Frazer R.; Yepes, Gustavo; Power, Chris; Dave, Romeel; Arth, Alexander. 2019, MNRAS, 483, 3990
 
 *34.*  [The minimum and maximum gravitational-wave background from supermassive binary black holes](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.2588Z/abstract) Zhu, Xing-Jiang; **Cui, Weiguang** and Thrane, Eric. 2019, MNRAS, 482, 2588
 
