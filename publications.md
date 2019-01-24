@@ -25,7 +25,7 @@ title: Publications
 <center><strong>--- 2018 ---</strong></center>
 *33.*  [The Three Hundred Project: The influence of environment on simulated galaxy properties](https://ui.adsabs.harvard.edu/#abs/2018ApJ...868..130W/abstract) Wang, Yang; Pearce, Frazer R.; Knebe, Alexander; Yepes, Gustavo; **Cui, Weiguang** and 6 co-authors. 2018, ApJ, 868, 130W
 
-*32.* **\*** [The Three Hundred project: a large catalogue of theoretically modelled galaxy clusters for cosmological and astrophysical applications](http://adsabs.harvard.edu/abs/2018MNRAS.480.2898C) **Cui, Weiguang** and 36 co-authors. 2018, MNRAS, 480, 2898
+*32.* **\*** [The Three Hundred project: a large catalogue of theoretically modelled galaxy clusters for cosmological and astrophysical applications](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.480.2898C/abstract) **Cui, Weiguang** and 36 co-authors. 2018, MNRAS, 480, 2898
 
 *31.*  [Kinetic Sunyaev-Zel'dovich effect in rotating galaxy clusters from MUSIC simulations](http://adsabs.harvard.edu/abs/2018MNRAS.479.4028B) Baldi, Anna Silvia; De Petris, Marco; Sembolini, Federico; Yepes, Gustavo; **Cui, Weiguang** and Lamagna, Luca. 2018, MNRAS, 479, 4028.
 
