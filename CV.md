@@ -6,7 +6,8 @@ subtitle: My experiences
 
 ## Employment
 
-| 2017 - Now  | PostDoc at Universidad Autónoma de Madrid, Madrid, Spain.  |
+| 2018 - Now | PDRA at IfA, University of Edinburgh |
+| 2017 - 2018 | PostDoc at Universidad Autónoma de Madrid, Madrid, Spain.  |
 | ----------- | ----------------------------------------------------------------------------- |
 | 2013 - 2016 | Research Associate at International Centre for Radio Astronomy Research, University of Western Australia, Perth, Australia. |
 | 2010 - 2013 | Marie Curie ITN fellowship at University of Trieste, Trieste, Italy   |
@@ -23,7 +24,7 @@ subtitle: My experiences
                 Supervisor: Prof. Volker Springel  |
 | 2005 - 2007 | BSc, Astrophysics; Shanghai Astronomical Observatory (Shanghai) <br/>
                 Supervisor: Prof. Pengjie Zhang and Prof. Xiaohu Yang |
-                
+
 * * *
 
 Please email me if you want to see my detailed CV.

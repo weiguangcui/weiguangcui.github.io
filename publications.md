@@ -18,6 +18,8 @@ title: Publications
 -----
 
 <center><strong>--- 2019 ---</strong></center>
+*36.*  [The Three Hundred Project: ram pressure and gas content of haloes and subhaloes in the phase-space plane]{https://ui.adsabs.harvard.edu/#abs/2019MNRAS.484.3968A/abstract} Arthur, Jake; Pearce, Frazer R.; Gray, Meghan E.; Knebe, Alexander; **Cui, Weiguang**; Elahi, Pascal J.; Power, Chris; Yepes, Gustavo; Arth, Alexander; De Petris, Marco; Dolag, Klaus; Garratt-Smithson, Lilian; Old, Lyndsay J.; Rasia, Elena; Stevens, Adam R. H. 2019, MNRAS, 484, 3968A
+
 *35.*  [The Three Hundred Project: The evolution of galaxy cluster density profiles](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.483.3390M/abstract) Mostoghiu, Robert; Knebe, Alexander; **Cui, Weiguang**; Pearce, Frazer R.; Yepes, Gustavo; Power, Chris; Dave, Romeel; Arth, Alexander. 2019, MNRAS, 483, 3990
 
 *34.*  [The minimum and maximum gravitational-wave background from supermassive binary black holes](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.2588Z/abstract) Zhu, Xing-Jiang; **Cui, Weiguang** and Thrane, Eric. 2019, MNRAS, 482, 2588

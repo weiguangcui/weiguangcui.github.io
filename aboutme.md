@@ -13,6 +13,6 @@ My name in Chinese characters: 崔伟广. You may need Chinese language support 
 
 I am a theoretical astronomer, mainly work with computational astronomy/astrophysics. My main aim is using numerical simulations to understand the mysteries Universe and to reproduce it. In detail, I am currently interesting in large-scale structure of the Universe, galaxy clusters and alternative cosmology models. Please also see the the project pages for my works.
 
-I am currently a post-doc at Universidad Autonoma de Madrid. You can also find my publications in [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Mine&libid=5452e99805), my [Google Scholar](https://scholar.google.es/citations?user=c4BRA2YAAAAJ&hl=en) page or the [publications page](https://weiguangcui.github.io/publications/) of this site.
+I am currently a post-doc at IfA, University of Edinburgh. You can also find my publications in [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Mine&libid=5452e99805), my [Google Scholar](https://scholar.google.es/citations?user=c4BRA2YAAAAJ&hl=en) page or the [publications page](https://weiguangcui.github.io/publications/) of this site.
 
 Please feel free to contract me for any questions or suggestions.
