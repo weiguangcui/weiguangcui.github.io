@@ -7,10 +7,9 @@ subtitle: My experiences
 ## Employment
 | year        |                   * * *                                     |
 | ----------- | ------------------------------------------ |
-| 2018 - Now | PDRA at IfA, University of Edinburgh    |
-| :---------- | :----------------------------------------------------------------------------- |
+| 2018 - Now  | PDRA at IfA, University of Edinburgh    |
 | 2017 - 2018 | PostDoc at Universidad Autónoma de Madrid, Madrid, Spain.  |
-| 2013 - 2016 | Research Associate at International Centre for Radio Astronomy Research, University of Western Australia, Perth, Australia. |
+| 2013 - 2016 | Research Associate at International Centre for Radio Astronomy Research,<br/>University of Western Australia, Perth, Australia. |
 | 2010 - 2013 | Marie Curie ITN fellowship at University of Trieste, Trieste, Italy   |
 
 
