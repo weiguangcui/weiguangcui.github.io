@@ -6,7 +6,7 @@ subtitle: My experiences
 
 ## Employment
 
-| 2018 -  Now | PDRA at IfA, University of Edinburgh |
+| 2018 - - Now | PDRA at IfA, University of Edinburgh |
 | ----------- | ----------------------------------------------------------------------------- |
 | 2017 - 2018 | PostDoc at Universidad Autónoma de Madrid, Madrid, Spain.  |
 | 2013 - 2016 | Research Associate at International Centre for Radio Astronomy Research, University of Western Australia, Perth, Australia. |
@@ -15,7 +15,7 @@ subtitle: My experiences
 
 ## Education
 
-| year        |                                                                      |
+| year        |                           -                                           |
 | ----------- | ------------------------------------------------------------------------------------- |
 | 2007 - 2010 | **PhD of Astrophysics**, Shanghai Astronomical Observatory (Shanghai)<br/>
                 _Thesis title: The nonlinear evolution of LSS under modified gravity cosmology_ <br/>
