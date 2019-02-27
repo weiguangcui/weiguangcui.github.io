@@ -16,9 +16,9 @@ subtitle: My experiences
 ## Education
 
 | year        |                           -                                           |
-| ----------- | ------------------------------------------------------------------------------------- |
+| ----------- | ------------------------------------------ |
 | 2007 - 2010 | **PhD of Astrophysics**, Shanghai Astronomical Observatory (Shanghai)<br/>
-                _Thesis title: The nonlinear evolution of LSS under modified gravity cosmology_ <br/>
+                *Thesis title: The nonlinear evolution of LSS under modified gravity cosmology* <br/>
                 Supervisor: Prof. Pengjie Zhang and Prof. Xiaohu Yang |
 | 2009 - 2010 | Exchange student at Max-Plank-Institute for Astrophysics <br/>
                 Supervisor: Prof. Volker Springel  |
