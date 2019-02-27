@@ -5,8 +5,9 @@ subtitle: My experiences
 ---
 
 ## Employment
-
-| 2018 - 2021 | PDRA at IfA, University of Edinburgh    |
+| year        |                   * * *                                     |
+| ----------- | ------------------------------------------ |
+| 2018 - Now | PDRA at IfA, University of Edinburgh    |
 | :---------- | :----------------------------------------------------------------------------- |
 | 2017 - 2018 | PostDoc at Universidad Autónoma de Madrid, Madrid, Spain.  |
 | 2013 - 2016 | Research Associate at International Centre for Radio Astronomy Research, University of Western Australia, Perth, Australia. |
