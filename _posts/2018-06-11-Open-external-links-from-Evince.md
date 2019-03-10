@@ -6,7 +6,7 @@ tags: [Linux, evince, PDF]
 
 Using Beamer to create the link:
 ```LaTeX
-\href{run:/home/weiguang/MEGA/Work/Project/ELUCID/moive/im-box/out5-lr.avi}{\includegraphics[width=\textwidth]{../ELUCID-I/plots/td155.png}}
+\href{run:/you/dir/movie.avi}{\includegraphics[width=\textwidth]{/your/image/im.png}}
 ```
 Generated file may have the problem to open the link in evince (in my case: ubuntu 18.04):
 ```
