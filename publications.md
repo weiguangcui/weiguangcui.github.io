@@ -18,7 +18,7 @@ title: Publications
 -----
 
 <center><strong>--- 2019 ---</strong></center>
-*38.* [A semi-analytical perspective on massive galaxies at z ̃~ 0.55](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp..764S/abstract) Stoppacher, D.; Prada, F.; Montero-Dorta, A. D.; Rodríguez-Torres, S.; Knebe, A.; Favole, G.; **Cui, Weiguang**; Benson, A. J.; Behrens, C.; Klypin, A. A., 2019, MNRAS, tmp, 764S
+*38.* [A semi-analytical perspective on massive galaxies at z ~ 0.55](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp..764S/abstract) Stoppacher, D.; Prada, F.; Montero-Dorta, A. D.; Rodríguez-Torres, S.; Knebe, A.; Favole, G.; **Cui, Weiguang**; Benson, A. J.; Behrens, C.; Klypin, A. A., 2019, MNRAS, tmp, 764S
 
 *37.* **\*** [The large-scale environment from cosmological simulations II: The redshift evolution and distributions of baryons](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.485.2367C/abstract) **Cui, Weiguang**; Knebe, Alexander; Libeskind, Noam I.; Planelles, Susana; Yang, Xiaohu; Cui, Wei; Davé, Romeel; Kang, Xi; Mostoghiu, Robert; Staveley-Smith, Lister; Wang, Huiyuan; Wang, Peng; Yepes, Gustavo. 2019, MNRAS, 485, 2367C
 
