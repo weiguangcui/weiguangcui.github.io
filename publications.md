@@ -18,7 +18,9 @@ title: Publications
 -----
 
 <center><strong>--- 2019 ---</strong></center>
-*37.* **\*** [The large-scale environment from cosmological simulations II: The redshift evolution and distributions of baryons](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp..557C/abstract) **Cui, Weiguang**; Knebe, Alexander; Libeskind, Noam I.; Planelles, Susana; Yang, Xiaohu; Cui, Wei; Davé, Romeel; Kang, Xi; Mostoghiu, Robert; Staveley-Smith, Lister; Wang, Huiyuan; Wang, Peng; Yepes, Gustavo. 2019, MNRAS, tmp, 557C
+*38.* [A semi-analytical perspective on massive galaxies at z ̃~ 0.55](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp..764S/abstract) Stoppacher, D.; Prada, F.; Montero-Dorta, A. D.; Rodríguez-Torres, S.; Knebe, A.; Favole, G.; **Cui, Weiguang**; Benson, A. J.; Behrens, C.; Klypin, A. A., 2019, MNRAS, tmp, 764S
+
+*37.* **\*** [The large-scale environment from cosmological simulations II: The redshift evolution and distributions of baryons](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.485.2367C/abstract) **Cui, Weiguang**; Knebe, Alexander; Libeskind, Noam I.; Planelles, Susana; Yang, Xiaohu; Cui, Wei; Davé, Romeel; Kang, Xi; Mostoghiu, Robert; Staveley-Smith, Lister; Wang, Huiyuan; Wang, Peng; Yepes, Gustavo. 2019, MNRAS, 485, 2367C
 
 *36.*  [The Three Hundred Project: ram pressure and gas content of haloes and subhaloes in the phase-space plane](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.484.3968A/abstract) Arthur, Jake; Pearce, Frazer R.; Gray, Meghan E.; Knebe, Alexander; **Cui, Weiguang**; Elahi, Pascal J.; Power, Chris; Yepes, Gustavo; Arth, Alexander; De Petris, Marco; Dolag, Klaus; Garratt-Smithson, Lilian; Old, Lyndsay J.; Rasia, Elena; Stevens, Adam R. H. 2019, MNRAS, 484, 3968A
 
