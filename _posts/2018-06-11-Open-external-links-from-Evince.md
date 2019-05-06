@@ -28,7 +28,7 @@ Directly insert the movie in your PDF file with `\usepackage{multimedia}`.
 ```Latex
 \movie[loop,autostart]{\includegraphics[width=0.43\textwidth]{G3X-17-image.pdf}}{NewMDCLUSTER0017.mp4}
 ```
-Place your movie `NewMDCLUSTER0017.mp4` in the same folder of your PDF file, you should be able to see the movie with `evince`.
+Place your movie `NewMDCLUSTER0017.mp4` in the same folder of your PDF file, you should be able to see the movie with [`pdfpc`](https://pdfpc.github.io/). Gnome pdf viewer `evince` works fine in normal mode, the movie has problem to show up in presentation mode [see the bug here](https://gitlab.gnome.org/GNOME/evince/issues/869)!
 I have `mpv` installed.
 
 For the missing plug-in problem:
