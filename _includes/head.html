@@ -117,14 +117,8 @@
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
 
-<!-- Google AD -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-7048633457374104",
-          enable_page_level_ads: true
-     });
-</script>
-<!-- end of Google AD -->
+  <!-- Google AD -->
+  {% if site.google_ad_client %}{% include google_analytics.html %}{% endif %} 
+  <!-- end of Google AD -->
 
 </head>
