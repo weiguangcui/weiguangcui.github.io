@@ -7,7 +7,6 @@ tags: [Linux, Ubuntu, power management]
 * Use the Dell OEM Ubuntu ios file to install the ubuntu 18.04LTE.*
 
 -----
-
 systemd sleep:
 
 You can use pm-utils to manage the system for suspend/sleep/hibernate, see [the doc in archlinux](https://www.linuxsecrets.com/archlinux-wiki/wiki.archlinux.org/index.php/Pm-utils.html) for details.
@@ -29,6 +28,49 @@ GRUB_CMDLINE_LINUX_DEFAULT="quiet splash mem_sleep_default=deep"
 Regenerate your grub configuration by run `sudo update-grub`.
 
 However, I failed to make the XPS to hibernate... Keep tracking the problem and will update the fix later.
+
+--------
+*Newly update on 19/09/2019*
+
+After several update of the Ubuntu 18.04 system (18.04.3 LTS now), I tried `sudo systemctl hibernate` which works now.
+
+If you have a problem of ```Failed to hibernate system via logind: Sleep verb not supported```, try to disable fastboot in the BIOS and do not use UEFI for disk.
+You will also need to increase the swapfile size larger than your laptop memory with these steps:
+
+1. Turn off all swap processes
+```
+sudo swapoff -a
+```
+
+2. Resize the swap
+```
+sudo dd if=/dev/zero of=/swapfile bs=1G count=8
+```
+
+if = input file
+of = output file
+bs = block size
+count = multiplier of blocks
+
+3. Make the file usable as swap
+```
+sudo mkswap /swapfile
+```
+
+4. Activate the swap file
+```
+sudo swapon /swapfile
+```
+
+5. Check the amount of swap available
+```
+grep SwapTotal /proc/meminfo 
+```
+
+6. Try to hibernate your laptop again
+```
+sudo systemctl hibernate
+```
 
 -----
 Install tlp and/or powertop to save your buttery cost.
@@ -59,6 +101,7 @@ Do not set it to 0, which is the default value. From `nm-setting-wireless.h`:
  *
  * These flags indicate whether wireless powersave must be enabled.
  **/
+ 
 typedef enum {
     NM_SETTING_WIRELESS_POWERSAVE_DEFAULT       = 0,
     NM_SETTING_WIRELESS_POWERSAVE_IGNORE        = 1,
@@ -69,4 +112,4 @@ typedef enum {
 } NMSettingWirelessPowersave;
 ```
 
-Original post 2019-03-10, updated 2019-07-15
+Original post 2019-03-10, updated 2019-07-15, updated again in 2019-09-19
