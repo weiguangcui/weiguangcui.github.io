@@ -131,7 +131,7 @@ google_analytics: "UA-112434502-1"
 # google_analytics: "UA-57531009-1"
 
 # Google adsense
-# google_ad_client: "ca-pub-7048633457374104"
+google_ad_client: "ca-pub-7048633457374104"
 
 # Google Tag Manager ID
 gtm: "GTM-PH34DVS"
