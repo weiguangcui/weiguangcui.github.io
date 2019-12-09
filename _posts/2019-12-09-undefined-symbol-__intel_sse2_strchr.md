@@ -1,6 +1,6 @@
 ---
 layout: post
-title: .cpython-36m-x86_64-linux-gnu.so: undefined symbol: __intel_sse2_strchr
+title: undefined symbol error for compiling with cython modules: __intel_sse2_strchr
 tags: [python, cython]
 ---
 
