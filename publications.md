@@ -13,20 +13,24 @@ title: Publications
 
 --------
 
-### Journal Publications (in reversed chronological order, first auther paper marked with \*):
+### Journal Publications (in reversed chronological order, first author paper marked with \*):
 
 -----
 
 <center><strong>--- 2019 ---</strong></center>
-*38.* [A semi-analytical perspective on massive galaxies at z ~ 0.55](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp..764S/abstract) Stoppacher, D.; Prada, F.; Montero-Dorta, A. D.; Rodríguez-Torres, S.; Knebe, A.; Favole, G.; **Cui, Weiguang**; Benson, A. J.; Behrens, C.; Klypin, A. A., 2019, MNRAS, tmp, 764S
+*40.* [The Three Hundred Project: correcting for the hydrostatic-equilibrium mass bias in X-ray and SZ surveys](https://ui.adsabs.harvard.edu/abs/2019arXiv191107878A/abstract) Ansarifard, S.; Rasia, E.; Biffi, V.; Borgani, S.; **Cui, Weiguang**; De Petris, M.; Dolag, K.; Ettori, S.; Movahed, S. M. S.; Murante, G.; Yepes, G., 2019, A\&A, in print
 
-*37.* **\*** [**The large-scale environment from cosmological simulations II: The redshift evolution and distributions of baryons**](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.485.2367C/abstract) **Cui, Weiguang**; Knebe, Alexander; Libeskind, Noam I.; Planelles, Susana; Yang, Xiaohu; Cui, Wei; Davé, Romeel; Kang, Xi; Mostoghiu, Robert; Staveley-Smith, Lister; Wang, Huiyuan; Wang, Peng; Yepes, Gustavo. 2019, MNRAS, 485, 2367C
+*39.* [nIFTy galaxy cluster simulations VI: the dynamical imprint of substructure on gaseous cluster outskirts.](https://ui.adsabs.harvard.edu/abs/2019MNRAS.tmp.2758P/abstract) Power, C.; Elahi, P. J.; Welker, C.; Knebe, A.; Pearce, F. R.; Yepes, G.; Davé, R.; Kay, S. T.; McCarthy, I. G.; Puchwein, E.; Borgani, S.; Cunnama, D.; **Cui, Weiguang**; Schaye, J., 2019, MNRAS, tmp, 2758P
 
-*36.*  [The Three Hundred Project: ram pressure and gas content of haloes and subhaloes in the phase-space plane](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.484.3968A/abstract) Arthur, Jake; Pearce, Frazer R.; Gray, Meghan E.; Knebe, Alexander; **Cui, Weiguang**; Elahi, Pascal J.; Power, Chris; Yepes, Gustavo; Arth, Alexander; De Petris, Marco; Dolag, Klaus; Garratt-Smithson, Lilian; Old, Lyndsay J.; Rasia, Elena; Stevens, Adam R. H. 2019, MNRAS, 484, 3968A
+*38.* [A semi-analytical perspective on massive galaxies at z ~ 0.55](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.1316S/abstract) Stoppacher, D.; Prada, F.; Montero-Dorta, A. D.; Rodríguez-Torres, S.; Knebe, A.; Favole, G.; **Cui, Weiguang**; Benson, A. J.; Behrens, C.; Klypin, A. A., 2019, MNRAS, 486, 1316S
 
-*35.*  [The Three Hundred Project: The evolution of galaxy cluster density profiles](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.483.3390M/abstract) Mostoghiu, Robert; Knebe, Alexander; **Cui, Weiguang**; Pearce, Frazer R.; Yepes, Gustavo; Power, Chris; Dave, Romeel; Arth, Alexander. 2019, MNRAS, 483, 3990
+*37.* **\*** [**The large-scale environment from cosmological simulations II: The redshift evolution and distributions of baryons**](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.485.2367C/abstract) **Cui, Weiguang**; Knebe, A.; Libeskind, N. I.; Planelles, S.; Yang, X.; Cui, W.; Davé, R.; Kang, X.; Mostoghiu, R.; Staveley-Smith, L.; Wang, H.; Wang, P.; Yepes, G., 2019, MNRAS, 485, 2367C
 
-*34.*  [The minimum and maximum gravitational-wave background from supermassive binary black holes](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.2588Z/abstract) Zhu, Xing-Jiang; **Cui, Weiguang** and Thrane, Eric. 2019, MNRAS, 482, 2588
+*36.*  [The Three Hundred Project: ram pressure and gas content of haloes and subhaloes in the phase-space plane](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.484.3968A/abstract) Arthur, Jake; Pearce, Frazer R.; Gray, Meghan E.; Knebe, Alexander; **Cui, Weiguang**; Elahi, Pascal J.; Power, Chris; Yepes, Gustavo; Arth, Alexander; De Petris, Marco; Dolag, Klaus; Garratt-Smithson, Lilian; Old, Lyndsay J.; Rasia, Elena; Stevens, Adam R. H., 2019, MNRAS, 484, 3968A
+
+*35.*  [The Three Hundred Project: The evolution of galaxy cluster density profiles](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.483.3390M/abstract) Mostoghiu, Robert; Knebe, Alexander; **Cui, Weiguang**; Pearce, Frazer R.; Yepes, Gustavo; Power, Chris; Dave, Romeel; Arth, Alexander, 2019, MNRAS, 483, 3990
+
+*34.*  [The minimum and maximum gravitational-wave background from supermassive binary black holes](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.2588Z/abstract) Zhu, Xing-Jiang; **Cui, Weiguang** and Thrane, Eric, 2019, MNRAS, 482, 2588
 
 <center><strong>--- 2018 ---</strong></center>
 *33.*  [The Three Hundred Project: The influence of environment on simulated galaxy properties](https://ui.adsabs.harvard.edu/#abs/2018ApJ...868..130W/abstract) Wang, Yang; Pearce, Frazer R.; Knebe, Alexander; Yepes, Gustavo; **Cui, Weiguang** and 6 co-authors. 2018, ApJ, 868, 130W
