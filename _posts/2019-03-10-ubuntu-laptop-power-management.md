@@ -27,12 +27,12 @@ GRUB_CMDLINE_LINUX_DEFAULT="quiet splash mem_sleep_default=deep"
 ```
 Regenerate your grub configuration by run `sudo update-grub`.
 
-However, I failed to make the XPS to hibernate... Keep tracking the problem and will update the fix later.
+Now the XPS is able to hibernate... Keep reading the new updates.
 
 --------
-*Newly update on 19/09/2019*
+*Newly update on 25/12/2019*
 
-After several update of the Ubuntu 18.04 system (18.04.3 LTS now), I tried `sudo systemctl hibernate` which works now.
+After several update of the Ubuntu 18.04 system (18.04.3 LTS now), I tried `sudo systemctl hibernate` which works now. Then I can do the `suspend-then-hibernate` with a few steps.
 
 If you have a problem of ```Failed to hibernate system via logind: Sleep verb not supported```, try to disable fastboot in the BIOS and do not use UEFI for disk.
 You will also need to increase the swapfile size larger than your laptop memory with these steps:
@@ -67,10 +67,61 @@ sudo swapon /swapfile
 grep SwapTotal /proc/meminfo 
 ```
 
-6. Try to hibernate your laptop again
+6. Try to modify the `/etc/default/grub` file 
+```
+GRUB_CMDLINE_LINUX_DEFAULT="no_console_suspend initcall_debug resume=/dev/where_your_swap_file_is resume_offset=xxxx"
+```
+The `xxxx` should be replaced by the first number under `physical_offset` in the output of `sudo filefrag -v /swapfile`
+```
+$ sudo filefrag -v /swapfile
+Filesystem type is: ef53
+File size of /swapfile is 17179836416 (4194296 blocks of 4096 bytes)
+ ext:     logical_offset:        physical_offset: length:   expected: flags:
+   0:        0..    2048:   59082751..  59084799:   2049:            
+   1:     2049..   28671:   59086848..  59113470:  26623:   59084800:
+...
+```
+xxxx = 59082751
+
+7. Update your grub file with `sudo update-grub` 
+
+8. Try to hibernate your laptop with
 ```
 sudo systemctl hibernate
 ```
+
+9. If this works fine, you can change the `/etc/default/grub` file back to 
+```
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash resume=/dev/where_your_swap_file_is resume_offset=xxxx"
+```
+Otherwise, you will get more information on why the hibernate fails. Don't forget `sudo update-grub` to make the changes take effect.
+
+-----
+10. Now, we make the laptop first deep-sleep then hibernate.
+
+First create a file in `/etc/systemd/sleep.conf`
+```
+sudo vi /etc/systemd/sleep.conf
+```
+Add these content
+```
+[Sleep]
+HibernateDelaySec=3600
+```
+test it by command:
+```
+sudo systemctl suspend-then-hibernate
+```
+you can edit `HibernateDelaySec` to reduce delay to hibernate.
+
+If all works fine you can change Lid Close Action by editing the file `/etc/systemd/logind.conf`.
+You need to find option `HandleLidSwitch=`, uncomment it and change to `HandleLidSwitch=suspend-then-hibernate`. Then you need to restart `systemd-logind` service (warning! you user session will be restarted) by the next command:
+```
+sudo systemctl restart systemd-logind.service
+```
+
+That should work all fine.
+
 
 -----
 Install tlp and/or powertop to save your buttery cost.
