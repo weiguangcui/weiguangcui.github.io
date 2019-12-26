@@ -29,6 +29,8 @@ Regenerate your grub configuration by run `sudo update-grub`.
 
 Now the XPS is able to hibernate... Keep reading the new updates.
 
+Another way to hibernate is to use the `s2disk` from `uswsusp`. See more details in this link: [https://askubuntu.com/a/1132154](https://askubuntu.com/a/1132154)
+
 --------
 *Newly update on 25/12/2019*
 
