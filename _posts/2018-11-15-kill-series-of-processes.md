@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kill series of processes in Linux!
-tags: [Linux, evince, PDF]
+tags: [Linux, Bash]
 ---
 
 Command to run in terminal:
