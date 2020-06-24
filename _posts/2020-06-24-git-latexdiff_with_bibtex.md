@@ -12,15 +12,15 @@ will encounter this problem:
 
 ```
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi                                           
+                                        \fi \fi                                           
 l.519 \begin{thebibliography}{}
                                ]                         
 ! TeX capacity exceeded, sorry [input stack size=5000].
 
 \hyper@normalise ->\begingroup \catcode `\^^M
-                                             \active \def ^^M{ }\catcode `\%...                                           
+                        \active \def ^^M{ }\catcode `\%...                                           
 l.574 ...\mn@doi [\pasp] {\DIFadd{10.1086/376392}}
-                                                  \DIFadd{, }\href
+                                    \DIFadd{, }\href
                                                                                                   
 !  ==> Fatal error occurred, no output PDF file produced!
 ....
