@@ -17,11 +17,20 @@ title: Publications
 
 -----
 
+<center><strong>--- 2020 ---</strong></center>
+*44* [The Three Hundred project: shapes and radial alignment of satellite, infalling, and backsplash galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.3002K/abstract) Knebe, Alexander; Gámez-Marín, Matías; Pearce, Frazer R.; **Cui, Weiguang**; Hoffmann, Kai; De Petris, Marco; Power, Chris; Haggar, Roan; Mostoghiu, Robert, 2020, MNRAS, 495, 3002K
+
+*43* [The Three Hundred project: the stellar and gas profiles](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.2930L/abstract) Li, Qingyang; **Cui, Weiguang**; Yang, Xiaohu; Rasia, Elena; Dave, Romeel; De Petris, Marco; Knebe, Alexander; Peacock, John A.; Pearce, Frazer; Yepes, Gustavo, 2020, MNRAS, 495, 2930L
+
+*42* [Mapping and characterization of cosmic filaments in galaxy cluster outskirts: strategies and forecasts for observations from simulations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5473K/abstract) Kuchner, Ulrike; Aragón-Salamanca, Alfonso; Pearce, Frazer R.; Gray, Meghan E.; Rost, Agustín; Mu, Chunliang; Welker, Charlotte; **Cui, Weiguang**; Haggar, Roan; Laigle, Clotilde; Knebe, Alexander; Kraljic, Katarina; Sarron, Florian; Yepes, Gustavo, 2020, MNRAS, 494, 5473K
+
+*41* [THETHREEHUNDRED project: backsplash galaxies in simulations of clusters](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.6074H/abstract) Haggar, Roan; Gray, Meghan E.; Pearce, Frazer R.; Knebe, Alexander; **Cui, Weiguang**; Mostoghiu, Robert; Yepes, Gustavo, 2020, MNRAS, 492, 6074H
+
+*40.* [The Three Hundred Project: correcting for the hydrostatic-equilibrium mass bias in X-ray and SZ surveys](https://ui.adsabs.harvard.edu/abs/2020A%26A...634A.113A/abstract) Ansarifard, S.; Rasia, E.; Biffi, V.; Borgani, S.; **Cui, Weiguang**; De Petris, M.; Dolag, K.; Ettori, S.; Movahed, S. M. S.; Murante, G.; Yepes, G., 2020, A\&A, 634A, 113A
+
+*39.* [nIFTy galaxy cluster simulations VI: the dynamical imprint of substructure on gaseous cluster outskirts.](https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.3923P/abstract) Power, C.; Elahi, P. J.; Welker, C.; Knebe, A.; Pearce, F. R.; Yepes, G.; Davé, R.; Kay, S. T.; McCarthy, I. G.; Puchwein, E.; Borgani, S.; Cunnama, D.; **Cui, Weiguang**; Schaye, J., 2020, MNRAS, 491, 3923P
+
 <center><strong>--- 2019 ---</strong></center>
-*40.* [The Three Hundred Project: correcting for the hydrostatic-equilibrium mass bias in X-ray and SZ surveys](https://ui.adsabs.harvard.edu/abs/2019arXiv191107878A/abstract) Ansarifard, S.; Rasia, E.; Biffi, V.; Borgani, S.; **Cui, Weiguang**; De Petris, M.; Dolag, K.; Ettori, S.; Movahed, S. M. S.; Murante, G.; Yepes, G., 2019, A\&A, in print
-
-*39.* [nIFTy galaxy cluster simulations VI: the dynamical imprint of substructure on gaseous cluster outskirts.](https://ui.adsabs.harvard.edu/abs/2019MNRAS.tmp.2758P/abstract) Power, C.; Elahi, P. J.; Welker, C.; Knebe, A.; Pearce, F. R.; Yepes, G.; Davé, R.; Kay, S. T.; McCarthy, I. G.; Puchwein, E.; Borgani, S.; Cunnama, D.; **Cui, Weiguang**; Schaye, J., 2019, MNRAS, tmp, 2758P
-
 *38.* [A semi-analytical perspective on massive galaxies at z ~ 0.55](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.1316S/abstract) Stoppacher, D.; Prada, F.; Montero-Dorta, A. D.; Rodríguez-Torres, S.; Knebe, A.; Favole, G.; **Cui, Weiguang**; Benson, A. J.; Behrens, C.; Klypin, A. A., 2019, MNRAS, 486, 1316S
 
 *37.* **\*** [**The large-scale environment from cosmological simulations II: The redshift evolution and distributions of baryons**](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.485.2367C/abstract) **Cui, Weiguang**; Knebe, A.; Libeskind, N. I.; Planelles, S.; Yang, X.; Cui, W.; Davé, R.; Kang, X.; Mostoghiu, R.; Staveley-Smith, L.; Wang, H.; Wang, P.; Yepes, G., 2019, MNRAS, 485, 2367C
