@@ -18,6 +18,10 @@ title: Publications
 -----
 
 <center><strong>--- 2020 ---</strong></center>
+*46* [Do model emission line galaxies live in filaments at z ∼ 1?](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.1852G/abstract) Gonzalez-Perez, V.; **Cui, W.**; Contreras, S.; Baugh, C. M.; Comparat, J.; Griffin, A. J.; Helly, J.; Knebe, A.; Lacey, C.; Norberg, P., 2020, MNRAS, 498, 1852G.
+
+*45* [Protoclusters at z = 5.7: a view from the MultiDark galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.5220C/abstract) **Cui, Weiguang**; Qiao, Jiaqi; Davé, Romeel; Knebe, Alexander; Peacock, John A.; Yepes, Gustavo, 2020, MNRAS, 497, 5220C.
+
 *44* [The Three Hundred project: shapes and radial alignment of satellite, infalling, and backsplash galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.3002K/abstract) Knebe, Alexander; Gámez-Marín, Matías; Pearce, Frazer R.; **Cui, Weiguang**; Hoffmann, Kai; De Petris, Marco; Power, Chris; Haggar, Roan; Mostoghiu, Robert, 2020, MNRAS, 495, 3002K
 
 *43* [The Three Hundred project: the stellar and gas profiles](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.2930L/abstract) Li, Qingyang; **Cui, Weiguang**; Yang, Xiaohu; Rasia, Elena; Dave, Romeel; De Petris, Marco; Knebe, Alexander; Peacock, John A.; Pearce, Frazer; Yepes, Gustavo, 2020, MNRAS, 495, 2930L
