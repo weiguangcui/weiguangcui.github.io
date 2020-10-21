@@ -18,6 +18,10 @@ title: Publications
 -----
 
 <center><strong>--- 2020 ---</strong></center>
+*48* [The specific star formation rate function at different mass scales and quenching: A comparison between cosmological models and SDSS](https://ui.adsabs.harvard.edu/abs/2020arXiv201008173K/abstract) Katsianis, A.; Xu, H.; Yang, X.; Luo, Y.; **Cui, W.**; Davé, R.; Lagos, C.D.P.; Zheng, X.; Zhao, P., 2020, MNRAS, in press
+
+*47* [Constraining the cross-section of dark matter with giant radial arcs in galaxy clusters](https://ui.adsabs.harvard.edu/abs/2020arXiv200608596V/abstract) Vega-Ferrero, J.; Dana, J. M.; Diego, J. M.; Yepes, G.; **Cui, W.**; Meneghetti, M., 2020, MNRAS, in press
+
 *46* [Do model emission line galaxies live in filaments at z ∼ 1?](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.1852G/abstract) Gonzalez-Perez, V.; **Cui, W.**; Contreras, S.; Baugh, C. M.; Comparat, J.; Griffin, A. J.; Helly, J.; Knebe, A.; Lacey, C.; Norberg, P., 2020, MNRAS, 498, 1852G.
 
 *45* [Protoclusters at z = 5.7: a view from the MultiDark galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.5220C/abstract) **Cui, Weiguang**; Qiao, Jiaqi; Davé, Romeel; Knebe, Alexander; Peacock, John A.; Yepes, Gustavo, 2020, MNRAS, 497, 5220C.
