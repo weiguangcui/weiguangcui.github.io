@@ -18,11 +18,15 @@ title: Publications
 -----
 
 <center><strong>--- 2021 ---</strong></center>
-*51.* [The Three Hundred Project: The gas disruption of infalling objects in cluster environments](https://ui.adsabs.harvard.edu/abs/2021arXiv210101734M/abstract) Mostoghiu, R.; Arthur, J.; Pearce, F.; Gray, M.; Knebe, A.; **Cui, W.**; Welker, C.; Cora, S.; Murante, G.; Dolag, K.; Yepes, G., 2021, MNRAS, in press
+*53.* [Cosmic filaments in galaxy cluster outskirts: quantifying finding filaments in redshift space](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.2065K/abstract) Kuchner, U.; Aragón-Salamanca, A.; Rost, A.; Pearce, F.-R.; Gray, M.-E.; **Cui, W.**; Knebe, A.; Rasia, E.; Yepes, G., 2021, MNRAS, 503, 2065K
+
+*52.* [Exploring the hydrostatic mass bias in MUSIC clusters: application to the NIKA2 mock sample](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.5115G/abstract) Gianfagna, G.; De Petris, M.; Yepes, G.; De Luca, F.; Sembolini, F.; **Cui, W.**; Biffi, V.; Kéruzoré, F.; Macías-Pérez, J.; Mayet, F.; Perotto, L.; Rasia, E.; Ruppin, F., 2021, MNRAS, 502, 5115G
+
+*51.* [The Three Hundred Project: The gas disruption of infalling objects in cluster environments](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.5029M/abstract) Mostoghiu, R.; Arthur, J.; Pearce, F.; Gray, M.; Knebe, A.; **Cui, W.**; Welker, C.; Cora, S.; Murante, G.; Dolag, K.; Yepes, G., 2021, MNRAS, 501, 5029M
 
 *50.* [The Three Hundred Project: quest of clusters of galaxies morphology and dynamical state through Zernike polynomials](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3666C/abstract) Capalbo, V.; De Petris, M.; De Luca, F.; **Cui, W.**; Yepes, G.; Knebe, A.; Rasia, E., 2021, MNRAS, in press
 
-*49.* [The ThreeHundred: the structure and properties of cosmic filaments in the outskirts of galaxy clusters](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3598R/abstract) Rost, A.; Kuchner, U.; Welker, C.; Pearce, F.; Stasyszyn, F.; Gray, M.; **Cui, W.**; Dave, R.; Knebe, A.; Yepes, G.; Rasia, E., 2021, MNRAS, in press
+*49.* [The ThreeHundred: the structure and properties of cosmic filaments in the outskirts of galaxy clusters](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502..714R/abstract) Rost, A.; Kuchner, U.; Welker, C.; Pearce, F.; Stasyszyn, F.; Gray, M.; **Cui, W.**; Dave, R.; Knebe, A.; Yepes, G.; Rasia, E., 2021, MNRAS, 502, 714R
 
 *48.* [The specific star formation rate function at different mass scales and quenching: A comparison between cosmological models and SDSS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2036K/abstract) Katsianis, A.; Xu, H.; Yang, X.; Luo, Y.; **Cui, W.**; Davé, R.; Lagos, C.D.P.; Zheng, X.; Zhao, P., 2021, MNRAS, 500, 2036
 
