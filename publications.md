@@ -17,14 +17,22 @@ title: Publications
 
 -----
 
-<center><strong>--- 2021 ---</strong></center>
+<center><strong>--- 2021 (11 papers) ---</strong></center>
+*57.* [What to expect from dynamical modelling of cluster haloes I. The information content of different dynamical tracers](https://ui.adsabs.harvard.edu/abs/2021arXiv210603011L/abstract) Li, Q.; Han, J.; Wang, W.; **Cui, W.**; Li, Z.; Yang, X. MNRAS in press
+
+*56.* [The Three Hundred Project: The stellar angular momentum evolution of cluster galaxies](https://ui.adsabs.harvard.edu/abs/2021arXiv210501676M/abstract) Mostoghiu, R.; Knebe, A.; Pearce, F.~R.; Power, C.; Lagos, C. D. P.; **Cui, W.**; Borgani, S.; Dolag, K.; Murante, G.; Yepes, G. A\&A in press
+
+*55* [The Three Hundred project: dynamical state of galaxy clusters and morphology from multiwavelength synthetic maps](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.5383D/abstract) De Luca, F.; De Petris, M.; Yepes, G.; **Cui, W.**; Knebe, A.; Rasia, E. 2021, MNRAS, 504, 5383D ￼
+
+*54* [Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.4024M/abstract) Moews, B.; Davé, R.; Mitra, S.; Hassan, S.; **Cui, W.** 2021, MNRAS, 504, 4024M
+
 *53.* [Cosmic filaments in galaxy cluster outskirts: quantifying finding filaments in redshift space](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.2065K/abstract) Kuchner, U.; Aragón-Salamanca, A.; Rost, A.; Pearce, F.-R.; Gray, M.-E.; **Cui, W.**; Knebe, A.; Rasia, E.; Yepes, G., 2021, MNRAS, 503, 2065K
 
 *52.* [Exploring the hydrostatic mass bias in MUSIC clusters: application to the NIKA2 mock sample](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.5115G/abstract) Gianfagna, G.; De Petris, M.; Yepes, G.; De Luca, F.; Sembolini, F.; **Cui, W.**; Biffi, V.; Kéruzoré, F.; Macías-Pérez, J.; Mayet, F.; Perotto, L.; Rasia, E.; Ruppin, F., 2021, MNRAS, 502, 5115G
 
 *51.* [The Three Hundred Project: The gas disruption of infalling objects in cluster environments](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.5029M/abstract) Mostoghiu, R.; Arthur, J.; Pearce, F.; Gray, M.; Knebe, A.; **Cui, W.**; Welker, C.; Cora, S.; Murante, G.; Dolag, K.; Yepes, G., 2021, MNRAS, 501, 5029M
 
-*50.* [The Three Hundred Project: quest of clusters of galaxies morphology and dynamical state through Zernike polynomials](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3666C/abstract) Capalbo, V.; De Petris, M.; De Luca, F.; **Cui, W.**; Yepes, G.; Knebe, A.; Rasia, E., 2021, MNRAS, in press
+*50.* [The Three Hundred Project: quest of clusters of galaxies morphology and dynamical state through Zernike polynomials](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3666C/abstract) Capalbo, V.; De Petris, M.; De Luca, F.; **Cui, W.**; Yepes, G.; Knebe, A.; Rasia, E., 2021, MNRAS, 503, 6155C
 
 *49.* [The ThreeHundred: the structure and properties of cosmic filaments in the outskirts of galaxy clusters](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502..714R/abstract) Rost, A.; Kuchner, U.; Welker, C.; Pearce, F.; Stasyszyn, F.; Gray, M.; **Cui, W.**; Dave, R.; Knebe, A.; Yepes, G.; Rasia, E., 2021, MNRAS, 502, 714R
 
@@ -32,7 +40,7 @@ title: Publications
 
 *47.* [Constraining the cross-section of dark matter with giant radial arcs in galaxy clusters](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500..247V/abstract) Vega-Ferrero, J.; Dana, J. M.; Diego, J. M.; Yepes, G.; **Cui, W.**; Meneghetti, M., 2021, MNRAS, 500 247
 
-<center><strong>--- 2020 ---</strong></center>
+<center><strong>--- 2020 (8 papers) ---</strong></center>
 *46.* [Do model emission line galaxies live in filaments at z ∼ 1?](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.1852G/abstract) Gonzalez-Perez, V.; **Cui, W.**; Contreras, S.; Baugh, C. M.; Comparat, J.; Griffin, A. J.; Helly, J.; Knebe, A.; Lacey, C.; Norberg, P., 2020, MNRAS, 498, 1852G.
 
 *45.* [Protoclusters at z = 5.7: a view from the MultiDark galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.5220C/abstract) **Cui, Weiguang**; Qiao, Jiaqi; Davé, Romeel; Knebe, Alexander; Peacock, John A.; Yepes, Gustavo, 2020, MNRAS, 497, 5220C.
