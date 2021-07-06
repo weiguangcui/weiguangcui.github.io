@@ -17,12 +17,18 @@ title: Publications
 
 -----
 
-<center><strong>--- 2021 (11 papers) ---</strong></center>
-*57.* [What to expect from dynamical modelling of cluster haloes I. The information content of different dynamical tracers](https://ui.adsabs.harvard.edu/abs/2021arXiv210603011L/abstract) Li, Q.; Han, J.; Wang, W.; **Cui, W.**; Li, Z.; Yang, X. MNRAS in press
+<center><strong>--- 2021 (14 papers) ---</strong></center>
+*60.* [The origin of galaxy colour bimodality in the scatter of the Stellar-to-Halo Mass Relation](https://t.co/XszUjkcrz4?amp=1) **Cui, Weiguang**; Davé, R.; Peacock, J. A.; Anglés-Alcázar, D.; Yang, X. 2021, Nat Astron, https://doi.org/10.1038/s41550-021-01404-1
 
-*56.* [The Three Hundred Project: The stellar angular momentum evolution of cluster galaxies](https://ui.adsabs.harvard.edu/abs/2021arXiv210501676M/abstract) Mostoghiu, R.; Knebe, A.; Pearce, F.~R.; Power, C.; Lagos, C. D. P.; **Cui, W.**; Borgani, S.; Dolag, K.; Murante, G.; Yepes, G. A\&A in press
+*59.* [Does concentration drive the scatter in the stellar-to-halo mass relation of galaxy clusters?](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.5117Z/abstract) Zu, Y.; Shan, H.; Zhang, J.; Singh, S.; Shao, Z.; Chen, X.; Yao, J.; Golden-Marx, J. B.; **Cui, W.**; Jullo, E.; Kneib, J.-P.; Zhang, P.; Yang, X. 2021, MNRAS 505, 5117
 
-*55.* [The Three Hundred project: dynamical state of galaxy clusters and morphology from multiwavelength synthetic maps](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.5383D/abstract) De Luca, F.; De Petris, M.; Yepes, G.; **Cui, W.**; Knebe, A.; Rasia, E. 2021, MNRAS, 504, 5383D ￼
+*58.* [CLUMP-3D: the lack of non-thermal motions in galaxy cluster cores](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4338S/abstract) Sayers, J.; Sereno, M.; Ettori, S.; Rasia, E.; **Cui, W.**; Golwala, S.; Umetsu, K.; Yepes, G. 2021, MNRAS 505, 4338
+
+*57.* [What to expect from dynamical modelling of cluster haloes I. The information content of different dynamical tracers](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.3907L/abstract) Li, Q.; Han, J.; Wang, W.; **Cui, W.**; Li, Z.; Yang, X. 2021, MNRAS 505, 3907
+
+*56.* [The Three Hundred Project: The stellar angular momentum evolution of cluster galaxies](https://ui.adsabs.harvard.edu/abs/2021arXiv210501676M/abstract) Mostoghiu, R.; Knebe, A.; Pearce, F.~R.; Power, C.; Lagos, C. D. P.; **Cui, W.**; Borgani, S.; Dolag, K.; Murante, G.; Yepes, G. 2021, A&A in press
+
+*55.* [The Three Hundred project: dynamical state of galaxy clusters and morphology from multiwavelength synthetic maps](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.5383D/abstract) De Luca, F.; De Petris, M.; Yepes, G.; **Cui, W.**; Knebe, A.; Rasia, E. 2021, MNRAS, 504, 5383D
 
 *54.* [Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.4024M/abstract) Moews, B.; Davé, R.; Mitra, S.; Hassan, S.; **Cui, W.** 2021, MNRAS, 504, 4024M
 
