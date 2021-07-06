@@ -18,7 +18,7 @@ title: Publications
 -----
 
 <center><strong>--- 2021 (14 papers) ---</strong></center>
-*60.* [The origin of galaxy colour bimodality in the scatter of the Stellar-to-Halo Mass Relation](https://t.co/XszUjkcrz4?amp=1) **Cui, Weiguang**; Davé, R.; Peacock, J. A.; Anglés-Alcázar, D.; Yang, X. 2021, Nat Astron, https://doi.org/10.1038/s41550-021-01404-1
+*60.* **\*** [**The origin of galaxy colour bimodality in the scatter of the Stellar-to-Halo Mass Relation**](https://t.co/XszUjkcrz4?amp=1) **Cui, Weiguang**; Davé, R.; Peacock, J. A.; Anglés-Alcázar, D.; Yang, X. 2021, Nat Astron, https://doi.org/10.1038/s41550-021-01404-1
 
 *59.* [Does concentration drive the scatter in the stellar-to-halo mass relation of galaxy clusters?](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.5117Z/abstract) Zu, Y.; Shan, H.; Zhang, J.; Singh, S.; Shao, Z.; Chen, X.; Yao, J.; Golden-Marx, J. B.; **Cui, W.**; Jullo, E.; Kneib, J.-P.; Zhang, P.; Yang, X. 2021, MNRAS 505, 5117
 
@@ -49,7 +49,7 @@ title: Publications
 <center><strong>--- 2020 (8 papers) ---</strong></center>
 *46.* [Do model emission line galaxies live in filaments at z ∼ 1?](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.1852G/abstract) Gonzalez-Perez, V.; **Cui, W.**; Contreras, S.; Baugh, C. M.; Comparat, J.; Griffin, A. J.; Helly, J.; Knebe, A.; Lacey, C.; Norberg, P., 2020, MNRAS, 498, 1852G.
 
-*45.* [Protoclusters at z = 5.7: a view from the MultiDark galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.5220C/abstract) **Cui, Weiguang**; Qiao, Jiaqi; Davé, Romeel; Knebe, Alexander; Peacock, John A.; Yepes, Gustavo, 2020, MNRAS, 497, 5220C.
+*45.* **\*** [**Protoclusters at z = 5.7: a view from the MultiDark galaxies**](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.5220C/abstract) **Cui, Weiguang**; Qiao, Jiaqi; Davé, Romeel; Knebe, Alexander; Peacock, John A.; Yepes, Gustavo, 2020, MNRAS, 497, 5220C.
 
 *44.* [The Three Hundred project: shapes and radial alignment of satellite, infalling, and backsplash galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.3002K/abstract) Knebe, Alexander; Gámez-Marín, Matías; Pearce, Frazer R.; **Cui, Weiguang**; Hoffmann, Kai; De Petris, Marco; Power, Chris; Haggar, Roan; Mostoghiu, Robert, 2020, MNRAS, 495, 3002K
 
