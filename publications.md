@@ -22,9 +22,9 @@ title: Publications
 
 *56.* [The Three Hundred Project: The stellar angular momentum evolution of cluster galaxies](https://ui.adsabs.harvard.edu/abs/2021arXiv210501676M/abstract) Mostoghiu, R.; Knebe, A.; Pearce, F.~R.; Power, C.; Lagos, C. D. P.; **Cui, W.**; Borgani, S.; Dolag, K.; Murante, G.; Yepes, G. A\&A in press
 
-*55* [The Three Hundred project: dynamical state of galaxy clusters and morphology from multiwavelength synthetic maps](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.5383D/abstract) De Luca, F.; De Petris, M.; Yepes, G.; **Cui, W.**; Knebe, A.; Rasia, E. 2021, MNRAS, 504, 5383D ￼
+*55.* [The Three Hundred project: dynamical state of galaxy clusters and morphology from multiwavelength synthetic maps](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.5383D/abstract) De Luca, F.; De Petris, M.; Yepes, G.; **Cui, W.**; Knebe, A.; Rasia, E. 2021, MNRAS, 504, 5383D ￼
 
-*54* [Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.4024M/abstract) Moews, B.; Davé, R.; Mitra, S.; Hassan, S.; **Cui, W.** 2021, MNRAS, 504, 4024M
+*54.* [Hybrid analytic and machine-learned baryonic property insertion into galactic dark matter haloes](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.4024M/abstract) Moews, B.; Davé, R.; Mitra, S.; Hassan, S.; **Cui, W.** 2021, MNRAS, 504, 4024M
 
 *53.* [Cosmic filaments in galaxy cluster outskirts: quantifying finding filaments in redshift space](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.2065K/abstract) Kuchner, U.; Aragón-Salamanca, A.; Rost, A.; Pearce, F.-R.; Gray, M.-E.; **Cui, W.**; Knebe, A.; Rasia, E.; Yepes, G., 2021, MNRAS, 503, 2065K
 
