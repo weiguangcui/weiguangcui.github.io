@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solved the mystery of blue and red galaxies’ origins
+title: Solve the mystery of blue and red galaxies’ origins
 tags: [astronomy] [my work]
 ---
 
