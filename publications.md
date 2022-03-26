@@ -16,7 +16,13 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first author paper marked with \*):
 
 -----
-<center><strong>--- 2022 (2 papers) ---</strong></center>
+<center><strong>--- 2022 (5 papers) ---</strong></center>
+*67* [Cosmic filaments delay quenching inside clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512..926K/abstract) Kotecha, S.; Welker, C.; Zhou, Z.; Wadsley, J.; Kraljic, K.; Sorce, J.; Rasia, E.; Roberts, I.; Gray, M.; Yepes, G.; **Cui, W.**, 2022, MNRAS, 512, 926
+
+*66* [The three hundred project: galaxy cluster mergers and their impact on the stellar component of brightest cluster galaxies](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2897C/abstract) Contreras-Santos, A.; Knebe, A.; Pearce, F.; Haggar, R.; Gray, M.; **Cui, W.**; Yepes, G.; De Petris, M.; De Luca, F.; Power, C.; Mostoghiu, R.; Nuza, S.~E.; Hoeft, M., 2022, MNRAS, 511, 2897
+
+*65* [The Three Hundred Project: Dissecting the Fundamental Plane of galaxy clusters up to z = 1](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp..614D/abstract) Díaz-García, L.~A.; Umetsu, K.; Rasia, E.; **Cui, W.**; Meneghetti, M., 2022, MNRAS, tmp, 614D
+
 *64* [Galaxy velocity bias in cosmological simulations: towards per cent-level calibration](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.2980A/abstract) Anbajagane, D.; Aung, H.; Evrard, A.~E.; Farahi, A.; Nagai, D.; Barnes, D.~J.; **Cui, W.**; Dolag, K.; McCarthy, I.~G.; Rasia, E.; Yepes, G.,  2022, MNRAS, 510, 2980A 
 
 *63.* [An inventory of galaxies in cosmic filaments feeding galaxy clusters: galaxy groups, backsplash galaxies, and pristine galaxies](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510..581K/abstract) Kuchner, U.; Haggar, R.; Aragón-Salamanca, A.; Pearce, F.~R.; Gray, M.~E.; Rost, A.; **Cui, Weiguang**; Knebe, A.; Yepes, G., 2022, MNRAS, 510, 581K 
