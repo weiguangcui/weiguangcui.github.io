@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Set VPN for connecting to only specific IP address
-tags: [VPN] [Linux]
+tags: [VPN, Linux]
 ---
 
 # The problem

@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Output Zetero groups bibliography to Overleaf
-tags: [Zetero] [Overleaf]
+subtitle: 
+gh-repo: weiguangcui/weiguangcui.github.io
+gh-badge: [star, fork, follow]
+tags: [Zetero, Overleaf]
+comments: true
 ---
 
 # The problem

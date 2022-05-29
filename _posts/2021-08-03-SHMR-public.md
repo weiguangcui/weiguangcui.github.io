@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solve the mystery of blue and red galaxies’ origins
-tags: [astronomy] [my work]
+tags: [astronomy, research-work]
 ---
 
 Astronomers have shed light on the mystery of why some galaxies look blue while others appear red. New sophisticated computer simulations of galaxy formation have revealed that the contrasting colours can be traced back to how energy was released from black holes billions of years ago.

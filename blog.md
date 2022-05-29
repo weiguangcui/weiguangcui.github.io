@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-css: "/css/main.css"
+css: "assets/css/beautifuljekyll.css"
 subtitle: Collections, tips and useful links/stuffs
 <!-- use-site-title: true -->
 ---

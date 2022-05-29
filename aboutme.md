@@ -2,11 +2,11 @@
 layout: page
 title: About me
 subtitle: self-description
-bigimg:
-  - "/img/places/Shanghai2.jpg": "Shanghai, 2010"
-  - "/img/places/xixi-Trieste.jpg": "Trieste, XiXi, 2011"
-  - "/img/places/Rotnest-Perth.JPG": "Perth, 2014"
-  - "/img/places/Madrid-4Torre.jpg": "Madrid, 2017"
+cover-img:
+  - "assets/img/places/Shanghai2.jpg": "Shanghai, 2010"
+  - "assets/img/places/xixi-Trieste.jpg": "Trieste, XiXi, 2011"
+  - "assets/img/places/Rotnest-Perth.JPG": "Perth, 2014"
+  - "assets/img/places/Madrid-4Torre.jpg": "Madrid, 2017"
 ---
 
 My name in Chinese characters: 崔伟广. You may need Chinese language support for your web browser to see these characters.

@@ -2,8 +2,7 @@
 layout: page
 title: The MACRO galaxy clusters
 subtitle: Using hydro-dynamical simulations to make suggestions to observations.
-bigimg:
-  - "/img/paper-figures/MO.jpg": "Mock image of the clusters"
+cover-img: /assets/img/paper-figures/MO.jpg
 ---
 
 The gap between theory and observation in astronomy is larger than we thought, as there is no valid method to exam the theory which is derived from observation by explaining it. Thanks to numerical simulations, especially hydro-dynamical simulations, this link is not longer one-way (observation -> theory) anymore. With the aid of mimicking observation techniques, we are able to build a two-way bridge, which allows us to test the theory by comparing the mock images with observed ones, and maybe to make suggestions to the observations.
