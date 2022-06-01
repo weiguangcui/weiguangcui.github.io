@@ -2,7 +2,7 @@
 layout: post
 title: The new GIZMO-SIMBA clusters
 tags: [astronomy, research-work]
-cover-img: "assets/img/postimg/GIZMO-17-image.jpg": "Mock GIZMO-SIMBA cluster"
+cover-img: -"assets/img/postimg/GIZMO-17-image.jpg": "Mock GIZMO-SIMBA cluster"
 ---
 
 Galaxy cluster, the largest number of galaxies assembled in the Universe, is the key laboratory for examinating many theories, from cosmology and dark matter to galaxy formation and intra-galactic medium. Therefore, theoretically understanding it and its formation has always in the central study of modern astronomy. However, numerical simulation is the only way to redisplay its detailed formation history. Limited by the current computation power, hydro-dynamically simulated galaxy clusters -- including all the baryons and the physical baryon processes -- are mostly simulated relying on the zoom-in simulation technique, with which only the targeted galaxy cluster is in the highest resolved region and the outer regions are replaced by low-resolution dark matter particles to represent the large-scale gravitation. [The Three Hundred project](https://the300-project.org) stands as a unique galaxy cluster project for these reasons:
