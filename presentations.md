@@ -6,10 +6,10 @@ subtitle: My talks, posters, etc.
 
 #### I have given 50+ talks up to 2018. Here I only list some selected talks (in reversed chronological order).
 
-*4.*  [**The Three Hundred: The new GIZMO-Simba run**](/assets/presentations/The_Three_Hundred_Presentation_STSci.pdf)
+*4.*  [**The Three Hundred: The new GIZMO-Simba run**](/assets/presentations/The_Three_Hundred_Presentation_STSci.pdf).   
 ...Talk at the STScl Symposium ["Galaxy Clusters 2022: Challenging Our Cosmological Perspectives"](https://www.stsci.edu/contents/events/stsci/2022/april/galaxy-clusters-2022-challenging-our-cosmological-perspectives), virtual, 29 April 2022.
 
-*3.*  [**Towards a precise understanding of galaxy formation through the second-order effect on the galaxy-stellar-to-halo-mass relation**](/assets/presentations/galaxy_halo_relation-Ringberg.pdf) 
+*3.*  [**Towards a precise understanding of galaxy formation through the second-order effect on the galaxy-stellar-to-halo-mass relation**](/assets/presentations/galaxy_halo_relation-Ringberg.pdf).      
 ...Talk at the "Breakthroughs in Galaxy Formation" workshop, Ringberg, Germany, 05 April 2022
 
 *2.*  [**The Large-Scale Environments: The large-scale distribution of baryons inside the Cosmological hydrodyanmical simulations**](https://github.com/weiguangcui/The-LSE---presentation/blob/master/The_LSE_presentation-Weiguang.pdf).   
