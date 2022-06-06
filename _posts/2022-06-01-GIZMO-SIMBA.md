@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The new GIZMO-SIMBA clusters
+gh-repo: weiguangcui/weiguangcui.github.io
+gh-badge: [star, fork, follow]
 tags: [astronomy, research-work]
 cover-img: /assets/img/postimg/GIZMO-17-image.jpg
 ---

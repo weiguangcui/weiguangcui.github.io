@@ -17,6 +17,14 @@ title: Publications
 
 -----
 <center><strong>--- 2022 (5 papers) ---</strong></center>
+*71* [THE THREE HUNDRED project: The GIZMO-SIMBA run](THE THREE HUNDRED project: The GIZMO-SIMBA run) **Cui, Weiguang**; Dave, R.; Knebe, A.; Rasia, E.; Gray, M.; Pearce, F.; Power, C.; Yepes, G, et al. 2022, MNRAS, in press
+
+*70* [Shocks in the Stacked Sunyaev-Zel'dovich Profiles of Clusters II: Measurements from SPT-SZ + Planck Compton-y Map](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1346A/abstract) Anbajagane, D.; Chang, C.; Jain, B.; Adhikari, S.; Baxter, E. J.; Benson, B. A.; Bleem, L. E.; Bocquet, S.; Calzadilla, M. S.; Carlstrom, J. E.; Chang, C. L.; Chown, R.; Crawford, T. M.; Crites, A. T.; **Cui, W.**; and 31 co-authors, 2022, MNRAS, in press
+
+*69* [Brightest cluster galaxies trace weak lensing mass bias and halo triaxiality in the three hundred project](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.2178H/abstract) Herbonnet, R.; Crawford, A.; Avestruz, C.; Rasia, E.; Giocoli, C.; Meneghetti, M.; von der Linden, A.; **Cui, W.**; Yepes, G., 2022, MNRAS, 513, 2178H
+
+*68* [Chameleon screening depends on the shape and structure of NFW halos](https://ui.adsabs.harvard.edu/abs/2022JCAP...04..047T/abstract) Tamosiunas, A.; Briddon, C.; Burrage, C.; **Cui, W.**; Moss, A., 2022, JCAP, 04, 047T
+
 *67* [Cosmic filaments delay quenching inside clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512..926K/abstract) Kotecha, S.; Welker, C.; Zhou, Z.; Wadsley, J.; Kraljic, K.; Sorce, J.; Rasia, E.; Roberts, I.; Gray, M.; Yepes, G.; **Cui, W.**, 2022, MNRAS, 512, 926
 
 *66* [The three hundred project: galaxy cluster mergers and their impact on the stellar component of brightest cluster galaxies](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2897C/abstract) Contreras-Santos, A.; Knebe, A.; Pearce, F.; Haggar, R.; Gray, M.; **Cui, W.**; Yepes, G.; De Petris, M.; De Luca, F.; Power, C.; Mostoghiu, R.; Nuza, S.~E.; Hoeft, M., 2022, MNRAS, 511, 2897
@@ -26,6 +34,7 @@ title: Publications
 *64* [Galaxy velocity bias in cosmological simulations: towards per cent-level calibration](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.2980A/abstract) Anbajagane, D.; Aung, H.; Evrard, A.~E.; Farahi, A.; Nagai, D.; Barnes, D.~J.; **Cui, W.**; Dolag, K.; McCarthy, I.~G.; Rasia, E.; Yepes, G.,  2022, MNRAS, 510, 2980A 
 
 *63.* [An inventory of galaxies in cosmic filaments feeding galaxy clusters: galaxy groups, backsplash galaxies, and pristine galaxies](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510..581K/abstract) Kuchner, U.; Haggar, R.; Aragón-Salamanca, A.; Pearce, F.~R.; Gray, M.~E.; Rost, A.; **Cui, Weiguang**; Knebe, A.; Yepes, G., 2022, MNRAS, 510, 581K 
+
 
 <center><strong>--- 2021 (16 papers) ---</strong></center>
 *62.* [Shocks in the stacked Sunyaev-Zel'dovich profiles of clusters - I. Analysis with the Three Hundred simulations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.1777B/abstract) Baxter, E~J.; Adhikari, S.; Vega-Ferrero, J.; **Cui, Weiguang**; Chang, C.; Jain, B.; Knebe, A., 2021, MNRAS, 508, 1777B 
