@@ -16,7 +16,7 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first author paper marked with \*):
 
 -----
-<center><strong>--- 2022 (5 papers) ---</strong></center>
+<center><strong>--- 2022 (9 papers) ---</strong></center>
 *71* [THE THREE HUNDRED project: The GIZMO-SIMBA run](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1356C/abstract) **Cui, Weiguang**; Dave, R.; Knebe, A.; Rasia, E.; Gray, M.; Pearce, F.; Power, C.; Yepes, G, et al. 2022, MNRAS, in press
 
 *70* [Shocks in the Stacked Sunyaev-Zel'dovich Profiles of Clusters II: Measurements from SPT-SZ + Planck Compton-y Map](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1346A/abstract) Anbajagane, D.; Chang, C.; Jain, B.; Adhikari, S.; Baxter, E. J.; Benson, B. A.; Bleem, L. E.; Bocquet, S.; Calzadilla, M. S.; Carlstrom, J. E.; Chang, C. L.; Chown, R.; Crawford, T. M.; Crites, A. T.; **Cui, W.**; and 31 co-authors, 2022, MNRAS, in press
