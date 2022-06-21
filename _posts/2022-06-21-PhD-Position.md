@@ -24,6 +24,6 @@ Applicants should submit to the attention of Dr Weiguang Cui ([weiguang.cui@uam.
 
 A Master degree in Physics or related area, such as Maths, Computational Science, etc., is required to be considered for this PhD offer.
 
-Applications received before **August 31st, 2022** will be given full consideration.
+Applications received before **August 31st, 2022** will be given full consideration. The expected starting date is around September 2022, but can be delayed.
 
 For further information please contact Dr Weiguang Cui.
