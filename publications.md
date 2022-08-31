@@ -16,10 +16,23 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first author paper marked with \*):
 
 -----
-<center><strong>--- 2022 (9 papers) ---</strong></center>
-*71* [THE THREE HUNDRED project: The GIZMO-SIMBA run](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1356C/abstract) **Cui, Weiguang**; Dave, R.; Knebe, A.; Rasia, E.; Gray, M.; Pearce, F.; Power, C.; Yepes, G, et al. 2022, MNRAS, in press
+<center><strong>--- 2022 (15 papers) ---</strong></center>
 
-*70* [Shocks in the Stacked Sunyaev-Zel'dovich Profiles of Clusters II: Measurements from SPT-SZ + Planck Compton-y Map](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1346A/abstract) Anbajagane, D.; Chang, C.; Jain, B.; Adhikari, S.; Baxter, E. J.; Benson, B. A.; Bleem, L. E.; Bocquet, S.; Calzadilla, M. S.; Carlstrom, J. E.; Chang, C. L.; Chown, R.; Crawford, T. M.; Crites, A. T.; **Cui, W.**; and 31 co-authors, 2022, MNRAS, in press
+*77* [THE THREE HUNDRED: cluster dynamical states and relaxation period](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516...26Z/abstract) Zhang, B.; **Cui, W.**; Wang, Y.; Dave, R.; De Petris, M. 2022, MNRAS, 516, 26Z
+
+*76* [A stochastic model to reproduce the star formation history of individual galaxies in hydrodynamic simulations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.3249W/abstract) Wang, Y.; Napolitano, N.-R.; **Cui, W.** and 7 co-authors, 2022, MNRAS, 515, 3249W
+
+*75* [ELUCID. VII. Using Constrained Hydro Simulations to Explore the Gas Component of the Cosmic Web](https://ui.adsabs.harvard.edu/abs/2022ApJ...936...11L/abstract) Li, R.; Wang, H.; Mo, H.-J.; Huang, S.; Katz, N.; Luo, X.; **Cui, W.**; Li, H.; Yang, X.; Jiang, N.; Zhang, Y. 2022, ApJ, 936, 11L
+
+*74* [How baryons affect haloes and large-scale structure: a unified picture from the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.2132S/abstract) Sorini, D.; Davé, R.; **Cui, W.**; Appleby, S. 2022, MNRAS, tmp, 2132S￼
+
+*73* [What to expect from dynamical modelling of cluster haloes - II. Investigating dynamical state indicators with Random Forest](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.5890L/abstract) Li, Q.; Han, J.; Wang, W.; **Cui, W**; De Luca, F.; Yang, X.; Zhou, Y.; Shi, R. 2022, MNRAS, 514, 5890L
+
+*72* [Groups and Protocluster Candidates in the CLAUDS and HSC-SSP Joint Deep Surveys](https://ui.adsabs.harvard.edu/abs/2022ApJ...933....9L/abstract) Li, Q.; Yang, X.; Liu, C.; Jing, Y.; He, M.; Huang, J.; Dai, Y. S.; Sawicki, M.; Arnouts, S.; Gwyn, S.; Moutard, T.; Mo, H.-J.; Wang, K.; Katsianis, A.; **Cui, W.**; Han, J.; Chiu, I.-N.; Gu, Y.; Xu, H. 2022, ApJ, 933, 9L
+
+*71* [THE THREE HUNDRED project: The GIZMO-SIMBA run](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514..977C/abstract) **Cui, Weiguang**; Dave, R.; Knebe, A.; Rasia, E.; Gray, M.; Pearce, F.; Power, C.; Yepes, G, et al. 2022, MNRAS, 514, 977C
+
+*70* [Shocks in the Stacked Sunyaev-Zel'dovich Profiles of Clusters II: Measurements from SPT-SZ + Planck Compton-y Map](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.1645A/abstract) Anbajagane, D.; Chang, C.; Jain, B.; Adhikari, S.; Baxter, E. J.; Benson, B. A.; Bleem, L. E.; Bocquet, S.; Calzadilla, M. S.; Carlstrom, J. E.; Chang, C. L.; Chown, R.; Crawford, T. M.; Crites, A. T.; **Cui, W.**; and 31 co-authors, 2022, MNRAS, 514, 1645A
 
 *69* [Brightest cluster galaxies trace weak lensing mass bias and halo triaxiality in the three hundred project](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.2178H/abstract) Herbonnet, R.; Crawford, A.; Avestruz, C.; Rasia, E.; Giocoli, C.; Meneghetti, M.; von der Linden, A.; **Cui, W.**; Yepes, G., 2022, MNRAS, 513, 2178H
 
