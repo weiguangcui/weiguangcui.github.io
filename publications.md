@@ -17,9 +17,9 @@ title: Publications
 
 -----
 <center><strong>--- 2022 (19 papers) ---</strong></center>
-*81* [The Three Hundred project: Galaxy groups do not survive cluster infall](https://ui.adsabs.harvard.edu/abs/2022arXiv220913604H/abstract) Haggar, R.; Kuchner, U.; Gray, M. E.; Pearce, F. R.; Knebe, A.; Yepes, G.; Cui, W., 2022, MNRAS, tmp.
+*81* [The Three Hundred project: Galaxy groups do not survive cluster infall](https://ui.adsabs.harvard.edu/abs/2022arXiv220913604H/abstract) Haggar, R.; Kuchner, U.; Gray, M. E.; Pearce, F. R.; Knebe, A.; Yepes, G.; **Cui, W.**, 2022, MNRAS, tmp.
 
-*80* [A multi-simulation study of relativistic SZ temperature scalings in galaxy clusters and groups](https://ui.adsabs.harvard.edu/abs/2022arXiv220705834L/abstract) Lee, E.; Anbajagane, D.; Singh, P.; Chluba, J.; Nagai, D.; Kay, S. T.; Cui, W.; Dolag, K.; Yepes, G., 2022, MNRAS, tmp, 
+*80* [A multi-simulation study of relativistic SZ temperature scalings in galaxy clusters and groups](https://ui.adsabs.harvard.edu/abs/2022arXiv220705834L/abstract) Lee, E.; Anbajagane, D.; Singh, P.; Chluba, J.; Nagai, D.; Kay, S. T.; **Cui, W.**; Dolag, K.; Yepes, G., 2022, MNRAS, tmp, 
 
 *79* [Forecasting the success of the WEAVE Wide-Field Cluster Survey on the extraction of the cosmic web filaments around galaxy clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.2567C/abstract) Cornwell, D. J.; Kuchner, U.; Aragón-Salamanca, A.; Gray, M. E.; Pearce, F. R.; Aguerri, J. A. L. ; **Cui, W.**, et al., 2022, MNRAS, tmp, 2567C
 
