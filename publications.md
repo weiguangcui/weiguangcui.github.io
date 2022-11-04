@@ -16,12 +16,14 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first author paper marked with \*):
 
 -----
-<center><strong>--- 2022 (19 papers) ---</strong></center>
+<center><strong>--- 2022 (20 papers) ---</strong></center>
+*82* **\*** [**A deep learning approach to infer galaxy cluster masses from Planck Compton-y parameter maps**](https://ui.adsabs.harvard.edu/abs/2022NatAs.tmp..218D/abstract) de Andres, D.; **Cui, Weiguang**; Ruppin, F.; De Petris, M.; Yepes, G.; Gianfagna, G.; Lahouli, I.; Aversano, G.; Dupuis, R.; Jarraya, M.; Vega-Ferrero, J., 2022, Published in Nature Astronomy; [doi:10.1038/s41550-022-01784-y](doi:10.1038/s41550-022-01784-y)
+
 *81* [The Three Hundred project: Galaxy groups do not survive cluster infall](https://ui.adsabs.harvard.edu/abs/2022arXiv220913604H/abstract) Haggar, R.; Kuchner, U.; Gray, M. E.; Pearce, F. R.; Knebe, A.; Yepes, G.; **Cui, W.**, 2022, MNRAS, tmp.
 
 *80* [A multi-simulation study of relativistic SZ temperature scalings in galaxy clusters and groups](https://ui.adsabs.harvard.edu/abs/2022arXiv220705834L/abstract) Lee, E.; Anbajagane, D.; Singh, P.; Chluba, J.; Nagai, D.; Kay, S. T.; **Cui, W.**; Dolag, K.; Yepes, G., 2022, MNRAS, tmp, 
 
-*79* [Forecasting the success of the WEAVE Wide-Field Cluster Survey on the extraction of the cosmic web filaments around galaxy clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.2567C/abstract) Cornwell, D. J.; Kuchner, U.; Aragón-Salamanca, A.; Gray, M. E.; Pearce, F. R.; Aguerri, J. A. L. ; **Cui, W.**, et al., 2022, MNRAS, tmp, 2567C
+*79* [Forecasting the success of the WEAVE Wide-Field Cluster Survey on the extraction of the cosmic web filaments around galaxy clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.1678C/abstract) Cornwell, D. J.; Kuchner, U.; Aragón-Salamanca, A.; Gray, M. E.; Pearce, F. R.; Aguerri, J. A. L. ; **Cui, W.**, et al., 2022, MNRAS, 517, 1678C
 
 *78* [Understanding the relation between thermal Sunyaev-Zeldovich decrement and halo mass using the SIMBA and TNG simulations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.4084Y/abstract) Yang, T.; Cai, Y.-C.; **Cui, W.**; Davé, R.; Peacock, J. A.; Sorini, D., 2022, MNRAS, 516, 4084Y
 
@@ -61,7 +63,7 @@ title: Publications
 
 *61.* [The thermalization of massive galaxy clusters](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.5214S/abstract) Sereno, M.; Lovisari, L.; **Cui, W.**; Schellenberger, G., 2021, MNRAS, 507, 5214S 
 
-*60.* **\*** [**The origin of galaxy colour bimodality in the scatter of the Stellar-to-Halo Mass Relation**](https://t.co/XszUjkcrz4?amp=1) **Cui, W.**; Davé, R.; Peacock, J. A.; Anglés-Alcázar, D.; Yang, X., 2021, Nat Astron, https://doi.org/10.1038/s41550-021-01404-1
+*60.* **\*** [**The origin of galaxy colour bimodality in the scatter of the Stellar-to-Halo Mass Relation**](https://t.co/XszUjkcrz4?amp=1) **Cui, W.**; Davé, R.; Peacock, J. A.; Anglés-Alcázar, D.; Yang, X., 2021, *Nature Astronomy*, [https://doi.org/10.1038/s41550-021-01404-1](https://doi.org/10.1038/s41550-021-01404-1)
 
 *59.* [Does concentration drive the scatter in the stellar-to-halo mass relation of galaxy clusters?](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.5117Z/abstract) Zu, Y.; Shan, H.; Zhang, J.; Singh, S.; Shao, Z.; Chen, X.; Yao, J.; Golden-Marx, J. B.; **Cui, W.**; Jullo, E.; Kneib, J.-P.; Zhang, P.; Yang, X., 2021, MNRAS, 505, 5117
 
