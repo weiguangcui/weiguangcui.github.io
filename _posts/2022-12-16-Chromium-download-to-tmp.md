@@ -8,7 +8,7 @@ comments: true
 ---
 
 The answer is here:
-https://askubuntu.com/a/1264341
+[https://askubuntu.com/a/1264341](https://askubuntu.com/a/1264341)
 with a copy and paste version:
 ```
 mkdir /home/you/tmp
@@ -21,5 +21,6 @@ To make it permanent you can add this line to the /etc/fstab:
 ```
  # <file system> <mount point>   <type>  <options>       <dump>  <pass>
 /tmp        /home/you/tmp   auto    bind    0   3
-and rebuild the initrd with sudo update-initramfs -u -k all .
+
 ```
+and rebuild the initrd with `sudo update-initramfs -u -k all`.
