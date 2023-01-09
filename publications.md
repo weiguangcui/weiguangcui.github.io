@@ -15,6 +15,9 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first author paper marked with \*):
 
+-----
+<center><strong>--- 2023 (3 papers) ---</strong></center>
+
 *85* [A study of the hydrostatic mass bias dependence and evolution within The Three Hundred clusters](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.4238G/abstract) Gianfagna, G.; Rasia, E.; **Cui, W.**; De Petris, M.; Yepes, G.; Contreras-Santos, A.; Knebe, A., 2023, MNRAS, 518, 4238
 
 *84* [The Three Hundred project: Galaxy groups do not survive cluster infall](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1316H/abstract) Haggar, R.; Kuchner, U.; Gray, M. E.; Pearce, F. R.; Knebe, A.; Yepes, G.; **Cui, W.**, 2023, MNRAS, 518, 1316
