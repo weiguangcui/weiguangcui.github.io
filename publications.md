@@ -15,13 +15,19 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first author paper marked with \*):
 
+*85* [A study of the hydrostatic mass bias dependence and evolution within The Three Hundred clusters](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.4238G/abstract) Gianfagna, G.; Rasia, E.; **Cui, W.**; De Petris, M.; Yepes, G.; Contreras-Santos, A.; Knebe, A., 2023, MNRAS, 518, 4238
+
+*84* [The Three Hundred project: Galaxy groups do not survive cluster infall](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1316H/abstract) Haggar, R.; Kuchner, U.; Gray, M. E.; Pearce, F. R.; Knebe, A.; Yepes, G.; **Cui, W.**, 2023, MNRAS, 518, 1316
+
+*83* [Machine learning methods to estimate observational properties of galaxy clusters in large volume cosmological N-body simulations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..111D/abstract) de Andres, D.; Yepes, G.; Sembolini, F.; Martínez-Muñoz, G.; **Cui, W.**; et al., 2023, MNRAS, 518, 111
+
 -----
 <center><strong>--- 2022 (20 papers) ---</strong></center>
-*82* **\*** [**A deep learning approach to infer galaxy cluster masses from Planck Compton-y parameter maps**](https://ui.adsabs.harvard.edu/abs/2022NatAs.tmp..218D/abstract) de Andres, D.; **Cui, Weiguang**; Ruppin, F.; De Petris, M.; Yepes, G.; Gianfagna, G.; Lahouli, I.; Aversano, G.; Dupuis, R.; Jarraya, M.; Vega-Ferrero, J., 2022, Published in Nature Astronomy; [doi:10.1038/s41550-022-01784-y](doi:10.1038/s41550-022-01784-y)
+*82* **\*** [**A deep learning approach to infer galaxy cluster masses from Planck Compton-y parameter maps**](https://ui.adsabs.harvard.edu/abs/2022NatAs.tmp..218D/abstract) de Andres, D.; **Cui, Weiguang**; Ruppin, F.; De Petris, M.; Yepes, G.; Gianfagna, G.; Lahouli, I.; Aversano, G.; Dupuis, R.; Jarraya, M.; Vega-Ferrero, J., 2022, Published in Nature Astronomy, 6, 1325; [doi:10.1038/s41550-022-01784-y](doi:10.1038/s41550-022-01784-y)
 
-*81* [The Three Hundred project: Galaxy groups do not survive cluster infall](https://ui.adsabs.harvard.edu/abs/2022arXiv220913604H/abstract) Haggar, R.; Kuchner, U.; Gray, M. E.; Pearce, F. R.; Knebe, A.; Yepes, G.; **Cui, W.**, 2022, MNRAS, tmp.
+*81* [Effects of Active Galactic Nucleus Feedback on Cold Gas Depletion and Quenching of Central Galaxies](https://ui.adsabs.harvard.edu/abs/2022ApJ...941..205M/abstract) Ma, W.; Liu, K.; Guo, H.; **Cui, W.**; Jones, M.~G.; Wang, J.; Zhang, L.; Davé, R., ApJ, 941, 205
 
-*80* [A multi-simulation study of relativistic SZ temperature scalings in galaxy clusters and groups](https://ui.adsabs.harvard.edu/abs/2022arXiv220705834L/abstract) Lee, E.; Anbajagane, D.; Singh, P.; Chluba, J.; Nagai, D.; Kay, S. T.; **Cui, W.**; Dolag, K.; Yepes, G., 2022, MNRAS, tmp, 
+*80* [A multi-simulation study of relativistic SZ temperature scalings in galaxy clusters and groups](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.5303L/abstract) Lee, E.; Anbajagane, D.; Singh, P.; Chluba, J.; Nagai, D.; Kay, S. T.; **Cui, W.**; Dolag, K.; Yepes, G., 2022, MNRAS, 517, 5303, 
 
 *79* [Forecasting the success of the WEAVE Wide-Field Cluster Survey on the extraction of the cosmic web filaments around galaxy clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.1678C/abstract) Cornwell, D. J.; Kuchner, U.; Aragón-Salamanca, A.; Gray, M. E.; Pearce, F. R.; Aguerri, J. A. L. ; **Cui, W.**, et al., 2022, MNRAS, 517, 1678C
 
