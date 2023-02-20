@@ -16,7 +16,12 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first author paper marked with \*):
 
 -----
-<center><strong>--- 2023 (3 papers) ---</strong></center>
+<center><strong>--- 2023 (5 papers) ---</strong></center>
+
+*87* [The Three Hundred project: A Machine Learning method to infer clusters of galaxies mass radial profiles from mock Sunyaev-Zel'dovich maps](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp..362F/abstract) 
+Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G.; Dupuis, R.; Jarraya, M.; Lahouli, I.; De Luca, F.; Gianfagna, G.; Rasia, E., 2023, MNRAS, tmp, 362F
+
+*86* [The physical nature of circumgalactic medium absorbers in SIMBA](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.5514A/abstract) Appleby, S.; Davé, R.; Sorini, D.; **Cui, W**; Christiansen, J., 2023, MNRAS, 519, 5514A
 
 *85* [A study of the hydrostatic mass bias dependence and evolution within The Three Hundred clusters](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.4238G/abstract) Gianfagna, G.; Rasia, E.; **Cui, W.**; De Petris, M.; Yepes, G.; Contreras-Santos, A.; Knebe, A., 2023, MNRAS, 518, 4238
 
