@@ -16,7 +16,9 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first author paper marked with \*):
 
 -----
-<center><strong>--- 2023 (5 papers) ---</strong></center>
+<center><strong>--- 2023 (6 papers) ---</strong></center>
+
+*88* [The Evolution and Mass Dependence of Galaxy Cluster Pressure Profiles at 0.05≤ z≤ 0.60 and 4× 10^14 M⊙≤ M 500≤ 30× 10^14 M⊙](https://iopscience.iop.org/article/10.3847/1538-4357/acb33d) Sayers, J.; Mantz, A.~B.; Rasia, E.; Allen, S.~W.; **Cui, W.**; Golwala, S.~R.; Morris, R.G.; Wan, J.~T., 2023, ApJ, 944, 221
 
 *87* [The Three Hundred project: A Machine Learning method to infer clusters of galaxies mass radial profiles from mock Sunyaev-Zel'dovich maps](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp..362F/abstract) 
 Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G.; Dupuis, R.; Jarraya, M.; Lahouli, I.; De Luca, F.; Gianfagna, G.; Rasia, E., 2023, MNRAS, tmp, 362F
