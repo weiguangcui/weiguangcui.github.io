@@ -221,6 +221,20 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 ### Unreferenced Publications:
 
+*13.* [The Three Hundred-NIKA2 Sunyaev-Zeldovich Large Program twin samples: Synthetic clusters to support real observations](https://ui.adsabs.harvard.edu/abs/2022EPJWC.25700036P/abstract) Paliwal, A.; Artis, E.; Cui, W. and 12 more, 2022, EPJWC, 25700036P
+
+*12.* [THE THREE HUNDRED project: Contrasting clusters galaxy density in hydrodynamical and dark matter only simulations](https://ui.adsabs.harvard.edu/abs/2022EPJWC.25700022J/abstract) Jiménez Muñoz, A.; Macías-Pérez, J. F.; Cui, W. and 3 more, 2022, EPJWC, 25700022J
+
+*11.* [The hydrostatic mass bias in THE THREE HUNDRED clusters](https://ui.adsabs.harvard.edu/abs/2022EPJWC.25700020G/abstract) Gianfagna, Giulia; Rasia, Elena; Cui, Weiguang, and 2 more, 2022, EPJWC, 25700020G
+
+*10.* [Velocity dispersion vs cluster mass: A new scaling law with THE THREE HUNDRED clusters](https://ui.adsabs.harvard.edu/abs/2022EPJWC.25700018F/abstract) Ferragamo, Antonio; De Petris, Marco; Yepes, Gustavo, Macías-Pérez, Juan; Cui, Weiguang; Jiménez-Muñoz, Alejandroand, 2022, EPJWC, 25700018F
+
+*9.* [Mass Estimation of Planck Galaxy Clusters using Deep Learning](https://ui.adsabs.harvard.edu/abs/2022EPJWC.25700013D/abstract) de Andres, Daniel; Cui, Weiguang; Ruppin, Florian and 6 more, 2022, EPJWC, 25700013D
+
+*8.* [The THREEHUNDRED project: The effect of baryon processes at galaxy cluster scale](https://ui.adsabs.harvard.edu/abs/2022EPJWC.25700011C/abstract) Cui, Weiguang, 2022, EPJWC, 25700011C
+
+*7.* [Morphological analysis of SZ and X-ray maps of galaxy clusters with Zernike polynomials](https://ui.adsabs.harvard.edu/abs/2022EPJWC.25700008C/abstract) Capalbo, Valentina; De Petris, Marco; De Luca, Federico; Cui, Weiguang and 5 more,￼2022, EPJWC, 25700008C
+
 *6.*  [Simulated galaxy clusters show complexity of identifying centre](http://www.caastro.org/news/2015-cluster) **Cui, Weiguang**. 2015, CAASTRO News \& CAASTRO reader's digests
 
 *5.*  [The effect of AGN feedback on the halo mass function.](http://www.caastro.org/files/23/1320345959/caastro_newsletter_20140328.pdf) **Cui, Weiguang**. 2014, CAASTRO Newsletter, 10
