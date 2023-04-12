@@ -4,7 +4,7 @@ title: Teaching
 subtitle: Teaching and Supervising
 ---
 
-[Advanced Cosmology](https://github.com/weiguangcui/LSS-AdCo)
+[Advanced Cosmology](https://WeiguangCui@bitbucket.org/WeiguangCui/lss-adco.git)
 
 [Computational Astrophysics](https://computationalastrouam.github.io/aco/)
 
