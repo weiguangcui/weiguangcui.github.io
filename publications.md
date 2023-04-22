@@ -13,15 +13,17 @@ title: Publications
 
 --------
 
-### Journal Publications (in reversed chronological order, first author paper marked with \*):
+### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
 -----
-<center><strong>--- 2023 (6 papers) ---</strong></center>
+<center><strong>--- 2023 (7 papers) ---</strong></center>
+
+*89* [Galaxy pairs in The Three Hundred simulations II: studying bound ones and identifying them via machine learning](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.1031C/abstract) Contreras-Santos, Ana; Knebe, A.; **Cui, W.**; Haggar, R.; Pearce, F.; Gray, M.; De Petris, M.; Yepes, G., 2023, MNRAS, tmp, 1031C
 
 *88* [The Evolution and Mass Dependence of Galaxy Cluster Pressure Profiles at 0.05≤ z≤ 0.60 and 4× 10^14 M⊙≤ M 500≤ 30× 10^14 M⊙](https://iopscience.iop.org/article/10.3847/1538-4357/acb33d) Sayers, J.; Mantz, A.~B.; Rasia, E.; Allen, S.~W.; **Cui, W.**; Golwala, S.~R.; Morris, R.G.; Wan, J.~T., 2023, ApJ, 944, 221
 
-*87* [The Three Hundred project: A Machine Learning method to infer clusters of galaxies mass radial profiles from mock Sunyaev-Zel'dovich maps](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp..362F/abstract) 
-Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G.; Dupuis, R.; Jarraya, M.; Lahouli, I.; De Luca, F.; Gianfagna, G.; Rasia, E., 2023, MNRAS, tmp, 362F
+*87* [The Three Hundred project: A Machine Learning method to infer clusters of galaxies mass radial profiles from mock Sunyaev-Zel'dovich maps](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4000F/abstract) 
+Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G.; Dupuis, R.; Jarraya, M.; Lahouli, I.; De Luca, F.; Gianfagna, G.; Rasia, E., 2023, MNRAS, 520, 4000F
 
 *86* [The physical nature of circumgalactic medium absorbers in SIMBA](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.5514A/abstract) Appleby, S.; Davé, R.; Sorini, D.; **Cui, W**; Christiansen, J., 2023, MNRAS, 519, 5514A
 
@@ -55,7 +57,7 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 *72* [Groups and Protocluster Candidates in the CLAUDS and HSC-SSP Joint Deep Surveys](https://ui.adsabs.harvard.edu/abs/2022ApJ...933....9L/abstract) Li, Q.; Yang, X.; Liu, C.; Jing, Y.; He, M.; Huang, J.; Dai, Y. S.; Sawicki, M.; Arnouts, S.; Gwyn, S.; Moutard, T.; Mo, H.-J.; Wang, K.; Katsianis, A.; **Cui, W.**; Han, J.; Chiu, I.-N.; Gu, Y.; Xu, H. 2022, ApJ, 933, 9L
 
-*71* [THE THREE HUNDRED project: The GIZMO-SIMBA run](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514..977C/abstract) **Cui, Weiguang**; Dave, R.; Knebe, A.; Rasia, E.; Gray, M.; Pearce, F.; Power, C.; Yepes, G, et al. 2022, MNRAS, 514, 977C
+*71* **\*** [**THE THREE HUNDRED project: The GIZMO-SIMBA run**](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514..977C/abstract) **Cui, Weiguang**; Dave, R.; Knebe, A.; Rasia, E.; Gray, M.; Pearce, F.; Power, C.; Yepes, G, et al. 2022, MNRAS, 514, 977C
 
 *70* [Shocks in the Stacked Sunyaev-Zel'dovich Profiles of Clusters II: Measurements from SPT-SZ + Planck Compton-y Map](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.1645A/abstract) Anbajagane, D.; Chang, C.; Jain, B.; Adhikari, S.; Baxter, E. J.; Benson, B. A.; Bleem, L. E.; Bocquet, S.; Calzadilla, M. S.; Carlstrom, J. E.; Chang, C. L.; Chown, R.; Crawford, T. M.; Crites, A. T.; **Cui, W.**; and 31 co-authors, 2022, MNRAS, 514, 1645A
 
