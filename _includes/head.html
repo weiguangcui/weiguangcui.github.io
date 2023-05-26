@@ -46,6 +46,7 @@
   {% include gtag.html %}
   {% include gtm_head.html %}
   {% include google_analytics.html %}
+  {% include google_ad_client.html %}
   {% include cloudflare_analytics.html %}
 
   {% if layout.common-ext-css %}
@@ -149,8 +150,4 @@
     {% endfor %}
   {% endif %}
 
-  {% include google_ad_client.html %}
-  
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9308917006328475"
-     crossorigin="anonymous"></script>
 </head>

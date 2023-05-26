@@ -120,11 +120,11 @@ post_search: true
 # page-img: "assets/img/paper-figures/"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-112434502-1"
-# google_analytics: "UA-57531009-1"
+#google_analytics: "UA-112434502-1"
+google_analytics: "UA-57531009-1"
 
 # Google adsense
-google_ad_client: "ca-pub-7048633457374104"
+google_ad_client: "ca-pub-9308917006328475"
 
 # Google Tag Manager ID
 gtm: "G-NMX3V1EFYD"
