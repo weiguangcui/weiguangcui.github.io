@@ -21,3 +21,4 @@ C-b and C-f scroll the display up/down a full screen.
 g moves to the beginning of the buffer.
 % jumps to the specified percentage of the buffer.
 ```
+Refer to  the [screen manual](https://www.gnu.org/software/screen/manual/screen.html) for more details

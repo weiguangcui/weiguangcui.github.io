@@ -21,7 +21,7 @@ not for my anywhere2...
 
 # Uninstall snap
 
-Refer to this link: https://www.kevin-custer.com/blog/disabling-snaps-in-ubuntu-20-04/
+Refer to this link: [https://www.kevin-custer.com/blog/disabling-snaps-in-ubuntu-20-04/](https://www.kevin-custer.com/blog/disabling-snaps-in-ubuntu-20-04/)
 Simple commands:
 snap list
 sudo snap remove snap-store #all your packages one-by-one

@@ -23,6 +23,7 @@ we compared the GIZMO-SIMBA simulated galaxy clusters with the same clusters tha
 - The BH scaling relations from GIZMO-SIMBA are also in very good agreement with observation results. It predicts higher black hole masses in the most massive galaxies, a shallower slope for the 𝑀_{BH}−𝜎_∗ at the low 𝜎_∗ end, and a shallower 𝑀_{BH}−𝑀_{500} relation at the more massive end.
 - Though there are quite significant difference in the gas mass fraction between the two runs, their mock Y-M relations are surprisingly in agreement. It is because that GIZMO-SIMBA removes more gas content with its strong AGN feedback and boosts the gas temperature at the same time.
 
+Written by Weiguang Cui, 2022-06-01
 --------
 
 [^1]: <span style="font-family:Papyrus; font-size:0.7em;"> Sembolini F., Yepes G., De Petris M., Gottl{\"o}ber S., Lamagna L., Comis B., 2013, MNRAS, 429, 323. [doi:10.1093/mnras/sts339](doi:10.1093/mnras/sts339) </span>

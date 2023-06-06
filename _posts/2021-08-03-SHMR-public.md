@@ -13,7 +13,7 @@ Red galaxies, which are made up of older stars that turn red with age, were thou
 
 However, recent research has suggested that either type of galaxy can form in regions with similar amounts of dark matter, so-called dark matter halos, and that blue galaxies contain more stars than red ones.
 
-A research team led by Dr Weiguang Cui from the University of Edinburgh’s Institute for Astronomy used leading edge simulations (http://simba.roe.ac.uk/) to recreate these observations – something most previous simulations have been unable to do.
+A research team led by Dr Weiguang Cui from the University of Edinburgh’s Institute for Astronomy used leading edge simulations [http://simba.roe.ac.uk/](http://simba.roe.ac.uk/) to recreate these observations – something most previous simulations have been unable to do.
 
 
 Researchers traced simulated galaxies back billions of years to help solve the riddle. This revealed that differences in the way the dark matter halos – a key building block of galaxies – develop over time influence which type of galaxy will form and the number of stars they contain. The team found that halos with the same mass that formed earlier tend to contain blue galaxies while those that formed later usually contain red ones. The team also found that the way energy is released from black holes – which are found at the centre of every galaxy – is crucial. How this happens affects whether a galaxy will be blue or red, researchers say.
@@ -25,4 +25,6 @@ Professor Romeel Davé, of the University of Edinburgh’s School of Physics and
 Professor John A Peacock, also of the School of Physics and Astronomy, added: “Such increasingly realistic simulations give us confidence that we are moving towards understanding how the billions of galaxies we see in a variety of shapes, sizes and colours formed out of the primordial soup of the Big Bang.”
 
 
-Journal reference: Nature Astronomy, https://doi.org/10.1038/s41550-021-01404-1
+Journal reference: Nature Astronomy, [https://doi.org/10.1038/s41550-021-01404-1](https://doi.org/10.1038/s41550-021-01404-1)
+
+Written by Weiguang Cui, 2021-08-03
