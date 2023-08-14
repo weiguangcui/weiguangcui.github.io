@@ -16,9 +16,13 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
 -----
-<center><strong>--- 2023 (8 papers) ---</strong></center>
+<center><strong>--- 2023 (10 papers) ---</strong></center>
 
-*90* [Boundless Baryons: how diffuse gas contributes to anisotropic tSZ signal around simulated Three Hundred clusters](https://ui.adsabs.harvard.edu/abs/2022arXiv221100242L/abstract) Lokken, M.; **Cui, W.**; Bond, J.~R.; Hložek, R.; Murray, N.; Davé, R.; van Engelen, A., 2023, MNRAS, tmp, 2348L
+*92* [SIMBA-C: An updated chemical enrichment model for galactic chemical evolution in the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2309H/abstract) Hough, R.; Rennehan, D.; Kobayashi, C.; Loubser, S. I.; Davé, R.; Babul, A.; **Cui, W.**, 2023,￼MNRAS, temp, 2309H
+
+*91* [THE THREE HUNDRED Project: the evolution of physical baryon profiles](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.1228L/abstract) Li, Q.; **Cui, W.**; Yang, X. and 7 more, 2023, MNRAS, 523, 1228L
+
+*90* [Boundless Baryons: how diffuse gas contributes to anisotropic tSZ signal around simulated Three Hundred clusters](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.1346L/abstract) Lokken, M.; **Cui, W.**; Bond, J.~R.; Hložek, R.; Murray, N.; Davé, R.; van Engelen, A., 2023, MNRAS, 523, 1346L
 
 *89* [Galaxy pairs in The Three Hundred simulations II: studying bound ones and identifying them via machine learning](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.1270C/abstract) Contreras-Santos, Ana; Knebe, A.; **Cui, W.**; Haggar, R.; Pearce, F.; Gray, M.; De Petris, M.; Yepes, G., 2023, MNRAS, 522, 1270C
 
