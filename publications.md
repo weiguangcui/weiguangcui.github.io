@@ -18,7 +18,7 @@ title: Publications
 -----
 <center><strong>--- 2023 (10 papers) ---</strong></center>
 
-*92* [SIMBA-C: An updated chemical enrichment model for galactic chemical evolution in the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2309H/abstract) Hough, R.; Rennehan, D.; Kobayashi, C.; Loubser, S. I.; Davé, R.; Babul, A.; **Cui, W.**, 2023,￼MNRAS, temp, 2309H
+*92* [SIMBA-C: An updated chemical enrichment model for galactic chemical evolution in the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2309H/abstract) Hough, R.; Rennehan, D.; Kobayashi, C.; Loubser, S. I.; Davé, R.; Babul, A.; **Cui, W.**, 2023, MNRAS, temp, 2309H
 
 *91* [THE THREE HUNDRED Project: the evolution of physical baryon profiles](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.1228L/abstract) Li, Q.; **Cui, W.**; Yang, X. and 7 more, 2023, MNRAS, 523, 1228L
 
