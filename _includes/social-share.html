@@ -10,6 +10,8 @@
 <section id = "social-share-section">
   <span class="sr-only">Share: </span>
 
+  Share to: 
+
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | strip_html | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter">
@@ -50,6 +52,28 @@
     </a>
   {% endif %}
 
+</section>
+
+<section>
+  Please click the following Amazon links to support me:
+  
+  <a target="_blank" href="https://www.amazon.co.uk/baby-reg?&linkCode=ll2&tag=weiguangwebsi-21&linkId=ed897b28a35aae9e49b2148fde57c2ab&language=en_GB&ref_=as_li_ss_tl"
+    class="btn btn-social-icon btn-amazon" title="Ads on Amazon -- baby">
+    <span class="fab fa-fw fa-amazon" aria-hidden="true"></span>
+    <span class="sr-only">Amazon</span>
+  </a>
+  
+  <a target="_blank" href="https://www.amazon.co.uk/ftu/home?ac-ms-src=ac-carousel-AmazonKids%2B&linkCode=ll2&tag=weiguangwebsi-21&linkId=b96072bec94697fc18a1f3f7c9315e4b&language=en_GB&ref_=as_li_ss_tl"
+    class="btn btn-social-icon btn-amazon" title="Ads on Amazon -- kids">
+    <span class="fab fa-fw fa-amazon" aria-hidden="true"></span>
+    <span class="sr-only">Amazon</span>
+  </a>
+  
+  <a target="_blank" href="https://www.amazon.co.uk/b?_encoding=UTF8&tag=weiguangwebsi-21&linkCode=ur2&linkId=89407b9465bdb3a962562430204aaf56&camp=1634&creative=6738&node=560798"
+    class="btn btn-social-icon btn-amazon" title="Ads on Amazon -- Electrics">
+    <span class="fab fa-fw fa-amazon" aria-hidden="true"></span>
+    <span class="sr-only">Amazon</span>
+  </a>
 </section>
 
 {% endif %}
