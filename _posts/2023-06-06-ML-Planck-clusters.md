@@ -5,6 +5,7 @@ gh-repo: weiguangcui/weiguangcui.github.io
 gh-badge: [star, fork, follow]
 tags: [Research]
 comments: true
+comments_id: 1
 ---
 
 *This is a late press release article for our Nature Astronomy paper.* see this webpage for our original post [https://www.madrimasd.org/blogs/talento-cm-uam/2022/10/17/194/](https://www.madrimasd.org/blogs/talento-cm-uam/2022/10/17/194/), the news in Madrid Notiweb: [https://www.madrimasd.org/inteligencia-artificial-proporciona-un-nuevo-metodo-medir-materia-oscura](https://www.madrimasd.org/inteligencia-artificial-proporciona-un-nuevo-metodo-medir-materia-oscura), in UAM website: [https://www.uam.es/uam/investigacion/cultura-cientifica/noticias/inteligencia-artificial-materia-oscura](https://www.uam.es/uam/investigacion/cultura-cientifica/noticias/inteligencia-artificial-materia-oscura) and in UE website: [https://www.ph.ed.ac.uk/news/2022/understanding-our-universe-with-the-help-of-machine-learning-22-10-20](https://www.ph.ed.ac.uk/news/2022/understanding-our-universe-with-the-help-of-machine-learning-22-10-20)
