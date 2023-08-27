@@ -2,6 +2,8 @@
 layout: post
 title: Solve the mystery of blue and red galaxies’ origins
 tags: [astronomy, research-work]
+comments: false
+comments_id: 4
 ---
 
 *This is a double of my School of Physics and Astronomy news from University of Edinburgh at [here](https://www.ph.ed.ac.uk/news/2021/resolving-the-mystery-of-galaxys-colours-21-07-06)*
