@@ -7,8 +7,7 @@
     <a
       class="button"
       href="https://github.com/{{ issues_repo }}/issues/{{ issue_id }}"
-      >Post comment</a
-    >
+      ><i class="fa-brands fa-github"></i> Comment on GitHub <i class="fa-solid fa-up-right-from-square fa-2xs"></i></a>
   </div>
   <div id="comments-wrapper">
     Loading...
@@ -22,12 +21,12 @@
   const commentsCount = commentsSection.querySelector('#comments-count');
   
   const commentsObserver = new IntersectionObserver((entries, self) => {
-  entries.forEach((entry) => {
+    entries.forEach((entry) => {
     if (entry.isIntersecting) {
       fetchComments(); // this is the important part
       self.unobserve(entry.target);
       }
-    });
+    })
   }, { rootMargin: '200px 0px 0px 0px' });
 
   commentsObserver.observe(commentsSection);
@@ -75,10 +74,6 @@
   }
 
   const renderComments = (comments) => {
-    // Do rendering later
-  }
-
-  const renderComments = (comments) => {
     // load the relativeTime plugin for dayjs so we can express dates relative to now
     dayjs.extend(dayjs_plugin_relativeTime);
 
@@ -99,7 +94,7 @@
       const postedByAuthor = comment.author_association === 'OWNER';
       const edited = comment.created_at !== comment.updated_at;
 
-      return `<li class="comment">
+      return `<div class="comment">
                   <div class="commenter">
                       <img src="${user.avatar_url}" alt="" aria-hidden="true" class="meta avatar" />
                       <a
@@ -112,7 +107,7 @@
                       ${edited ? `<span class="meta comment-edited">Edited</span>` : ''}
                   </div>
                   <div class="comment-body">${body}</div>
-              </li>`;
+              </div>`;
     })
     .join('');
 
