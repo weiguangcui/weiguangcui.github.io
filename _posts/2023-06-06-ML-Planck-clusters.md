@@ -4,7 +4,7 @@ title: Artificial intelligence provides a new way to measure the amount of dark 
 gh-repo: weiguangcui/weiguangcui.github.io
 gh-badge: [star, fork, follow]
 tags: [Research]
-comments: true
+comments: false
 comments_id: 2
 ---
 
