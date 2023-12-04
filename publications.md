@@ -16,13 +16,29 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
 -----
-<center><strong>--- 2023 (10 papers) ---</strong></center>
+<center><strong>--- 2024 (5 papers) ---</strong></center>
 
-*92* [SIMBA-C: An updated chemical enrichment model for galactic chemical evolution in the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2309H/abstract) Hough, R.; Rennehan, D.; Kobayashi, C.; Loubser, S. I.; Davé, R.; Babul, A.; **Cui, W.**, 2023, MNRAS, temp, 2309H
+*98* [The impact of halo concentration on the Sunyaev Zel'dovich effect signal from massive galaxy clusters](https://ui.adsabs.harvard.edu/abs/2023arXiv230408731B/abstract)
+Baxter, Eric J.; Pandey, Shivam; Adhikari, Susmita; **Cui, W.**; Shin, Tae-hyeon and 2 more, MNRAS, accepted
 
-*91* [THE THREE HUNDRED Project: the evolution of physical baryon profiles](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.1228L/abstract) Li, Q.; **Cui, W.**; Yang, X. and 7 more, 2023, MNRAS, 523, 1228L
+*97* [Outshining by Recent Star Formation Prevents the Accurate Measurement of High-z Galaxy Stellar Masses](https://ui.adsabs.harvard.edu/abs/2023arXiv230610118N/abstract)
+Narayanan, Desika; Lower, Sidney; Torrey, Paul; Brammer, Gabriel; **Cui, W.** and 8 more, ApJ, accepted
 
-*90* [Boundless Baryons: how diffuse gas contributes to anisotropic tSZ signal around simulated Three Hundred clusters](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.1346L/abstract) Lokken, M.; **Cui, W.**; Bond, J.~R.; Hložek, R.; Murray, N.; Davé, R.; van Engelen, A., 2023, MNRAS, 523, 1346L
+*96* [Feedback-driven anisotropy in the circumgalactic medium for quenching galaxies in the SIMBA simulations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.1612Y/abstract) Yang, T.; Davé, R.; **Cui, W.**; Cai, Y.; Peacock, J.~A. and Sorini, D.,￼2024, MNRAS, 527, 1612Y
+
+*95* [The three hundred project: thermodynamical properties, shocks, and gas dynamics in simulated galaxy cluster filaments and their surroundings](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.1301R/abstract) Rost, A.~M.; Nuza, S.~E.; Stasyszyn, F.; Kuchner, U.; Hoeft, M. Welker, C.; Pearce, F.; Gray, M.; Knebe, A.; **Cui, W.**; Yepes, G., ￼2024, MNRAS, 527, 1301R
+
+*94* [The localization of galaxy groups in close proximity to galaxy clusters using cosmic web nodes](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527...23C/abstract) Cornwell, D.~J.; Kuchner, U.; Gray, M.~E.; Aragón-Salamanca, A.; Pearce, F.~R.; **Cui, W.**; Knebe, A., 2024, MNRAS, 527, 23c
+
+<center><strong>--- 2023 (11 papers) ---</strong></center>
+
+*93* [A persistent excess of galaxy-galaxy strong lensing observed in galaxy clusters](https://ui.adsabs.harvard.edu/abs/2023A%26A...678L...2M/abstract) Meneghetti, M.; **Cui, Weiguang**; Rasia, E.; Yepes, G.; Acebron, A. and 16 more,￼2023, A&A, 678L, 2M
+
+*92* [SIMBA-C: An updated chemical enrichment model for galactic chemical evolution in the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2309H/abstract) Hough, R.; Rennehan, D.; Kobayashi, C.; Loubser, S. I.; Davé, R.; Babul, A.; **Cui, W.**, 2023, MNRAS, 525, 1061H
+
+*91* [THE THREE HUNDRED Project: the evolution of physical baryon profiles](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.1228L/abstract) Li, Q.; **Cui, Weiguang**; Yang, X. and 7 more, 2023, MNRAS, 523, 1228L
+
+*90* [Boundless Baryons: how diffuse gas contributes to anisotropic tSZ signal around simulated Three Hundred clusters](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.1346L/abstract) Lokken, M.; **Cui, Weiguang**; Bond, J.~R.; Hložek, R.; Murray, N.; Davé, R.; van Engelen, A., 2023, MNRAS, 523, 1346L
 
 *89* [Galaxy pairs in The Three Hundred simulations II: studying bound ones and identifying them via machine learning](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.1270C/abstract) Contreras-Santos, Ana; Knebe, A.; **Cui, W.**; Haggar, R.; Pearce, F.; Gray, M.; De Petris, M.; Yepes, G., 2023, MNRAS, 522, 1270C
 
@@ -31,7 +47,7 @@ title: Publications
 *87* [The Three Hundred project: A Machine Learning method to infer clusters of galaxies mass radial profiles from mock Sunyaev-Zel'dovich maps](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4000F/abstract) 
 Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G.; Dupuis, R.; Jarraya, M.; Lahouli, I.; De Luca, F.; Gianfagna, G.; Rasia, E., 2023, MNRAS, 520, 4000F
 
-*86* [The physical nature of circumgalactic medium absorbers in SIMBA](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.5514A/abstract) Appleby, S.; Davé, R.; Sorini, D.; **Cui, W**; Christiansen, J., 2023, MNRAS, 519, 5514A
+*86* [The physical nature of circumgalactic medium absorbers in SIMBA](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.5514A/abstract) Appleby, S.; Davé, R.; Sorini, D.; **Cui, W.**; Christiansen, J., 2023, MNRAS, 519, 5514A
 
 *85* [A study of the hydrostatic mass bias dependence and evolution within The Three Hundred clusters](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.4238G/abstract) Gianfagna, G.; Rasia, E.; **Cui, W.**; De Petris, M.; Yepes, G.; Contreras-Santos, A.; Knebe, A., 2023, MNRAS, 518, 4238
 
