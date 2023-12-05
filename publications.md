@@ -16,7 +16,10 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
 -----
-<center><strong>--- 2024 (5 papers) ---</strong></center>
+<center><strong>--- 2024 (6 papers) ---</strong></center>
+
+*99* [Galaxy cluster mass bias from projected mass maps: The Three Hundred-NIKA2 LPSZ twin samples](Galaxy cluster mass bias from projected mass maps: The Three Hundred-NIKA2 LPSZ twin samples)
+Muñoz-Echeverría, M.; Macías-Pérez, J. F.; Artis, E.; **Cui, W.** and 13 more, A&A accepted.
 
 *98* [The impact of halo concentration on the Sunyaev Zel'dovich effect signal from massive galaxy clusters](https://ui.adsabs.harvard.edu/abs/2023arXiv230408731B/abstract)
 Baxter, Eric J.; Pandey, Shivam; Adhikari, Susmita; **Cui, W.**; Shin, Tae-hyeon and 2 more, MNRAS, accepted
