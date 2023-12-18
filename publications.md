@@ -27,15 +27,15 @@ Baxter, Eric J.; Pandey, Shivam; Adhikari, Susmita; **Cui, W.**; Shin, Tae-hyeon
 *97* [Outshining by Recent Star Formation Prevents the Accurate Measurement of High-z Galaxy Stellar Masses](https://ui.adsabs.harvard.edu/abs/2023arXiv230610118N/abstract)
 Narayanan, Desika; Lower, Sidney; Torrey, Paul; Brammer, Gabriel; **Cui, W.** and 8 more, ApJ, accepted
 
-*96* [Feedback-driven anisotropy in the circumgalactic medium for quenching galaxies in the SIMBA simulations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.1612Y/abstract) Yang, T.; Davé, R.; **Cui, W.**; Cai, Y.; Peacock, J.~A. and Sorini, D.,￼2024, MNRAS, 527, 1612Y
+*96* [Feedback-driven anisotropy in the circumgalactic medium for quenching galaxies in the SIMBA simulations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.1612Y/abstract) Yang, T.; Davé, R.; **Cui, W.**; Cai, Y.; Peacock, J.~A. and Sorini, D., 2024, MNRAS, 527, 1612Y
 
-*95* [The three hundred project: thermodynamical properties, shocks, and gas dynamics in simulated galaxy cluster filaments and their surroundings](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.1301R/abstract) Rost, A.~M.; Nuza, S.~E.; Stasyszyn, F.; Kuchner, U.; Hoeft, M. Welker, C.; Pearce, F.; Gray, M.; Knebe, A.; **Cui, W.**; Yepes, G., ￼2024, MNRAS, 527, 1301R
+*95* [The three hundred project: thermodynamical properties, shocks, and gas dynamics in simulated galaxy cluster filaments and their surroundings](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.1301R/abstract) Rost, A.~M.; Nuza, S.~E.; Stasyszyn, F.; Kuchner, U.; Hoeft, M. Welker, C.; Pearce, F.; Gray, M.; Knebe, A.; **Cui, W.**; Yepes, G., 2024, MNRAS, 527, 1301R
 
 *94* [The localization of galaxy groups in close proximity to galaxy clusters using cosmic web nodes](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527...23C/abstract) Cornwell, D.~J.; Kuchner, U.; Gray, M.~E.; Aragón-Salamanca, A.; Pearce, F.~R.; **Cui, W.**; Knebe, A., 2024, MNRAS, 527, 23c
 
 <center><strong>--- 2023 (11 papers) ---</strong></center>
 
-*93* [A persistent excess of galaxy-galaxy strong lensing observed in galaxy clusters](https://ui.adsabs.harvard.edu/abs/2023A%26A...678L...2M/abstract) Meneghetti, M.; **Cui, Weiguang**; Rasia, E.; Yepes, G.; Acebron, A. and 16 more,￼2023, A&A, 678L, 2M
+*93* [A persistent excess of galaxy-galaxy strong lensing observed in galaxy clusters](https://ui.adsabs.harvard.edu/abs/2023A%26A...678L...2M/abstract) Meneghetti, M.; **Cui, Weiguang**; Rasia, E.; Yepes, G.; Acebron, A. and 16 more, 2023, A&A, 678L, 2M
 
 *92* [SIMBA-C: An updated chemical enrichment model for galactic chemical evolution in the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2309H/abstract) Hough, R.; Rennehan, D.; Kobayashi, C.; Loubser, S. I.; Davé, R.; Babul, A.; **Cui, W.**, 2023, MNRAS, 525, 1061H
 
