@@ -16,16 +16,21 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
 -----
-<center><strong>--- 2024 (6 papers) ---</strong></center>
+<center><strong>--- 2024 (9 papers) ---</strong></center>
+*102* [Characterising the intra-cluster light in The Three Hundred simulations](https://ui.adsabs.harvard.edu/abs/2024arXiv240108283C/abstract) Contreras-Santos, A.; Knebe, A.; **Cui, W.** and 7 more, 2024,  A&A accepted.
+
+*101* [The Three Hundred Project: Mapping The Matter Distribution in Galaxy Clusters Via Deep Learning from Multiview Simulated Observations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp...73D/abstract) de Andres, D.; **Cui, W.**; Yepes, G., and 5 more, 2024, MNRAS, tmp, 73D
+
+*100* [Euclid preparation. XXXII. Evaluating the weak-lensing cluster mass biases using the Three Hundred Project hydrodynamical simulations](https://ui.adsabs.harvard.edu/abs/2024A%26A...681A..67E/abstract) Euclid Collaboration; Giocoli, C., et al. 2024, A&A, 681A, 67E
 
 *99* [Galaxy cluster mass bias from projected mass maps: The Three Hundred-NIKA2 LPSZ twin samples](Galaxy cluster mass bias from projected mass maps: The Three Hundred-NIKA2 LPSZ twin samples)
 Muñoz-Echeverría, M.; Macías-Pérez, J. F.; Artis, E.; **Cui, W.** and 13 more, A&A accepted.
 
-*98* [The impact of halo concentration on the Sunyaev Zel'dovich effect signal from massive galaxy clusters](https://ui.adsabs.harvard.edu/abs/2023arXiv230408731B/abstract)
-Baxter, Eric J.; Pandey, Shivam; Adhikari, Susmita; **Cui, W.**; Shin, Tae-hyeon and 2 more, MNRAS, accepted
+*98* [The impact of halo concentration on the Sunyaev Zel'dovich effect signal from massive galaxy clusters](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.7847B/abstract)
+Baxter, Eric J.; Pandey, Shivam; Adhikari, Susmita; **Cui, W.**; Shin, Tae-hyeon and 2 more, MNRAS, 527, 7847
 
-*97* [Outshining by Recent Star Formation Prevents the Accurate Measurement of High-z Galaxy Stellar Masses](https://ui.adsabs.harvard.edu/abs/2023arXiv230610118N/abstract)
-Narayanan, Desika; Lower, Sidney; Torrey, Paul; Brammer, Gabriel; **Cui, W.** and 8 more, ApJ, accepted
+*97* [Outshining by Recent Star Formation Prevents the Accurate Measurement of High-z Galaxy Stellar Masses](https://ui.adsabs.harvard.edu/abs/2024ApJ...961...73N/abstract)
+Narayanan, Desika; Lower, Sidney; Torrey, Paul; Brammer, Gabriel; **Cui, W.** and 8 more, ApJ, 961, 73
 
 *96* [Feedback-driven anisotropy in the circumgalactic medium for quenching galaxies in the SIMBA simulations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.1612Y/abstract) Yang, T.; Davé, R.; **Cui, W.**; Cai, Y.; Peacock, J.~A. and Sorini, D., 2024, MNRAS, 527, 1612Y
 
