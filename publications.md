@@ -16,7 +16,9 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
 -----
-<center><strong>--- 2024 (10 papers) ---</strong></center>
+<center><strong>--- 2024 (11 papers) ---</strong></center>
+*104* [The Three Hundred: $M_{sub}-V_{circ}$ relation](https://ui.adsabs.harvard.edu/abs/2023arXiv230906187S/abstract) Srivastava, A.; **Cui, W.** and 9 more, 2024, MNRAS, in press
+
 *103* [Prospects for studying the mass and gas in protoclusters with future CMB observations](https://ui.adsabs.harvard.edu/abs/2024OJAp....7E...2G/abstract) Gardner, A.; Baxter, E.; Raghunathan, S.; **Cui, W**; Ceverino, D. 2024, OJAp, 7E, 2G
 
 *102* [Characterising the intra-cluster light in The Three Hundred simulations](https://ui.adsabs.harvard.edu/abs/2024arXiv240108283C/abstract) Contreras-Santos, A.; Knebe, A.; **Cui, W.** and 7 more, 2024,  A&A accepted.
