@@ -16,7 +16,9 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
 -----
-<center><strong>--- 2024 (11 papers) ---</strong></center>
+<center><strong>--- 2024 (12 papers) ---</strong></center>
+*105* [The Three Hundred : contrasting clusters galaxy density in hydrodynamical and dark matter simulations](https://ui.adsabs.harvard.edu/abs/2023arXiv230901443J/abstract) Jiménez-Muñoz, A.; Macías-Pérez, J. F.; Yepes, G.; De Petris, M.; Ferragamo, A.; **Cui, W.**; Gómez, J. S., 2024, A&A, in press.
+
 *104* [The Three Hundred: $M_{sub}-V_{circ}$ relation](https://ui.adsabs.harvard.edu/abs/2023arXiv230906187S/abstract) Srivastava, A.; **Cui, W.** and 9 more, 2024, MNRAS, in press
 
 *103* [Prospects for studying the mass and gas in protoclusters with future CMB observations](https://ui.adsabs.harvard.edu/abs/2024OJAp....7E...2G/abstract) Gardner, A.; Baxter, E.; Raghunathan, S.; **Cui, W**; Ceverino, D. 2024, OJAp, 7E, 2G
