@@ -16,7 +16,9 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
 -----
-<center><strong>--- 2024 (12 papers) ---</strong></center>
+<center><strong>--- 2024 (13 papers) ---</strong></center>
+*106* [Identifying galaxy cluster mergers with deep neural networks using idealized compton-y and X-ray maps](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp..607A/abstract) Arendt, A. R.; Perrott, Y. C.; Contreras-Santos, A.; de Andres, D.; **Cui, W.**; Rennehan, D., 2024, MNRAS, tmp, 607A
+
 *105* [The Three Hundred : contrasting clusters galaxy density in hydrodynamical and dark matter simulations](https://ui.adsabs.harvard.edu/abs/2023arXiv230901443J/abstract) Jiménez-Muñoz, A.; Macías-Pérez, J. F.; Yepes, G.; De Petris, M.; Ferragamo, A.; **Cui, W.**; Gómez, J. S., 2024, A&A, in press.
 
 *104* [The Three Hundred: $M_{sub}-V_{circ}$ relation](https://ui.adsabs.harvard.edu/abs/2023arXiv230906187S/abstract) Srivastava, A.; **Cui, W.** and 9 more, 2024, MNRAS, in press
