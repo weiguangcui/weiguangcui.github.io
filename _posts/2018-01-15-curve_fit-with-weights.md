@@ -63,7 +63,7 @@ pylab.legend(loc='lower center')
 pylab.show()
 ```
 
-![curve_fit]({{ "/img/postimg/lorentzian-fit.jpg" | absolute_url }})
+![curve_fit](/assets/img/postimg/lorentzian-fit.jpg)
 
 As the figure above shows, the unweighted fit is seen to be thrown off by the noisy region. Data in this region are given a lower weight in the weighted fit and so the parameters are closer to their true values and the fit better. The output is:
 
