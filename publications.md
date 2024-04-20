@@ -16,23 +16,28 @@ title: Publications
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
 -----
-<center><strong>--- 2024 (13 papers) ---</strong></center>
-*106* [Identifying galaxy cluster mergers with deep neural networks using idealized compton-y and X-ray maps](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp..607A/abstract) Arendt, A. R.; Perrott, Y. C.; Contreras-Santos, A.; de Andres, D.; **Cui, W.**; Rennehan, D., 2024, MNRAS, tmp, 607A
+<center><strong>--- 2024 (15 papers) ---</strong></center>
+
+*108* [Intrinsic mass-richness relation of clusters from THE THREE HUNDRED hydrodynamic simulations](https://ui.adsabs.harvard.edu/abs/2024arXiv240400321C/abstract) Chen, M.; **Cui, W.**; Fang, W.; Wen, Z., ApJ, in press
+
+*107* [ELUCID VIII: Simulating the Coma Galaxy Cluster to Calibrate Model and Understand Feedback](https://ui.adsabs.harvard.edu/abs/2024arXiv240114730L/abstract) Luo, X.; Wang, H.; **Cui, W.** and 9 more, 2024, ApJ, in press
+
+*106* [Identifying galaxy cluster mergers with deep neural networks using idealized Compton-y and X-ray maps](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530...20A/abstract) Arendt, A.~R.; Perrott, Y.~C.; Contreras-Santos, A.; de Andres, D.; **Cui, W.**; Rennehan, D., 2024MNRAS, 530, 20A
 
 *105* [The Three Hundred : contrasting clusters galaxy density in hydrodynamical and dark matter simulations](https://ui.adsabs.harvard.edu/abs/2023arXiv230901443J/abstract) Jiménez-Muñoz, A.; Macías-Pérez, J. F.; Yepes, G.; De Petris, M.; Ferragamo, A.; **Cui, W.**; Gómez, J. S., 2024, A&A, in press.
 
-*104* [The Three Hundred: $M_{sub}-V_{circ}$ relation](https://ui.adsabs.harvard.edu/abs/2023arXiv230906187S/abstract) Srivastava, A.; **Cui, W.** and 9 more, 2024, MNRAS, in press
+*104* [The Three Hundred: $M_{sub}-V_{circ}$ relation](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4451S/abstract) Srivastava, A.; **Cui, W.** and 9 more, 2024, MNRAS, 528, 4451S
 
 *103* [Prospects for studying the mass and gas in protoclusters with future CMB observations](https://ui.adsabs.harvard.edu/abs/2024OJAp....7E...2G/abstract) Gardner, A.; Baxter, E.; Raghunathan, S.; **Cui, W**; Ceverino, D. 2024, OJAp, 7E, 2G
 
-*102* [Characterising the intra-cluster light in The Three Hundred simulations](https://ui.adsabs.harvard.edu/abs/2024arXiv240108283C/abstract) Contreras-Santos, A.; Knebe, A.; **Cui, W.** and 7 more, 2024,  A&A accepted.
+*102* [Characterising the intra-cluster light in The Three Hundred simulations](https://ui.adsabs.harvard.edu/abs/2024A%26A...683A..59C/abstract) Contreras-Santos, A.; Knebe, A.; **Cui, W.** and 7 more, 2024,  A&A 683, 59C.
 
-*101* [The Three Hundred Project: Mapping The Matter Distribution in Galaxy Clusters Via Deep Learning from Multiview Simulated Observations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp...73D/abstract) de Andres, D.; **Cui, W.**; Yepes, G., and 5 more, 2024, MNRAS, tmp, 73D
+*101* [The Three Hundred Project: Mapping The Matter Distribution in Galaxy Clusters Via Deep Learning from Multiview Simulated Observations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.1517D/abstract) de Andres, D.; **Cui, W.**; Yepes, G., and 5 more, 2024, MNRAS, 528, 1517D
 
 *100* [Euclid preparation. XXXII. Evaluating the weak-lensing cluster mass biases using the Three Hundred Project hydrodynamical simulations](https://ui.adsabs.harvard.edu/abs/2024A%26A...681A..67E/abstract) Euclid Collaboration; Giocoli, C., et al. 2024, A&A, 681A, 67E
 
-*99* [Galaxy cluster mass bias from projected mass maps: The Three Hundred-NIKA2 LPSZ twin samples](Galaxy cluster mass bias from projected mass maps: The Three Hundred-NIKA2 LPSZ twin samples)
-Muñoz-Echeverría, M.; Macías-Pérez, J. F.; Artis, E.; **Cui, W.** and 13 more, A&A accepted.
+*99* [Galaxy cluster mass bias from projected mass maps: The Three Hundred-NIKA2 LPSZ twin samples](https://ui.adsabs.harvard.edu/abs/2024A%26A...682A.124M/abstract)
+Muñoz-Echeverría, M.; Macías-Pérez, J. F.; Artis, E.; **Cui, W.** and 13 more, 2024, A&A, 682A, 124M.
 
 *98* [The impact of halo concentration on the Sunyaev Zel'dovich effect signal from massive galaxy clusters](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.7847B/abstract)
 Baxter, Eric J.; Pandey, Shivam; Adhikari, Susmita; **Cui, W.**; Shin, Tae-hyeon and 2 more, MNRAS, 527, 7847
