@@ -15,16 +15,20 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
+*First author papers: 19; second author papers: 11*
+
 -----
-<center><strong>--- 2024 (15 papers) ---</strong></center>
+<center><strong>--- 2024 (16 papers) ---</strong></center>
 
-*108* [Intrinsic mass-richness relation of clusters from THE THREE HUNDRED hydrodynamic simulations](https://ui.adsabs.harvard.edu/abs/2024arXiv240400321C/abstract) Chen, M.; **Cui, W.**; Fang, W.; Wen, Z., ApJ, in press
+*109* [Simba-C: the evolution of the thermal and chemical properties in the intragroup medium](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.1449H/abstract) Hough, Renier T.; Shao, Zhiwei; *Cui, Weiguang* and 5 more, 2024, MNRAS, in press 
 
-*107* [ELUCID VIII: Simulating the Coma Galaxy Cluster to Calibrate Model and Understand Feedback](https://ui.adsabs.harvard.edu/abs/2024arXiv240114730L/abstract) Luo, X.; Wang, H.; **Cui, W.** and 9 more, 2024, ApJ, in press
+*108* [Intrinsic mass-richness relation of clusters from THE THREE HUNDRED hydrodynamic simulations](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..227C/abstract) Chen, M.; **Cui, W.**; Fang, W.; Wen, Z., 2024, ApJ, 966, 227C
+
+*107* [ELUCID VIII: Simulating the Coma Galaxy Cluster to Calibrate Model and Understand Feedback](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..236L/abstract) Luo, X.; Wang, H.; **Cui, W.** and 9 more, 2024, ApJ, 966, 236L
 
 *106* [Identifying galaxy cluster mergers with deep neural networks using idealized Compton-y and X-ray maps](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530...20A/abstract) Arendt, A.~R.; Perrott, Y.~C.; Contreras-Santos, A.; de Andres, D.; **Cui, W.**; Rennehan, D., 2024MNRAS, 530, 20A
 
-*105* [The Three Hundred : contrasting clusters galaxy density in hydrodynamical and dark matter simulations](https://ui.adsabs.harvard.edu/abs/2023arXiv230901443J/abstract) Jiménez-Muñoz, A.; Macías-Pérez, J. F.; Yepes, G.; De Petris, M.; Ferragamo, A.; **Cui, W.**; Gómez, J. S., 2024, A&A, in press.
+*105* [The Three Hundred : contrasting clusters galaxy density in hydrodynamical and dark matter simulations](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.257J/abstract) Jiménez-Muñoz, A.; Macías-Pérez, J. F.; Yepes, G.; De Petris, M.; Ferragamo, A.; **Cui, W.**; Gómez, J. S., 2024, A&A, 686A, 257J.
 
 *104* [The Three Hundred: $M_{sub}-V_{circ}$ relation](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.4451S/abstract) Srivastava, A.; **Cui, W.** and 9 more, 2024, MNRAS, 528, 4451S
 
@@ -278,6 +282,9 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 -----
 
 ### Unreferenced Publications:
+*15.* [3D scaling laws and projection effects in The300-NIKA2 Sunyaev-Zeldovich Large Program Twin Samples](https://ui.adsabs.harvard.edu/abs/2024EPJWC.29300037P/abstract) Paliwal, A.; Cui, W. and 11 more, 2024, EPJWC, 29300037P
+
+*14.* [Impact of filaments on galaxy cluster properties in The Three Hundred simulation](https://ui.adsabs.harvard.edu/abs/2024EPJWC.29300048S/abstract) Santoni, S.; De Petris, M.; Ferragamo, A.; Yepes, G. and Cui, W., 2024, EPJWC, 29300048S
 
 *13.* [The Three Hundred-NIKA2 Sunyaev-Zeldovich Large Program twin samples: Synthetic clusters to support real observations](https://ui.adsabs.harvard.edu/abs/2022EPJWC.25700036P/abstract) Paliwal, A.; Artis, E.; Cui, W. and 12 more, 2022, EPJWC, 25700036P
 
