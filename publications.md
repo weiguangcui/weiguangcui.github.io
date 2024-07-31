@@ -15,14 +15,14 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
-*First author papers: 19; second author papers: 11*
+*First author papers: 19; second author papers: 11; third+fourth author papers: 30*
 
 -----
 <center><strong>--- 2024 (17 papers) ---</strong></center>
 
 *110* [Reconsidering the dynamical states of galaxy clusters using PCA and UMAP](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1031H/abstract) Haggar R., De Luca F., De Petris M., Sazonova E., Taylor J.~E., Knebe A., Gray M.~E., et al., 2024, MNRAS, 532, 1031.
 
-*109* [Simba-C: the evolution of the thermal and chemical properties in the intragroup medium](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532..476H/abstract) Hough, Renier T.; Shao, Zhiwei; *Cui, Weiguang* and 5 more, 2024, MNRAS, 532, 476
+*109* [Simba-C: the evolution of the thermal and chemical properties in the intragroup medium](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532..476H/abstract) Hough, R.~T.; Shao, Z.; **Cui, W.** and 5 more, 2024, MNRAS, 532, 476
 
 *108* [Intrinsic mass-richness relation of clusters from THE THREE HUNDRED hydrodynamic simulations](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..227C/abstract) Chen, M.; **Cui, W.**; Fang, W.; Wen, Z., 2024, ApJ, 966, 227C
 
@@ -55,7 +55,7 @@ Narayanan, Desika; Lower, Sidney; Torrey, Paul; Brammer, Gabriel; **Cui, W.** an
 
 *95* [The three hundred project: thermodynamical properties, shocks, and gas dynamics in simulated galaxy cluster filaments and their surroundings](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.1301R/abstract) Rost, A.~M.; Nuza, S.~E.; Stasyszyn, F.; Kuchner, U.; Hoeft, M. Welker, C.; Pearce, F.; Gray, M.; Knebe, A.; **Cui, W.**; Yepes, G., 2024, MNRAS, 527, 1301R
 
-*94* [The localization of galaxy groups in close proximity to galaxy clusters using cosmic web nodes](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527...23C/abstract) Cornwell, D.~J.; Kuchner, U.; Gray, M.~E.; Aragón-Salamanca, A.; Pearce, F.~R.; **Cui, W.**; Knebe, A., 2024, MNRAS, 527, 23c
+*94* [The localization of galaxy groups in close proximity to galaxy clusters using cosmic web nodes](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527...23C/abstract) Cornwell, D.~J.; Kuchner, U.; Gray, M.~E.; Aragón-Salamanca, A.; Pearce, F. R.; **Cui, W.**; Knebe, A., 2024, MNRAS, 527, 23c
 
 <center><strong>--- 2023 (11 papers) ---</strong></center>
 
@@ -121,7 +121,7 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 *65* [The Three Hundred Project: Dissecting the Fundamental Plane of galaxy clusters up to z = 1](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp..614D/abstract) Díaz-García, L.~A.; Umetsu, K.; Rasia, E.; **Cui, W.**; Meneghetti, M., 2022, MNRAS, tmp, 614D
 
-*64* [Galaxy velocity bias in cosmological simulations: towards per cent-level calibration](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.2980A/abstract) Anbajagane, D.; Aung, H.; Evrard, A.~E.; Farahi, A.; Nagai, D.; Barnes, D.~J.; **Cui, W.**; Dolag, K.; McCarthy, I.~G.; Rasia, E.; Yepes, G.,  2022, MNRAS, 510, 2980A 
+*64* [Galaxy velocity bias in cosmological simulations: towards per cent-level calibration](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.2980A/abstract) Anbajagane, D.; Aung, H.; Evrard, A.~E.; Farahi, A.; Nagai, D.; Barnes, D.~J.; **Cui, W.**; Dolag, K.; McCarthy, I. G.; Rasia, E.; Yepes, G.,  2022, MNRAS, 510, 2980A 
 
 *63.* [An inventory of galaxies in cosmic filaments feeding galaxy clusters: galaxy groups, backsplash galaxies, and pristine galaxies](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510..581K/abstract) Kuchner, U.; Haggar, R.; Aragón-Salamanca, A.; Pearce, F.~R.; Gray, M.~E.; Rost, A.; **Cui, Weiguang**; Knebe, A.; Yepes, G., 2022, MNRAS, 510, 581K 
 
@@ -234,7 +234,7 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 <center><strong>--- 2015 (2 papers) ---</strong></center>
 
-*15.*  [nIFTy Cosmology: Comparison of Galaxy Formation Models](http://adsabs.harvard.edu/abs/2015MNRAS.451.4029K) Knebe, A.; Pearce, F.~R.; Thomas, P.~A.; Benson, A.; Blaizot, J.; Bower, R.; Carretero, J.; Castander, F.~J.; Cattaneo, A.; Cora, S.~A.; Croton, D.~J.; **Cui, Weiguang** and 24 co-authors. 2015, MNRAS, 451, 4029K
+*15.*  [nIFTy Cosmology: Comparison of Galaxy Formation Models](http://adsabs.harvard.edu/abs/2015MNRAS.451.4029K) Knebe, A.; Pearce, F.~R.; Thomas, P.~A.; Benson, A.; Blaizot, J.; Bower, R.; Carretero, J.; Castander, F.~J.; Cattaneo, A.; Cora, S. A.; Croton, D. J.; **Cui, Weiguang** and 24 co-authors. 2015, MNRAS, 451, 4029K
 
 *14.*  [The source-lens clustering effect in the context of lensing tomography and its self-calibration.](http://adsabs.harvard.edu/abs/2015ApJ...803...46Y) Yu, Yu; Zhang, Pengjie; Lin, Weipeng and **Cui, Weiguang**. 2015, ApJ, 803, 46Y
 
