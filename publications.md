@@ -20,7 +20,7 @@ title: Publications
 -----
 <center><strong>--- 2024 (17 papers) ---</strong></center>
 
-*109* [Reconsidering the dynamical states of galaxy clusters using PCA and UMAP](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1031H/abstract) Haggar R., De Luca F., De Petris M., Sazonova E., Taylor J.~E., Knebe A., Gray M.~E., et al., 2024, MNRAS, 532, 1031.
+*110* [Reconsidering the dynamical states of galaxy clusters using PCA and UMAP](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1031H/abstract) Haggar R., De Luca F., De Petris M., Sazonova E., Taylor J.~E., Knebe A., Gray M.~E., et al., 2024, MNRAS, 532, 1031.
 
 *109* [Simba-C: the evolution of the thermal and chemical properties in the intragroup medium](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532..476H/abstract) Hough, Renier T.; Shao, Zhiwei; *Cui, Weiguang* and 5 more, 2024, MNRAS, 532, 476
 
