@@ -2,13 +2,14 @@
 
 source "https://rubygems.org"
 
-gem "github-pages", "~> 231", group: :jekyll_plugins
 
-#gemspec
+gemspec
 
-gem "webrick", "~> 1.8"
+#gem "github-pages", "~> 231", group: :jekyll_plugins
 
-gem "faraday-retry", "~> 2.2"
+#gem "webrick", "~> 1.8"
+
+#gem "faraday-retry", "~> 2.2"
 
 # gem "nokogiri", "~> 1.15"
 
