@@ -15,7 +15,7 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
-*First author papers: 19; second author papers: 11; third+fourth author papers: 30*
+*First author papers: 19;  second author papers: 11;  third+fourth author papers: 30*
 
 -----
 <center><strong>--- 2024 (17 papers) ---</strong></center>
