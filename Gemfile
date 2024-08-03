@@ -10,6 +10,5 @@ gem "webrick", "~> 1.8"
 
 gem "faraday-retry", "~> 2.2"
 
-gem "nokogiri", "~> 1.15"
+# gem "nokogiri", "~> 1.15"
 
-gem "ruby", "~>2.7.5"
