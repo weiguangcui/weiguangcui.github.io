@@ -20,7 +20,7 @@ title: Publications
 -----
 <center><strong>--- 2024 (18 papers) ---</strong></center>
 
-*111* [The effect of AGN feedback on the Lyman-α forest signature of galaxy protoclusters at z=2.3](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4876D/abstract) Dong, C.; Lee, K.-G.; **Cui, W.**; Davé, R.; Sorini, D., 2024, MNRAS, 532, 1031.
+*111* [The effect of AGN feedback on the Lyman-α forest signature of galaxy protoclusters at z=2.3](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4876D/abstract) Dong, C.; Lee, K.-G.; **Cui, W.**; Davé, R.; Sorini, D., 2024, MNRAS, 532, 4876.
 
 *110* [Reconsidering the dynamical states of galaxy clusters using PCA and UMAP](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1031H/abstract) Haggar R., De Luca F., De Petris M., Sazonova E., Taylor J.~E., Knebe A., Gray M.~E., et al., 2024, MNRAS, 532, 1031.
 
