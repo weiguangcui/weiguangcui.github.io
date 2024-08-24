@@ -6,6 +6,10 @@ subtitle: My talks, posters, etc.
 
 #### I have given 50+ talks up to 2018. Here I only list some selected talks (in reversed chronological order).
 
+*7. * [Understanding galaxy groups and clusters -- probes with HYENAS and The300](https://docs.google.com/presentation/d/1AboDa_1GqB0yjdqQdmZb1MsGEE5-6xgNz-UweQn-Wt4/edit?usp=sharing), July and August, 2024,	Invited Seminar talks at NAOC (15.07.24) and Qinghua University (18.07.24) and USTC (05/08/24) 
+
+*6.* [**The HYENAS group project: X-ray undetected groups and X-ray cavity**](https://docs.google.com/presentation/d/1I-8M-CJauyPbbrmDJHAOOsRY5H8b6nnZIOX0FFZttqQ/edit?usp=sharing), 01 July , 2024, Talk at the Galaxy group conference at Sesto
+
 *5.* [**The 300 galaxy clusters: seeing the unseen**](/assets/presentations/The_Three_Hundred_Presentation-KIAA.pdf), 16 November, 2023, [Colloquium talk at KIAA](https://kiaa.pku.edu.cn/info/1024/9077.htm), Beijing University 
 
 *4.*  [**The Three Hundred: The new GIZMO-Simba run**](/assets/presentations/The_Three_Hundred_Presentation_STSci.pdf).   
