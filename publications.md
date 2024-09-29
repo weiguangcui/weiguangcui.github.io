@@ -18,7 +18,9 @@ title: Publications
 *First author papers: 19;  second author papers: 11;  third+fourth author papers: 31*
 
 -----
-<center><strong>--- 2024 (18 papers) ---</strong></center>
+<center><strong>--- 2024 (19 papers) ---</strong></center>
+
+*112* [The HYENAS project: a prediction for the X-ray undetected galaxy groups](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2066C/abstract) **Cui, W.**; Jennings, F.; Dave, R.; Babul, A.; Gozaliasl, G., 2024, MNRAS, tmp.
 
 *111* [The effect of AGN feedback on the Lyman-α forest signature of galaxy protoclusters at z=2.3](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4876D/abstract) Dong, C.; Lee, K.-G.; **Cui, W.**; Davé, R.; Sorini, D., 2024, MNRAS, 532, 4876.
 
