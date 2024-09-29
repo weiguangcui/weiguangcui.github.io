@@ -10,7 +10,7 @@ comments_id: 6
 
 I would like to back up my laptop home directory to a server every night at 12. As such, even I did something stupid like the other day, `rm -rf * ` with a `for` loop includeing `cd ..`. 
 
-The task is very easy, just create a back.sh script and include the rsync command in (see this [post](2024-03-05-rsync.md) for details). Then, you use `crontab -e` to add one additional line at the bottom, e.g. `0 0 * * *  /home/yourname/back.sh`
+The task is very easy, just create a back.sh script and include the rsync command in (see this [post](https://weiguangcui.github.io/2024-03-05-rsync/) for details). Then, you use `crontab -e` to add one additional line at the bottom, e.g. `0 0 * * *  /home/yourname/back.sh`
 
 However, you need to make sure your script is running totally fine. Do Not naively believe that `./home/yourname/back.sh` in your terminal is fine, your `crontab` task will be running OK. `crontab` includes different environments... So, you have to make sure your script as specific as possible, e.g. you may want to avoid any alias in your .bashrc file. But most import of all, test and verify it by replace the line in `crontab` to
 
@@ -27,7 +27,7 @@ rsync error: unexplained error (code 255) at io.c(231) [sender=3.2.7]
 ```
 
 If you want to know more about this error, add `vvv` to your `rsync` input parameters in the `/home/yourname/back.sh` file. 
-My problem is solved by adding this line to `./home/yourname/back.sh` file, note NOT adding it to the `crontab` tasks:
+<**SOLUTION**> My problem is solved by adding this line to `./home/yourname/back.sh` file, note NOT adding it to the `crontab` tasks:
 ```
 export SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
 ```
