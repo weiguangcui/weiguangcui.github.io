@@ -5,6 +5,9 @@ subtitle: My talks, posters, etc.
 ---
 
 #### I have given 50+ talks up to 2018. Here I only list some selected talks (in reversed chronological order).
+
+*8.* [**Reconstructing the Cluster Mass with Machine Learning**](https://docs.google.com/presentation/d/1OmMYtTYk0-jw1bz7-9Obvt_VjiJ4RQQzhsfu3wtdpFE/edit?usp=sharing).\
+Talk at the ["The STFC DiRAC Facility and HPCAIC's the sixth annual UK Conference at Leicester"](https://www.hpcadvisorycouncil.com/events/2024/uk-conference/agenda.php)
  
 *7.* [**Understanding galaxy groups and clusters -- probes with HYENAS and The300**](https://docs.google.com/presentation/d/1AboDa_1GqB0yjdqQdmZb1MsGEE5-6xgNz-UweQn-Wt4/edit?usp=sharing).\
 Invited Seminar talks at [NAOC (15.07.24)](/assets/presentations/poster-WeiguangCui.pdf) and Qinghua University (18.07.24) and [USTC (05.08.24)](https://astro.ustc.edu.cn/2024/0717/c14971a647820/pagem.htm).

@@ -18,9 +18,15 @@ title: Publications
 *First author papers: 19;  second author papers: 11;  third+fourth author papers: 31*
 
 -----
-<center><strong>--- 2024 (19 papers) ---</strong></center>
+<center><strong>--- 2024 (22 papers) ---</strong></center>
 
-*112* [The HYENAS project: a prediction for the X-ray undetected galaxy groups](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2066C/abstract) **Cui, W.**; Jennings, F.; Dave, R.; Babul, A.; Gozaliasl, G., 2024, MNRAS, tmp.
+*115* [Stellar stripping efficiencies of satellites in numerical simulations: the effect of resolution, satellite properties and numerical disruption](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2401M/abstract) Martin, G.; Pearce, F.~R.; Hatch, N.~A.; Contreras-Santos, A.; Knebe, A.; **Cui, W.**, 2024, MNRAS, tmp.
+
+*114* [COSMOS brightest group galaxies: III. Evolution of stellar ages](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.315G/abstract) Gozaliasl, G.; Finoguenov, A.; Babul, A., et al. 2024, A&A, 690A, 315G.
+
+*113* [The Three Hundred: The existence of massive dark matter-deficient satellite galaxies in cosmological simulations](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.109C/abstract) Contreras-Santos, A.; Buitrago, F.; Knebe, A.; Rasia, E.; Pearce, F. R.; **Cui, W.**; Power, C.; Winstanley, J., 2024, A&A, 690A, 109C.
+
+*112* **\*** [**The HYENAS project: a prediction for the X-ray undetected galaxy groups**](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.1247C/abstract) **Cui, W.**; Jennings, F.; Dave, R.; Babul, A.; Gozaliasl, G., 2024, MNRAS, 534, 1247C.
 
 *111* [The effect of AGN feedback on the Lyman-α forest signature of galaxy protoclusters at z=2.3](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4876D/abstract) Dong, C.; Lee, K.-G.; **Cui, W.**; Davé, R.; Sorini, D., 2024, MNRAS, 532, 4876.
 
@@ -288,6 +294,10 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 -----
 
 ### Unreferenced Publications:
+*17.* [Simba-C: chemical and thermal profiles in the intragroup medium with an updated chemical enrichment model](https://ui.adsabs.harvard.edu/abs/2024eas..conf..372P/abstract) Padawer-Blatt, A.; Hough, R.; Shao, Z.; et al., 2024, EAS2024, 372P
+
+*16.* [Artificial intelligence applications in The Three Hundred Simulation project](https://ui.adsabs.harvard.edu/abs/2024eas..conf.2388D/abstract) de Andres Hernandez, D.; Yepes, G.; Cui, W.; De Petris, M., 2024, EAS2024, 2388D
+
 *15.* [3D scaling laws and projection effects in The300-NIKA2 Sunyaev-Zeldovich Large Program Twin Samples](https://ui.adsabs.harvard.edu/abs/2024EPJWC.29300037P/abstract) Paliwal, A.; Cui, W. and 11 more, 2024, EPJWC, 29300037P
 
 *14.* [Impact of filaments on galaxy cluster properties in The Three Hundred simulation](https://ui.adsabs.harvard.edu/abs/2024EPJWC.29300048S/abstract) Santoni, S.; De Petris, M.; Ferragamo, A.; Yepes, G. and Cui, W., 2024, EPJWC, 29300048S
