@@ -18,9 +18,11 @@ title: Publications
 *First author papers: 19;  second author papers: 11;  third+fourth author papers: 31*
 
 -----
-<center><strong>--- 2024 (22 papers) ---</strong></center>
+<center><strong>--- 2024 (23 papers) ---</strong></center>
 
-*115* [Stellar stripping efficiencies of satellites in numerical simulations: the effect of resolution, satellite properties and numerical disruption](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2401M/abstract) Martin, G.; Pearce, F.~R.; Hatch, N.~A.; Contreras-Santos, A.; Knebe, A.; **Cui, W.**, 2024, MNRAS, tmp.
+*116* [HYENAS: X-ray Bubbles and Cavities in the Intra-Group Medium](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2509J/abstract) Jennings, F.~J.; Babul, A.; Dave, R.; **Cui, W.**; Rennehan, D., 2024, MNRAS, tmp
+
+*115* [Stellar stripping efficiencies of satellites in numerical simulations: the effect of resolution, satellite properties and numerical disruption](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2375M/abstract) Martin, G.; Pearce, F.~R.; Hatch, N.~A.; Contreras-Santos, A.; Knebe, A.; **Cui, W.**, 2024, MNRAS, 535, 2375M.
 
 *114* [COSMOS brightest group galaxies: III. Evolution of stellar ages](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.315G/abstract) Gozaliasl, G.; Finoguenov, A.; Babul, A., et al. 2024, A&A, 690A, 315G.
 
@@ -71,7 +73,7 @@ Narayanan, Desika; Lower, Sidney; Torrey, Paul; Brammer, Gabriel; **Cui, W.** an
 
 *93* [A persistent excess of galaxy-galaxy strong lensing observed in galaxy clusters](https://ui.adsabs.harvard.edu/abs/2023A%26A...678L...2M/abstract) Meneghetti, M.; **Cui, Weiguang**; Rasia, E.; Yepes, G.; Acebron, A. and 16 more, 2023, A&A, 678L, 2M
 
-*92* [SIMBA-C: An updated chemical enrichment model for galactic chemical evolution in the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2309H/abstract) Hough, R.; Rennehan, D.; Kobayashi, C.; Loubser, S. I.; Davé, R.; Babul, A.; **Cui, W.**, 2023, MNRAS, 525, 1061H
+*92* [SIMBA-C: An updated chemical enrichment model for galactic chemical evolution in the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.1061H/abstract) Hough, R.; Rennehan, D.; Kobayashi, C.; Loubser, S. I.; Davé, R.; Babul, A.; **Cui, W.**, 2023, MNRAS, 525, 1061H
 
 *91* [THE THREE HUNDRED Project: the evolution of physical baryon profiles](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.1228L/abstract) Li, Q.; **Cui, Weiguang**; Yang, X. and 7 more, 2023, MNRAS, 523, 1228L
 
@@ -129,7 +131,7 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 *66* [The three hundred project: galaxy cluster mergers and their impact on the stellar component of brightest cluster galaxies](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2897C/abstract) Contreras-Santos, A.; Knebe, A.; Pearce, F.; Haggar, R.; Gray, M.; **Cui, W.**; Yepes, G.; De Petris, M.; De Luca, F.; Power, C.; Mostoghiu, R.; Nuza, S.~E.; Hoeft, M., 2022, MNRAS, 511, 2897
 
-*65* [The Three Hundred Project: Dissecting the Fundamental Plane of galaxy clusters up to z = 1](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp..614D/abstract) Díaz-García, L.~A.; Umetsu, K.; Rasia, E.; **Cui, W.**; Meneghetti, M., 2022, MNRAS, tmp, 614D
+*65* [The Three Hundred Project: Dissecting the Fundamental Plane of galaxy clusters up to z = 1](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.1214D/abstract) Díaz-García, L.~A.; Umetsu, K.; Rasia, E.; **Cui, W.**; Meneghetti, M., 2022, MNRAS, 512, 1214D
 
 *64* [Galaxy velocity bias in cosmological simulations: towards per cent-level calibration](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.2980A/abstract) Anbajagane, D.; Aung, H.; Evrard, A.~E.; Farahi, A.; Nagai, D.; Barnes, D.~J.; **Cui, W.**; Dolag, K.; McCarthy, I. G.; Rasia, E.; Yepes, G.,  2022, MNRAS, 510, 2980A 
 
@@ -162,7 +164,7 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 *51.* [The Three Hundred Project: The gas disruption of infalling objects in cluster environments](https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.5029M/abstract) Mostoghiu, R.; Arthur, J.; Pearce, F.; Gray, M.; Knebe, A.; **Cui, W.**; Welker, C.; Cora, S.; Murante, G.; Dolag, K.; Yepes, G., 2021, MNRAS, 501, 5029M
 
-*50.* [The Three Hundred Project: quest of clusters of galaxies morphology and dynamical state through Zernike polynomials](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3666C/abstract) Capalbo, V.; De Petris, M.; De Luca, F.; **Cui, W.**; Yepes, G.; Knebe, A.; Rasia, E., 2021, MNRAS, 503, 6155C
+*50.* [The Three Hundred Project: quest of clusters of galaxies morphology and dynamical state through Zernike polynomials](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.6155C/abstract) Capalbo, V.; De Petris, M.; De Luca, F.; **Cui, W.**; Yepes, G.; Knebe, A.; Rasia, E., 2021, MNRAS, 503, 6155C
 
 *49.* [The ThreeHundred: the structure and properties of cosmic filaments in the outskirts of galaxy clusters](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502..714R/abstract) Rost, A.; Kuchner, U.; Welker, C.; Pearce, F.; Stasyszyn, F.; Gray, M.; **Cui, W.**; Dave, R.; Knebe, A.; Yepes, G.; Rasia, E., 2021, MNRAS, 502, 714R
 
