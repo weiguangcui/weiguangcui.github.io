@@ -127,7 +127,7 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 *68* [Chameleon screening depends on the shape and structure of NFW halos](https://ui.adsabs.harvard.edu/abs/2022JCAP...04..047T/abstract) Tamosiunas, A.; Briddon, C.; Burrage, C.; **Cui, W.**; Moss, A., 2022, JCAP, 04, 047T
 
-*67* [Cosmic filaments delay quenching inside clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512..926K/abstract) Kotecha, S.; Welker, C.; Zhou, Z.; Wadsley, J.; Kraljic, K.; Sorce, J.; Rasia, E.; Roberts, I.; Gray, M.; Yepes, G.; **Cui, W.**, 2022, MNRAS, 512, 926
+*67* [Cosmic filaments delay quenching inside clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512..926K/abstract) Kotecha, S.; Welker, C.; Zhou, Z.; et al., 2022, MNRAS, 512, 926
 
 *66* [The three hundred project: galaxy cluster mergers and their impact on the stellar component of brightest cluster galaxies](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2897C/abstract) Contreras-Santos, A.; Knebe, A.; Pearce, F.; Haggar, R.; Gray, M.; **Cui, W.**; Yepes, G.; De Petris, M.; De Luca, F.; Power, C.; Mostoghiu, R.; Nuza, S.~E.; Hoeft, M., 2022, MNRAS, 511, 2897
 
@@ -289,9 +289,9 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 -----
 
-### Books and book chapters:
+### Books and Book Chapters:
 
-*1.* **\*** [**The impact of baryons on the large-scale structure of the Universe**](https://www.intechopen.com/books/trends-in-modern-cosmology/the-impact-of-baryons-on-the-large-scale-structure-of-the-universe) **Cui, Weiguang** and Zhang Youcai. 2017, chapter 7 for book "Trends in Modern Cosmology", ISBN 978-953-51-5426-6. See this [arxiv link](https://arxiv.org/abs/1708.02644) for the updated version.
+*1.* **\*** [**The Impact of Baryons on the Large-Scale Structure of the Universe**](https://www.intechopen.com/books/trends-in-modern-cosmology/the-impact-of-baryons-on-the-large-scale-structure-of-the-universe) **Cui, Weiguang** and Zhang, Youcai. 2017, Chapter 7 for book "Trends in Modern Cosmology", ISBN 978-953-51-5426-6. See this [arXiv link](https://arxiv.org/abs/1708.02644) for the updated version.
 
 -----
 
