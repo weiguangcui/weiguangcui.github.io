@@ -18,9 +18,20 @@ title: Publications
 *First author papers: 19;  second author papers: 11;  third+fourth author papers: 31*
 
 -----
+
+<center><strong>--- 2025 (4 papers) ---</strong></center>
+
+*120* [The nature and evolution of early massive quenched galaxies in the SIMBA-C simulation](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..131S/abstract) Szpila, J.; Davé, R.; Rennehan, D.; **Cui, W.**; Hough, R. T., 2025, MNRAS, tmp, 131S
+
+*119* [The Three Hundred project: The relationship between the shock and splashback radii of simulated galaxy clusters](https://ui.adsabs.harvard.edu/abs/2025PASA...42....8Z/abstract) Zhang, M.; Walker, K.; Sullivan, A. et al. 2025, PASA, 42, 8Z 
+
+*118* [HYENAS: X-ray Bubbles and Cavities in the Intra-Group Medium](https://ui.adsabs.harvard.edu/abs/2025MNRAS.536..145J/abstract) Jennings, F.~J.; Babul, A.; Dave, R.; **Cui, W.**; Rennehan, D., 2025, MNRAS, 536, 145J
+
+*117* [Disparate effects of circumgalactic medium angular momentum in IllustrisTNG and SIMBA](https://ui.adsabs.harvard.edu/abs/2025A%26A...693A..48L/abstract) Liu K.; Guo H.; Wang, S.; Xu, D.; et al., 2025, A&A, 693A, 48L
+
 <center><strong>--- 2024 (23 papers) ---</strong></center>
 
-*116* [HYENAS: X-ray Bubbles and Cavities in the Intra-Group Medium](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2509J/abstract) Jennings, F.~J.; Babul, A.; Dave, R.; **Cui, W.**; Rennehan, D., 2024, MNRAS, tmp
+*116* [THE THREE HUNDRED project: Estimating the dependence of gas filaments on the mass of galaxy clusters](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A..44S/abstract) Santoni, S.; De Petris, M.; Yepes, G. et al. 2024, A&A, 692A, 44S
 
 *115* [Stellar stripping efficiencies of satellites in numerical simulations: the effect of resolution, satellite properties and numerical disruption](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2375M/abstract) Martin, G.; Pearce, F.~R.; Hatch, N.~A.; Contreras-Santos, A.; Knebe, A.; **Cui, W.**, 2024, MNRAS, 535, 2375M.
 
