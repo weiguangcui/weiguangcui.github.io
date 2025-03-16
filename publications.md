@@ -19,9 +19,11 @@ title: Publications
 
 -----
 
-<center><strong>--- 2025 (4 papers) ---</strong></center>
+<center><strong>--- 2025 (5 papers) ---</strong></center>
 
-*120* [The nature and evolution of early massive quenched galaxies in the SIMBA-C simulation](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..131S/abstract) Szpila, J.; Davé, R.; Rennehan, D.; **Cui, W.**; Hough, R. T., 2025, MNRAS, tmp, 131S
+*121* [Core to Cosmic Edge: SIMBA-C's New Take on Abundance Profiles in the Intragroup Medium at z = 0](https://ui.adsabs.harvard.edu/abs/2025Univ...11...47P/abstract) Padawer-Blatt A.; Shao Z.; Hough R.~T.; Rennehan D.; Barr{\'e} R.; Saeedzadeh V.; Babul A.; et al., 2025, Univ, 11, 47.
+
+*120* [The nature and evolution of early massive quenched galaxies in the SIMBA-C simulation](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.1849S/abstract) Szpila, J.; Davé, R.; Rennehan, D.; **Cui, W.**; Hough, R. T., 2025, MNRAS, 537, 1849S
 
 *119* [The Three Hundred project: The relationship between the shock and splashback radii of simulated galaxy clusters](https://ui.adsabs.harvard.edu/abs/2025PASA...42....8Z/abstract) Zhang, M.; Walker, K.; Sullivan, A. et al. 2025, PASA, 42, 8Z 
 
