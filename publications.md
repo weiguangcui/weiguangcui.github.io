@@ -15,11 +15,12 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
-*First author papers: 19;  second author papers: 11;  third+fourth author papers: 31*
+*First author papers: 19;  second author papers: 11;  third+fourth author papers: 32*
 
 -----
 
-<center><strong>--- 2025 (5 papers) ---</strong></center>
+<center><strong>--- 2025 (6 papers) ---</strong></center>
+*122* [Deep learning generated observations of galaxy clusters from dark-matter-only simulations](https://ui.adsabs.harvard.edu/abs/2025RASTI...4af007D/abstract) Caro A.; de Andres D.; **Cui, W.**; Yepes G.; De Petris M.; Ferragamo A.; Schiltz F.; et al., 2025, RASTI, 4, rzaf007
 
 *121* [Core to Cosmic Edge: SIMBA-C's New Take on Abundance Profiles in the Intragroup Medium at z = 0](https://ui.adsabs.harvard.edu/abs/2025Univ...11...47P/abstract) Padawer-Blatt A.; Shao Z.; Hough R.~T.; Rennehan D.; Barr{\'e} R.; Saeedzadeh V.; Babul A.; et al., 2025, Univ, 11, 47.
 
