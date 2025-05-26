@@ -19,7 +19,14 @@ title: Publications
 
 -----
 
-<center><strong>--- 2025 (6 papers) ---</strong></center>
+<center><strong>--- 2025 (9 papers) ---</strong></center>
+
+*125* [Gamma Analytical Modelling Evolution – I. The physical implications of deriving the stellar mass functions from z = 0 to z = 8](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..688K/abstract) Katsianis, A.; Wang, Q.; Yang, X.; Zheng, X.~Z.; Cataldi, P.; Napolitano, N.; Zhu, W.; Tejos, N.; **Cui, W.**; et al. 2025, MNRAS, 540, 688K
+
+*124* [The Three Hundred project hydrodynamical simulations: Hydrodynamical weak-lensing cluster mass biases and richnesses using different hydro models](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.184G/abstract) Giocoli, C.; Despali, G.; Meneghetti, M.; Rasia, E.; Moscardini, L.; Borgani, S.; Lesci, G. F.; Marulli, F.; **Cui, W.**; et al. 2025, A&A, 697A, 184G
+
+*123* [The impact of baryons on the sparsity of simulated galaxy clusters from THE THREE HUNDRED Project: Astrophysical and cosmological implications](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A..33C/abstract) Corasaniti, P. S.; Richardson, T. R. G.; Ettori, S.; De Petris, M.; Rasia, E.; **Cui, W.**; et al. 2025, A&A, 697A, 33C
+
 *122* [Deep learning generated observations of galaxy clusters from dark-matter-only simulations](https://ui.adsabs.harvard.edu/abs/2025RASTI...4af007D/abstract) Caro A.; de Andres D.; **Cui, W.**; Yepes G.; De Petris M.; Ferragamo A.; Schiltz F.; et al., 2025, RASTI, 4, rzaf007
 
 *121* [Core to Cosmic Edge: SIMBA-C's New Take on Abundance Profiles in the Intragroup Medium at z = 0](https://ui.adsabs.harvard.edu/abs/2025Univ...11...47P/abstract) Padawer-Blatt A.; Shao Z.; Hough R.~T.; Rennehan D.; Barr{\'e} R.; Saeedzadeh V.; Babul A.; et al., 2025, Univ, 11, 47.
