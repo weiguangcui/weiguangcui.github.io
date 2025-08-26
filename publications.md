@@ -15,17 +15,29 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
-*First author papers: 19;  second author papers: 11;  third+fourth author papers: 32*
+*First author papers: 19;  second author papers: 13;  third+fourth author papers: 33*
 
 -----
 
-<center><strong>--- 2025 (9 papers) ---</strong></center>
+<center><strong>--- 2025 (15 papers) ---</strong></center>
 
-*125* [Gamma Analytical Modelling Evolution – I. The physical implications of deriving the stellar mass functions from z = 0 to z = 8](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..688K/abstract) Katsianis, A.; Wang, Q.; Yang, X.; Zheng, X.~Z.; Cataldi, P.; Napolitano, N.; Zhu, W.; Tejos, N.; **Cui, W.**; et al. 2025, MNRAS, 540, 688K
+*131* [The Jiutian simulations for the CSST extra-galactic surveys](https://ui.adsabs.harvard.edu/abs/2025SCPMA..6809511H/abstract) Han, J.; Li, M.; Jiang, W.; Chen, Z.; Wang, H.; Wei, C.; He, F.; He, J.; Zhang, J.; Liu, Y.; **Cui, W.** et al. 2025, SCPMA, 68, 511H
 
-*124* [The Three Hundred project hydrodynamical simulations: Hydrodynamical weak-lensing cluster mass biases and richnesses using different hydro models](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.184G/abstract) Giocoli, C.; Despali, G.; Meneghetti, M.; Rasia, E.; Moscardini, L.; Borgani, S.; Lesci, G. F.; Marulli, F.; **Cui, W.**; et al. 2025, A&A, 697A, 184G
+*130* [The life and times of dark matter haloes: what will I be when I grow up?](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp.1241O/abstract) Onions, J.; Pearce, F.; Knebe, A.; Gray, M.; Haggar, R.; Kuchner, U.; Contreras-Santos, A.; Yepes, G.; **Cui, W.**; 2025, MNRAS, in press
 
-*123* [The impact of baryons on the sparsity of simulated galaxy clusters from THE THREE HUNDRED Project: Astrophysical and cosmological implications](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A..33C/abstract) Corasaniti, P. S.; Richardson, T. R. G.; Ettori, S.; De Petris, M.; Rasia, E.; **Cui, W.**; et al. 2025, A&A, 697A, 33C
+*129* [Predicting halo formation time using machine learning](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A..87S/abstract) Srivastava, A.; **Cui, W.**; de Andres, D.; Golden-Marx, J. B.; Rasia, E.; Zu, Y.; 2025, A&A, 700, 87S
+
+*128* [Gamma Analytical Modelling Evolution – I. The physical implications of deriving the stellar mass functions from z = 0 to z = 8](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..688K/abstract) Katsianis, A.; Wang, Q.; Yang, X.; Zheng, X.; Cataldi, P.; Napolitano, N.; Zhu, W.; Tejos, N.; **Cui, W.**; et al. 2025, MNRAS, 540, 688K
+
+*127* [Inference of the morphology and dynamical state of nearby Planck-SZ galaxy clusters with Zernike polynomials](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.201C/abstract) Capalbo, V.; De Petris, M.; Ferragamo, A.; **Cui, W.**; Ruppin, F.; Yepes, G.; 2025, A&A, 698A, 201C
+
+*126* [The Three Hundred project hydrodynamical simulations: Hydrodynamical weak-lensing cluster mass biases and richnesses using different hydro models](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.184G/abstract) Giocoli, C.; Despali, G.; Meneghetti, M.; Rasia, E.; Moscardini, L.; Borgani, S.; Lesci, G. F.; Marulli, F.; **Cui, W.**; Yepes, G.; 2025, A&A, 697A, 184G
+
+*125* [The Three Hundred Project: A fast semi-analytic model emulator of hydrodynamical galaxy cluster simulations](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.171G/abstract) Gómez, J.S.; Hough, T.; Jiménez Muñoz, A.; Yepes, G.; **Cui, W.**; Cora, S.A.; 2025, A&A, 697A, 171G
+
+*124* [The impact of baryons on the sparsity of simulated galaxy clusters from THE THREE HUNDRED Project: Astrophysical and cosmological implications](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A..33C/abstract) Corasaniti, P.S.; Richardson, T.R.G.; Ettori, S.; De Petris, M.; Rasia, E.; **Cui, W.**; et al. 2025, A&A, 697A, 33C
+
+*123* [PYMGAL: a python package for generating optical mock observations from hydrodynamical simulations](https://ui.adsabs.harvard.edu/abs/2025RASTI...4...27J/abstract) Janulewicz, P.; **Cui, W.**; 2025, RASTI, 4, 27J
 
 *122* [Deep learning generated observations of galaxy clusters from dark-matter-only simulations](https://ui.adsabs.harvard.edu/abs/2025RASTI...4af007D/abstract) Caro A.; de Andres D.; **Cui, W.**; Yepes G.; De Petris M.; Ferragamo A.; Schiltz F.; et al., 2025, RASTI, 4, rzaf007
 
