@@ -15,33 +15,43 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
-*First author papers: 19;  second author papers: 13;  third+fourth author papers: 33*
+*First author papers: 19;  second author papers: 15;  third+fourth author papers: 33*
 
 -----
 
-<center><strong>--- 2025 (15 papers) ---</strong></center>
+<center><strong>--- 2025 (20 papers) ---</strong></center>
 
-*131* [The Jiutian simulations for the CSST extra-galactic surveys](https://ui.adsabs.harvard.edu/abs/2025SCPMA..6809511H/abstract) Han, J.; Li, M.; Jiang, W.; Chen, Z.; Wang, H.; Wei, C.; He, F.; He, J.; Zhang, J.; Liu, Y.; **Cui, W.** et al. 2025, SCPMA, 68, 511H
+*136* [Investigating the residuals in the $M_\bullet-M_*$ relation using the SIMBA cosmological simulation](https://ui.adsabs.harvard.edu/abs/2025arXiv250804413M/abstract) Ma, W.; **Cui, W.**; Davé, R.; et al. 2025, A&A, in press
 
-*130* [The life and times of dark matter haloes: what will I be when I grow up?](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp.1241O/abstract) Onions, J.; Pearce, F.; Knebe, A.; Gray, M.; Haggar, R.; Kuchner, U.; Contreras-Santos, A.; Yepes, G.; **Cui, W.**; 2025, MNRAS, in press
+*135* [Constraining the neutrino mass with the CSST galaxy clusters](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112f3506C/abstract) Chen, M.; Fang, W.; Zhang, Y.; Wen, Z.; **Cui, W.**; et al. 2025, Phys. Rev. D, 112, 063506C
 
-*129* [Predicting halo formation time using machine learning](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A..87S/abstract) Srivastava, A.; **Cui, W.**; de Andres, D.; Golden-Marx, J. B.; Rasia, E.; Zu, Y.; 2025, A&A, 700, 87S
+*134* [Extreme AGN feedback in the fossil galaxy group SDSSTG 4436](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.127E/abstract) Eckert, D.; Gastaldello, F.; Lovisari, L.; et al. 2025, A&A, 701, 127E
 
-*128* [Gamma Analytical Modelling Evolution – I. The physical implications of deriving the stellar mass functions from z = 0 to z = 8](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..688K/abstract) Katsianis, A.; Wang, Q.; Yang, X.; Zheng, X.; Cataldi, P.; Napolitano, N.; Zhu, W.; Tejos, N.; **Cui, W.**; et al. 2025, MNRAS, 540, 688K
+*133* [HE THREE HUNDRED project: Gas properties outside of galaxy clusters with the WHIM contribution and detection](https://ui.adsabs.harvard.edu/abs/2025A%26A...701A..37L/abstract) Li, R.; **Cui, W.**; et al. 2025, A&A, 701, 37L
 
-*127* [Inference of the morphology and dynamical state of nearby Planck-SZ galaxy clusters with Zernike polynomials](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.201C/abstract) Capalbo, V.; De Petris, M.; Ferragamo, A.; **Cui, W.**; Ruppin, F.; Yepes, G.; 2025, A&A, 698A, 201C
+*132* [The Atacama Cosmology Telescope: a census of bridges between galaxy clusters](https://ui.adsabs.harvard.edu/abs/2025JCAP...08..078I/abstract) Isopi, G.; Capalbo, V.; Hincks, A. D.; Di Mascolo, L.; et al. 2025, JCAP, 08, 078I
 
-*126* [The Three Hundred project hydrodynamical simulations: Hydrodynamical weak-lensing cluster mass biases and richnesses using different hydro models](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.184G/abstract) Giocoli, C.; Despali, G.; Meneghetti, M.; Rasia, E.; Moscardini, L.; Borgani, S.; Lesci, G. F.; Marulli, F.; **Cui, W.**; Yepes, G.; 2025, A&A, 697A, 184G
+*131* [The Jiutian simulations for the CSST extra-galactic surveys](https://ui.adsabs.harvard.edu/abs/2025SCPMA..6809511H/abstract) Han, J.; Li, M.; Jiang, W.; Chen, Z.; et al. 2025, SCPMA, 68, 511H
+
+*130* [The life and times of dark matter haloes: what will I be when I grow up?](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.1477O/abstract) Onions, J.; Pearce, F.; Knebe, A.; Gray, M.; Haggar, R.; et al. 2025, MNRAS, 542, 1477O
+
+*129* [Predicting halo formation time using machine learning](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A..87S/abstract) Srivastava, A.; **Cui, W.**; de Andres, D.; Golden-Marx, J. B.; et al. 2025, A&A, 700, 87S
+
+*128* [Gamma Analytical Modelling Evolution – I. The physical implications of deriving the stellar mass functions from z = 0 to z = 8](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..688K/abstract) Katsianis, A.; Wang, Q.; Yang, X.; Zheng, X.; et al. 2025, MNRAS, 540, 688K
+
+*127* [Inference of the morphology and dynamical state of nearby Planck-SZ galaxy clusters with Zernike polynomials](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.201C/abstract) Capalbo, V.; De Petris, M.; Ferragamo, A.; **Cui, W.**; et al. 2025, A&A, 698A, 201C
+
+*126* [The Three Hundred project hydrodynamical simulations: Hydrodynamical weak-lensing cluster mass biases and richnesses using different hydro models](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.184G/abstract) Giocoli, C.; Despali, G.; Meneghetti, M.; Rasia, E.; et al. 2025, A&A, 697A, 184G
 
 *125* [The Three Hundred Project: A fast semi-analytic model emulator of hydrodynamical galaxy cluster simulations](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.171G/abstract) Gómez, J.S.; Hough, T.; Jiménez Muñoz, A.; Yepes, G.; **Cui, W.**; Cora, S.A.; 2025, A&A, 697A, 171G
 
-*124* [The impact of baryons on the sparsity of simulated galaxy clusters from THE THREE HUNDRED Project: Astrophysical and cosmological implications](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A..33C/abstract) Corasaniti, P.S.; Richardson, T.R.G.; Ettori, S.; De Petris, M.; Rasia, E.; **Cui, W.**; et al. 2025, A&A, 697A, 33C
+*124* [The impact of baryons on the sparsity of simulated galaxy clusters from THE THREE HUNDRED Project: Astrophysical and cosmological implications](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A..33C/abstract) Corasaniti, P.S.; Richardson, T.R.G.; Ettori, S.; De Petris, M.; et al. 2025, A&A, 697A, 33C
 
 *123* [PYMGAL: a python package for generating optical mock observations from hydrodynamical simulations](https://ui.adsabs.harvard.edu/abs/2025RASTI...4...27J/abstract) Janulewicz, P.; **Cui, W.**; 2025, RASTI, 4, 27J
 
-*122* [Deep learning generated observations of galaxy clusters from dark-matter-only simulations](https://ui.adsabs.harvard.edu/abs/2025RASTI...4af007D/abstract) Caro A.; de Andres D.; **Cui, W.**; Yepes G.; De Petris M.; Ferragamo A.; Schiltz F.; et al., 2025, RASTI, 4, rzaf007
+*122* [Deep learning generated observations of galaxy clusters from dark-matter-only simulations](https://ui.adsabs.harvard.edu/abs/2025RASTI...4af007D/abstract) Caro A.; de Andres D.; **Cui, W.**; Yepes G.; et al. 2025, RASTI, 4, rzaf007
 
-*121* [Core to Cosmic Edge: SIMBA-C's New Take on Abundance Profiles in the Intragroup Medium at z = 0](https://ui.adsabs.harvard.edu/abs/2025Univ...11...47P/abstract) Padawer-Blatt A.; Shao Z.; Hough R.~T.; Rennehan D.; Barr{\'e} R.; Saeedzadeh V.; Babul A.; et al., 2025, Univ, 11, 47.
+*121* [Core to Cosmic Edge: SIMBA-C's New Take on Abundance Profiles in the Intragroup Medium at z = 0](https://ui.adsabs.harvard.edu/abs/2025Univ...11...47P/abstract) Padawer-Blatt A.; Shao Z.; Hough R.~T.; Rennehan D.; et al. 2025, Univ, 11, 47.
 
 *120* [The nature and evolution of early massive quenched galaxies in the SIMBA-C simulation](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.1849S/abstract) Szpila, J.; Davé, R.; Rennehan, D.; **Cui, W.**; Hough, R. T., 2025, MNRAS, 537, 1849S
 
@@ -49,7 +59,7 @@ title: Publications
 
 *118* [HYENAS: X-ray Bubbles and Cavities in the Intra-Group Medium](https://ui.adsabs.harvard.edu/abs/2025MNRAS.536..145J/abstract) Jennings, F.~J.; Babul, A.; Dave, R.; **Cui, W.**; Rennehan, D., 2025, MNRAS, 536, 145J
 
-*117* [Disparate effects of circumgalactic medium angular momentum in IllustrisTNG and SIMBA](https://ui.adsabs.harvard.edu/abs/2025A%26A...693A..48L/abstract) Liu K.; Guo H.; Wang, S.; Xu, D.; et al., 2025, A&A, 693A, 48L
+*117* [Disparate effects of circumgalactic medium angular momentum in IllustrisTNG and SIMBA](https://ui.adsabs.harvard.edu/abs/2025A%26A...693A..48L/abstract) Liu K.; Guo H.; Wang, S.; Xu, D.; et al. 2025, A&A, 693A, 48L
 
 <center><strong>--- 2024 (23 papers) ---</strong></center>
 
@@ -65,7 +75,7 @@ title: Publications
 
 *111* [The effect of AGN feedback on the Lyman-α forest signature of galaxy protoclusters at z=2.3](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4876D/abstract) Dong, C.; Lee, K.-G.; **Cui, W.**; Davé, R.; Sorini, D., 2024, MNRAS, 532, 4876.
 
-*110* [Reconsidering the dynamical states of galaxy clusters using PCA and UMAP](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1031H/abstract) Haggar R., De Luca F., De Petris M., Sazonova E., Taylor J.~E., Knebe A., Gray M.~E., et al., 2024, MNRAS, 532, 1031.
+*110* [Reconsidering the dynamical states of galaxy clusters using PCA and UMAP](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1031H/abstract) Haggar R., De Luca F., De Petris M., Sazonova E., Taylor J.~E., Knebe A., Gray M.~E., et al. 2024, MNRAS, 532, 1031.
 
 *109* [Simba-C: the evolution of the thermal and chemical properties in the intragroup medium](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532..476H/abstract) Hough, R.~T.; Shao, Z.; **Cui, W.** and 5 more, 2024, MNRAS, 532, 476
 
@@ -125,7 +135,7 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 *84* [The Three Hundred project: Galaxy groups do not survive cluster infall](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1316H/abstract) Haggar, R.; Kuchner, U.; Gray, M. E.; Pearce, F. R.; Knebe, A.; Yepes, G.; **Cui, W.**, 2023, MNRAS, 518, 1316
 
-*83* [Machine learning methods to estimate observational properties of galaxy clusters in large volume cosmological N-body simulations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..111D/abstract) de Andres, D.; Yepes, G.; Sembolini, F.; Martínez-Muñoz, G.; **Cui, W.**; et al., 2023, MNRAS, 518, 111
+*83* [Machine learning methods to estimate observational properties of galaxy clusters in large volume cosmological N-body simulations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..111D/abstract) de Andres, D.; Yepes, G.; Sembolini, F.; Martínez-Muñoz, G.; **Cui, W.**; et al. 2023, MNRAS, 518, 111
 
 -----
 <center><strong>--- 2022 (20 papers) ---</strong></center>
@@ -136,7 +146,7 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 *80* [A multi-simulation study of relativistic SZ temperature scalings in galaxy clusters and groups](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.5303L/abstract) Lee, E.; Anbajagane, D.; Singh, P.; Chluba, J.; Nagai, D.; Kay, S. T.; **Cui, W.**; Dolag, K.; Yepes, G., 2022, MNRAS, 517, 5303, 
 
-*79* [Forecasting the success of the WEAVE Wide-Field Cluster Survey on the extraction of the cosmic web filaments around galaxy clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.1678C/abstract) Cornwell, D. J.; Kuchner, U.; Aragón-Salamanca, A.; Gray, M. E.; Pearce, F. R.; Aguerri, J. A. L. ; **Cui, W.**, et al., 2022, MNRAS, 517, 1678C
+*79* [Forecasting the success of the WEAVE Wide-Field Cluster Survey on the extraction of the cosmic web filaments around galaxy clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.1678C/abstract) Cornwell, D. J.; Kuchner, U.; Aragón-Salamanca, A.; Gray, M. E.; Pearce, F. R.; Aguerri, J. A. L. ; **Cui, W.**, et al. 2022, MNRAS, 517, 1678C
 
 *78* [Understanding the relation between thermal Sunyaev-Zeldovich decrement and halo mass using the SIMBA and TNG simulations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.4084Y/abstract) Yang, T.; Cai, Y.-C.; **Cui, W.**; Davé, R.; Peacock, J. A.; Sorini, D., 2022, MNRAS, 516, 4084Y
 
@@ -160,7 +170,7 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 
 *68* [Chameleon screening depends on the shape and structure of NFW halos](https://ui.adsabs.harvard.edu/abs/2022JCAP...04..047T/abstract) Tamosiunas, A.; Briddon, C.; Burrage, C.; **Cui, W.**; Moss, A., 2022, JCAP, 04, 047T
 
-*67* [Cosmic filaments delay quenching inside clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512..926K/abstract) Kotecha, S.; Welker, C.; Zhou, Z.; et al., 2022, MNRAS, 512, 926
+*67* [Cosmic filaments delay quenching inside clusters](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512..926K/abstract) Kotecha, S.; Welker, C.; Zhou, Z.; et al. 2022, MNRAS, 512, 926
 
 *66* [The three hundred project: galaxy cluster mergers and their impact on the stellar component of brightest cluster galaxies](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2897C/abstract) Contreras-Santos, A.; Knebe, A.; Pearce, F.; Haggar, R.; Gray, M.; **Cui, W.**; Yepes, G.; De Petris, M.; De Luca, F.; Power, C.; Mostoghiu, R.; Nuza, S.~E.; Hoeft, M., 2022, MNRAS, 511, 2897
 
@@ -329,7 +339,7 @@ Ferragamo, A.; de Andres, D.; Sbriglio, A.; **Cui, W.**; De Petris, M.; Yepes, G
 -----
 
 ### Unreferenced Publications:
-*17.* [Simba-C: chemical and thermal profiles in the intragroup medium with an updated chemical enrichment model](https://ui.adsabs.harvard.edu/abs/2024eas..conf..372P/abstract) Padawer-Blatt, A.; Hough, R.; Shao, Z.; et al., 2024, EAS2024, 372P
+*17.* [Simba-C: chemical and thermal profiles in the intragroup medium with an updated chemical enrichment model](https://ui.adsabs.harvard.edu/abs/2024eas..conf..372P/abstract) Padawer-Blatt, A.; Hough, R.; Shao, Z.; et al. 2024, EAS2024, 372P
 
 *16.* [Artificial intelligence applications in The Three Hundred Simulation project](https://ui.adsabs.harvard.edu/abs/2024eas..conf.2388D/abstract) de Andres Hernandez, D.; Yepes, G.; Cui, W.; De Petris, M., 2024, EAS2024, 2388D
 
