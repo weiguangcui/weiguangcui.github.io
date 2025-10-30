@@ -19,7 +19,10 @@ title: Publications
 
 -----
 
-<center><strong>--- 2025 (20 papers) ---</strong></center>
+<center><strong>--- 2025 (22 papers) ---</strong></center>
+*138* [Comparing XRISM cluster velocity dispersions with predictions from cosmological simulations: are feedback models too ejective?](https://ui.adsabs.harvard.edu/abs/2025arXiv251006322X/abstract) XRISM Collaboration; 2025, ApJ Letters, in press
+
+*137* [The Three Hundred Project: Modeling baryon and hot-gas fraction evolution in simulated clusters](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.182R/abstract) Rasia, E.; Tripodi, R.; Borgani, S.; Biffi, V. et al. 2025, A&A, 702, 182R
 
 *136* [Investigating the residuals in the $M_\bullet-M_*$ relation using the SIMBA cosmological simulation](https://ui.adsabs.harvard.edu/abs/2025arXiv250804413M/abstract) Ma, W.; **Cui, W.**; Davé, R.; et al. 2025, A&A, in press
 
