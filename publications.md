@@ -15,16 +15,19 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
-*First author papers: 19;  second author papers: 15;  third+fourth author papers: 33*
+*First author papers: 19;  second author papers: 15;  third+fourth author papers: 34*
 
 -----
 
-<center><strong>--- 2025 (22 papers) ---</strong></center>
-*138* [Comparing XRISM cluster velocity dispersions with predictions from cosmological simulations: are feedback models too ejective?](https://ui.adsabs.harvard.edu/abs/2025arXiv251006322X/abstract) XRISM Collaboration; 2025, ApJ Letters, in press
+<center><strong>--- 2025 (23 papers) ---</strong></center>
+
+*139* [The origin of the intracluster light in The Three Hundred simulations](https://ui.adsabs.harvard.edu/abs/2025A%26A...703A..85C/abstract) Contreras-Santos, A.; Knebe, A.; **Cui, W.**; Alonso Asensio, I.; Dalla Vecchia, C.; et al. 2025, A&A, 703, 85C
+
+*138* [Comparing XRISM cluster velocity dispersions with predictions from cosmological simulations: are feedback models too ejective?](https://ui.adsabs.harvard.edu/abs/2025ApJ...993L..11X/abstract) XRISM Collaboration; 2025, ApJ letter, 993L, 11X
 
 *137* [The Three Hundred Project: Modeling baryon and hot-gas fraction evolution in simulated clusters](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.182R/abstract) Rasia, E.; Tripodi, R.; Borgani, S.; Biffi, V. et al. 2025, A&A, 702, 182R
 
-*136* [Investigating the residuals in the $M_\bullet-M_*$ relation using the SIMBA cosmological simulation](https://ui.adsabs.harvard.edu/abs/2025arXiv250804413M/abstract) Ma, W.; **Cui, W.**; Davé, R.; et al. 2025, A&A, in press
+*136* [Investigating the residuals in the $M_\bullet-M_*$ relation using the SIMBA cosmological simulation](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.221M/abstract) Ma, W.; **Cui, W.**; Davé, R.; et al. 2025, A&A, 702, 221M
 
 *135* [Constraining the neutrino mass with the CSST galaxy clusters](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112f3506C/abstract) Chen, M.; Fang, W.; Zhang, Y.; Wen, Z.; **Cui, W.**; et al. 2025, Phys. Rev. D, 112, 063506C
 
