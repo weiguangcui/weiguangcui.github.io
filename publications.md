@@ -15,11 +15,19 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
-*First author papers: 19;  second author papers: 15;  third+fourth author papers: 34*
+*First author papers: 19;  second author papers: 15;  third+fourth author papers: 36*
 
 -----
 
-<center><strong>--- 2025 (23 papers) ---</strong></center>
+<center><strong>--- 2026 (1 paper) ---</strong></center>
+
+*142* [Populating Galaxies into haloes via machine learning on the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2096D/abstract) Das, P. K.; Davé, R.; **Cui, W.**. 2026, MNRAS, 545, f2096D
+
+<center><strong>--- 2025 (25 papers) ---</strong></center>
+
+*141* [The Cosmic Dance: Observational Detection of Coherent Spin in Galaxy Clusters](https://ui.adsabs.harvard.edu/abs/2025ApJ...995L...9T/abstract) Tang, X.; Wang, P.; Rong, Y.; **Cui, W.**; Bao, M.; 2025, ApJ letter, 995L, 9T
+
+*140* [Deriving accurate galaxy cluster masses using X-ray thermodynamic profiles and graph neural networks](https://ui.adsabs.harvard.edu/abs/2025A%26A...704A.334I/abstract) Iqbal, A.; Majumdar, S.; Rasia, E.; et al. 2025, A&A, 704, 334I
 
 *139* [The origin of the intracluster light in The Three Hundred simulations](https://ui.adsabs.harvard.edu/abs/2025A%26A...703A..85C/abstract) Contreras-Santos, A.; Knebe, A.; **Cui, W.**; Alonso Asensio, I.; Dalla Vecchia, C.; et al. 2025, A&A, 703, 85C
 
