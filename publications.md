@@ -19,7 +19,15 @@ title: Publications
 
 -----
 
-<center><strong>--- 2026 (1 paper) ---</strong></center>
+<center><strong>--- 2026 (5 papers) ---</strong></center>
+
+*146* [Intracluster light as a dark matter tracer: how their spatial and kinematic relationship is shaped by satellite demographics](https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag649M/abstract) Martin, G.; Pearce, F. R.; Hatch, N. A.; Brown, H. J.; Butler, J.; Bahé, Y. M.; **Cui, W.**; Dubois, Y.; Knebe, A. 2026, MNRAS, 548, a649M   
+
+*145* [Galaxy cluster temperature maps from joint X-ray and tSZ maps with The Three Hundred hydrodynamical simulations](https://ui.adsabs.harvard.edu/abs/2026A%26A...710A...2W/abstract) Wicker, R.; De Petris, M.; Ferragamo, A.; Bartalucci, I.; Yepes, G.; Rasia, E.; Adam, R.; **Cui, W.**; Mayet, F.; Perotto, L.; Muñoz-Echeverría, M.  2026, A&A, 710, 2W   
+
+*144* [The impact of strong feedback on galaxy group scaling relations](https://ui.adsabs.harvard.edu/abs/2026A%26A...709L...4E/abstract) Eckert, D.; Seppi, R.; Braspenning, J.; Finoguenov, A.; et al. 2026, A&A, 709L, 4E
+
+*143* [The Three Hundred Project: deducing the stellar splashback structure of galaxy clusters from their orbiting profiles](https://ui.adsabs.harvard.edu/abs/2026MNRAS.547ag357W/abstract) Walker, K.; Ludlow, A.; Power, C.;  Knebe, A.; **Cui, W.**; et al. 2026, MNRAS, 547, a357W
 
 *142* [Populating Galaxies into haloes via machine learning on the SIMBA simulation](https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2096D/abstract) Das, P. K.; Davé, R.; **Cui, W.**. 2026, MNRAS, 545, f2096D
 
