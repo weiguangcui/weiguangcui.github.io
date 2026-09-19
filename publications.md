@@ -15,11 +15,18 @@ title: Publications
 
 ### Journal Publications (in reversed chronological order, first and corresponding author papers are marked with \*):
 
-*First author papers: 19;  second author papers: 15;  third+fourth author papers: 36*
+*First author papers: 19;  second author papers: 16;  third+fourth author papers: 38*
 
 -----
 
-<center><strong>--- 2026 (5 papers) ---</strong></center>
+<center><strong>--- 2026 (9 papers) ---</strong></center>
+*150* [Intracluster light and dark matter halo shapes reflect common assembly, not mutual coupling: shape correspondence in CDM but not SIDM](https://ui.adsabs.harvard.edu/abs/2026MNRAS.551g1423M/abstract) Martin, G.; Hatch, N. A.; **Cui, W.**; Fernandez, A.; et al. 2026, MNRAS, 551, 1423M
+
+*149* [A consistent comparison of intracluster light assembly in simulations I. Redshift evolution and progenitor galaxies](https://ui.adsabs.harvard.edu/abs/2026MNRAS.551g1172B/abstract) Brown, H. J.; Martin, G.; Pearce, F. R.; Bahé, Y. M.; et al. 2026, MNRAS, 551, 1172B
+
+*148* [Black Hole─Galaxy Correlations in Cluster Zoomed-in Simulations: GIZMO-SIMBA and TNG-Cluster](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008...80Z/abstract) Zhang, Z.; **Cui, W.**; Chen, Y.; Davé, R.; Kraljic, K. 2026, ApJ, 1008, 80Z
+
+*147* [Black Hole─Galaxy Correlations in Cluster Zoomed-in Simulations: GIZMO-SIMBA and TNG-Cluster](https://ui.adsabs.harvard.edu/abs/2026ApJ..1007...83P/abstract) Pu, H.; Katsianis, A.; **Cui, W.**; Davé, R.; et al. 2026, ApJ, 1007, 83P
 
 *146* [Intracluster light as a dark matter tracer: how their spatial and kinematic relationship is shaped by satellite demographics](https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag649M/abstract) Martin, G.; Pearce, F. R.; Hatch, N. A.; Brown, H. J.; Butler, J.; Bahé, Y. M.; **Cui, W.**; Dubois, Y.; Knebe, A. 2026, MNRAS, 548, a649M   
 
