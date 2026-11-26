@@ -19,20 +19,22 @@ title: Publications
 
 -----
 
-<center><strong>--- 2026 (14 papers) ---</strong></center>
-*155* [Precise Deep-Learning Reconstruction of Galaxy Cluster Mass Maps and Substructures from Optical Observations](https://scixplorer.org/abs/2026arXiv261118487S/abstract), Srivastava, A.; **Cui, W.**; de Andres, D.; et al. 2026, A&A, in press
+<center><strong>--- 2026 (15 papers) ---</strong></center>
+*156* [Precise Deep-Learning Reconstruction of Galaxy Cluster Mass Maps and Substructures from Optical Observations](https://scixplorer.org/abs/2026arXiv261118487S/abstract), Srivastava, A.; **Cui, W.**; de Andres, D.; et al. 2026, A&A, in press
 
-*154* [Disentangling the assembly of the central and diffuse stellar components in galaxy clusters through dynamical friction and tidal stripping](https://scixplorer.org/abs/2026MNRAS.552g1912P/abstract) Pearce, F.R.; Bamford, S.P.; Martin, G.; Bahé, Y.M.; et al. 2026, MNRAS, 552, g1912P
+*155* [Disentangling the assembly of the central and diffuse stellar components in galaxy clusters through dynamical friction and tidal stripping](https://scixplorer.org/abs/2026MNRAS.552g1912P/abstract) Pearce, F.R.; Bamford, S.P.; Martin, G.; Bahé, Y.M.; et al. 2026, MNRAS, 552, g1912P
 
-*153* [A possible detection of gas rotation in galaxy groups via the kinetic Sunyaev-Zeldovich effect](https://scixplorer.org/abs/2026MNRAS.553g1943Y/abstract) Yang, T.; Cai, Y.-C.; **Cui, W.**; Peacock, J. A.; et al. 2026, MNRAS, 553, 1943Y
+*154* [A possible detection of gas rotation in galaxy groups via the kinetic Sunyaev-Zeldovich effect](https://scixplorer.org/abs/2026MNRAS.553g1943Y/abstract) Yang, T.; Cai, Y.-C.; **Cui, W.**; Peacock, J. A.; et al. 2026, MNRAS, 553, 1943Y
 
-*152* [The Three Hundred Project: Validating H0 inference from mock X-ray and millimetre analyses of galaxy clusters](https://scixplorer.org/abs/2026A%26A...713A.169D/abstract) De Luca, F.; Bourdin, H.; Mazzotta, P.; Rasia, E.; Kozmanyan, A.; **Cui, W.**; et al. 2026, A&A, 713, 169D
+*153* [The Three Hundred Project: Validating H0 inference from mock X-ray and millimetre analyses of galaxy clusters](https://scixplorer.org/abs/2026A%26A...713A.169D/abstract) De Luca, F.; Bourdin, H.; Mazzotta, P.; Rasia, E.; Kozmanyan, A.; **Cui, W.**; et al. 2026, A&A, 713, 169D
 
-*151* [THE THREE HUNDRED project: Cosmic web identification from 2D gas and Compton-y maps of galaxy clusters outskirts](https://scixplorer.org/abs/2026A%26A...714A.255S/abstract) Santoni, S.; De Petris, M.; Yepes, G.; **Cui, W.**; et al. 2026, A&A, 714, 255S
+*152* [THE THREE HUNDRED project: Cosmic web identification from 2D gas and Compton-y maps of galaxy clusters outskirts](https://scixplorer.org/abs/2026A%26A...714A.255S/abstract) Santoni, S.; De Petris, M.; Yepes, G.; **Cui, W.**; et al. 2026, A&A, 714, 255S
 
-*150* [Intracluster light and dark matter halo shapes reflect common assembly, not mutual coupling: shape correspondence in CDM but not SIDM](https://ui.adsabs.harvard.edu/abs/2026MNRAS.551g1423M/abstract) Martin, G.; Hatch, N. A.; **Cui, W.**; Fernandez, A.; et al. 2026, MNRAS, 551, 1423M
+*151* [Intracluster light and dark matter halo shapes reflect common assembly, not mutual coupling: shape correspondence in CDM but not SIDM](https://ui.adsabs.harvard.edu/abs/2026MNRAS.551g1423M/abstract) Martin, G.; Hatch, N. A.; **Cui, W.**; Fernandez, A.; et al. 2026, MNRAS, 551, 1423M
 
-*149* [A consistent comparison of intracluster light assembly in simulations I. Redshift evolution and progenitor galaxies](https://ui.adsabs.harvard.edu/abs/2026MNRAS.551g1172B/abstract) Brown, H. J.; Martin, G.; Pearce, F. R.; Bahé, Y. M.; et al. 2026, MNRAS, 551, 1172B
+*150* [A consistent comparison of intracluster light assembly in simulations I. Redshift evolution and progenitor galaxies](https://ui.adsabs.harvard.edu/abs/2026MNRAS.551g1172B/abstract) Brown, H. J.; Martin, G.; Pearce, F. R.; Bahé, Y. M.; et al. 2026, MNRAS, 551, 1172B
+
+*149* [The caustic method applied to The Three Hundred: Prospects for the upcoming CATARSIS and other surveys](https://scixplorer.org/abs/2026A%26A...712A..43C/abstract) Callejas-Córdoba, B.; Sánchez-Blázquez, P.; Gil de Paz, A.; Knebe, A.; **Cui, W.**; et al. 2026, A&A, 712, 43C
 
 *148* [Black Hole─Galaxy Correlations in Cluster Zoomed-in Simulations: GIZMO-SIMBA and TNG-Cluster](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008...80Z/abstract) Zhang, Z.; **Cui, W.**; Chen, Y.; Davé, R.; Kraljic, K. 2026, ApJ, 1008, 80Z
 
